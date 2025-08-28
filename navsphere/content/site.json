@@ -6,7 +6,7 @@
   },
   "appearance": {
     "logo": "/assets/images/avatar_1MB_900x900.png",
-    "favicon": "/assets/images/favicon.png",
+    "favicon": "/assets/images/avatar_1MB_900x900.png",
     "theme": "system"
   }
 }
