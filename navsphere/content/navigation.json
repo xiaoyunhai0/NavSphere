@@ -38,14 +38,6 @@
               "enabled": true
             },
             {
-              "id": "1_1_4",
-              "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-              "href": "https://www.bilibili.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bilibili.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "1_1_5",
               "title": "api1 – Google Cloud 控制台",
               "href": "https://console.cloud.google.com/welcome?project=gen-lang-client-0678646365",
@@ -74,13 +66,13 @@
               "title": "Bing",
               "href": "https://www.bing.com/?FORM=Z9FD1",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bing.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.bing.com&sz=64",
               "enabled": true
             },
             {
               "id": "1_1_9",
               "title": "CHZUOJ",
-              "href": "http://210.45.160.108/;jsessionid=737A79512B29B732C5F7881E339AD99C",
+              "href": "http://210.45.160.108/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=210.45.160.108&sz=64",
               "enabled": true
@@ -90,7 +82,7 @@
               "title": "(2条消息) CSDN - 专业开发者社区",
               "href": "https://www.csdn.net/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=csdn.net&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.csdn.net&sz=64",
               "enabled": true
             },
             {
@@ -122,7 +114,7 @@
               "title": "易班优课",
               "href": "https://www.yooc.me/mobile/dashboard/my_group",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yooc.me&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yooc.me&sz=64",
               "enabled": true
             },
             {
@@ -138,7 +130,7 @@
               "title": "KOOK",
               "href": "https://www.kookapp.cn/app/channels/3789664136418340/4972924590592942",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=kookapp.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.kookapp.cn&sz=64",
               "enabled": true
             },
             {
@@ -162,7 +154,7 @@
               "title": "mi.com/service/notebook/drivers/A11",
               "href": "https://www.mi.com/service/notebook/drivers/A11",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mi.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.mi.com&sz=64",
               "enabled": true
             },
             {
@@ -171,38 +163,6 @@
               "href": "https://developer.huawei.com/consumer/cn/training/dev-cert-detail/101684223987951077",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=developer.huawei.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_21",
-              "title": "ProcessOn - 我的文件",
-              "href": "https://www.processon.com/diagrams",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=processon.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_22",
-              "title": "在线教育平台的系统关联图2-ProcessOn",
-              "href": "https://www.processon.com/diagraming/66fb97a7da38ea3e04a17387",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=processon.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_23",
-              "title": "Untitled - dbdiagram.io",
-              "href": "https://dbdiagram.io/d",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dbdiagram.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_24",
-              "title": "PlantUML Web Server",
-              "href": "https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700003",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=plantuml.com&sz=64",
               "enabled": true
             },
             {
@@ -218,7 +178,7 @@
               "title": "工作台 · 语雀",
               "href": "https://www.yuque.com/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yuque.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yuque.com&sz=64",
               "enabled": true
             },
             {
@@ -261,7 +221,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=markdown.com.cn&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "1_2",
@@ -295,22 +256,6 @@
               "enabled": true
             },
             {
-              "id": "1_2_4",
-              "title": "1085话 奈菲尔塔利.寇布拉之死 - ACG和谐漫画",
-              "href": "https://acgzone.lianaimh.com/manhua/haizeiwang/2188009.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=acgzone.lianaimh.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_2_5",
-              "title": "Online FlowChart & Diagrams Editor - Mermaid Live Editor",
-              "href": "https://mermaid.live/edit#pako:eNpVkU1vgzAMhv9K5NMm0YqvFshh0kq3Xjpt0noa9GBBaKKVBIWgrgP--1KqSp1Ptt_Hryy7h0KVDChUR3UqOGpDdutcEhvPWcq1aE2N7Z7MZk_DhhlSK8nOA1k9bBRpuWoaIQ-PV351gUjaby8YI4YL-T1epXSaf5dsIOtsi41Rzf5e2Z3UQF4y8cGt_X-Fa2anXrMKaYWzAjVJUU8IOFAzXaMo7fr9pZOD4axmOVCblqzC7mhyyOVoUeyM-jzLAqjRHXNAq-7AwXoeW1t1TYmGrQUeNNY3pEH5pdR9CbSHH6CRN1_Ggev6SRD4XrJcOHAG6vnu3PPjKF5GQZQkrheMDvxOBt48WCzCOIz80A1DK8YOsFIYpd-u15-eMP4BSjJ5mg",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mermaid.live&sz=64",
-              "enabled": true
-            },
-            {
               "id": "1_2_6",
               "title": "DeepSeek - 探索未至之境",
               "href": "https://chat.deepseek.com/",
@@ -326,7 +271,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "1_3",
@@ -338,7 +284,7 @@
             {
               "id": "1_3_1",
               "title": "课程",
-              "href": "https://mooc2-ans.chaoxing.com/mooc2-ans/visit/interaction?moocDomain=https://mooc1-1.chaoxing.com/mooc-ans",
+              "href": "https://mooc2-ans.chaoxing.com/mooc2-ans/visit/interaction?moocDomain=https%3A%2F%2Fmooc1-1.chaoxing.com%2Fmooc-ans",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=mooc2-ans.chaoxing.com&sz=64",
               "enabled": true
@@ -346,7 +292,7 @@
             {
               "id": "1_3_2",
               "title": "CHZUOJ",
-              "href": "https://webvpn.chzu.edu.cn/http/webvpn3231302e34352e3136302e313038?domain=chzu&verify=52470:chzu_pc_6442405fe956f_4f78b5066c9e2d607cedd6a3221bb74d&from=pc",
+              "href": "https://webvpn.chzu.edu.cn/http/webvpn3231302e34352e3136302e313038?domain=chzu&verify=52470%3Achzu_pc_6442405fe956f_4f78b5066c9e2d607cedd6a3221bb74d&from=pc",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=webvpn.chzu.edu.cn&sz=64",
               "enabled": true
@@ -372,7 +318,7 @@
               "title": "滁州学院",
               "href": "https://www.chzu.edu.cn/main.htm",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chzu.edu.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.chzu.edu.cn&sz=64",
               "enabled": true
             },
             {
@@ -407,7 +353,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=hzzh.chsi.com.cn&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "1_5",
@@ -437,7 +384,7 @@
               "title": "域名",
               "href": "https://www.spaceship.com/zh/domains/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=spaceship.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.spaceship.com&sz=64",
               "enabled": true
             },
             {
@@ -445,7 +392,7 @@
               "title": "域名管理器应用程序 - Spaceship",
               "href": "https://www.spaceship.com/zh/application/domain-list-application/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=spaceship.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.spaceship.com&sz=64",
               "enabled": true
             },
             {
@@ -469,7 +416,7 @@
               "title": "哪煮米 - 全网域名,一站比价",
               "href": "https://www.nazhumi.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=nazhumi.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.nazhumi.com&sz=64",
               "enabled": true
             },
             {
@@ -514,7 +461,7 @@
             },
             {
               "id": "1_5_13",
-              "title": "Fix bash detection failure in VS Code Codex extension on Windows under certain conditions by axojhf · Pull Request #3421 · openai/codex",
+              "title": "Fix bash detection failure in VS Code Codex extension on Windows under certai...",
               "href": "https://github.com/openai/codex/pull/3421",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
@@ -525,7 +472,7 @@
               "title": "WINNAS轻松搭：SillyTavern（酒馆）从入门到精通 – 梦雨玲音",
               "href": "https://www.rainlain.com/index.php/2024/11/19/2645/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=rainlain.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.rainlain.com&sz=64",
               "enabled": true
             },
             {
@@ -533,7 +480,7 @@
               "title": "在线Ping_多地Ping_多线路Ping_持续Ping_TCPTest",
               "href": "https://www.tcptest.cn/ping",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=tcptest.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.tcptest.cn&sz=64",
               "enabled": true
             },
             {
@@ -552,7 +499,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=cloudflare.chuhai.tools&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         }
       ],
       "description": "",
@@ -571,14 +519,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "2_1_1",
-              "title": "GPT自助充值-安全快捷方便！",
-              "href": "https://www.chonggpt.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chonggpt.com&sz=64",
-              "enabled": true
-            },
             {
               "id": "2_1_2",
               "title": "Stable Diffusion Online",
@@ -600,15 +540,15 @@
               "title": "沃尔夫拉姆|阿尔法：计算智能",
               "href": "https://www.wolframalpha.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=wolframalpha.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.wolframalpha.com&sz=64",
               "enabled": true
             },
             {
               "id": "2_1_5",
-              "title": "ChatGPT Shortcut - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts | Tag filtering, keyword search, and one-click copy prompts",
+              "title": "ChatGPT Shortcut",
               "href": "https://www.aishort.top/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aishort.top&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.aishort.top&sz=64",
               "enabled": true
             },
             {
@@ -616,15 +556,7 @@
               "title": "恢复照片 - PhotoRestore.io",
               "href": "https://www.photorestore.io/quality",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=photorestore.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_7",
-              "title": "FOME派伊",
-              "href": "https://gpt.fomepay.com/#/pages/cards/index",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gpt.fomepay.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.photorestore.io&sz=64",
               "enabled": true
             },
             {
@@ -652,14 +584,6 @@
               "enabled": true
             },
             {
-              "id": "2_1_11",
-              "title": "FOMEPay",
-              "href": "https://gpt.fomepay.com/#/pages/index/index",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gpt.fomepay.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "2_1_12",
               "title": "Hugging Face – The AI community building the future.",
               "href": "https://huggingface.co/",
@@ -672,7 +596,7 @@
               "title": "首页 - Chiphell - 分享与交流用户体验",
               "href": "https://www.chiphell.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chiphell.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.chiphell.com&sz=64",
               "enabled": true
             },
             {
@@ -680,7 +604,7 @@
               "title": "Generating Worlds",
               "href": "https://www.worldlabs.ai/blog",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=worldlabs.ai&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.worldlabs.ai&sz=64",
               "enabled": true
             },
             {
@@ -689,22 +613,6 @@
               "href": "https://openai.com/api/pricing/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_16",
-              "title": "人工智障 Plus 充值系统",
-              "href": "https://pluscz.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pluscz.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_17",
-              "title": "主页 | 梓澪の妙妙屋 | 免费Galgame仓库&下载站",
-              "href": "https://zi0.cc/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zi0.cc&sz=64",
               "enabled": true
             },
             {
@@ -728,7 +636,7 @@
               "title": "Perplexity Discover",
               "href": "https://www.perplexity.ai/discover",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64",
               "enabled": true
             },
             {
@@ -736,7 +644,7 @@
               "title": "(1) 主页",
               "href": "https://www.notion.so/bc3735a5c9c4471eb2fd717e1c318d9f",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=notion.so&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.notion.so&sz=64",
               "enabled": true
             },
             {
@@ -752,7 +660,7 @@
               "title": "Your Novel Writing Toolbox - Novelcrafter",
               "href": "https://www.novelcrafter.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=novelcrafter.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.novelcrafter.com&sz=64",
               "enabled": true
             },
             {
@@ -814,7 +722,7 @@
             {
               "id": "2_1_31",
               "title": "宾夕法尼亚州立大学账户管理 --- Penn State Account Management",
-              "href": "https://accounts.psu.edu/create/new?redirectUrl=https:%2F%2Fmypennstate.psu.edu%2Findex.cfm%2Faccounts%2Fcreatereturnnew&referrerName=mpscreate",
+              "href": "https://accounts.psu.edu/create/new?redirectUrl=https%3A%2F%2Fmypennstate.psu.edu%2Findex.cfm%2Faccounts%2Fcreatereturnnew&referrerName=mpscreate",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=accounts.psu.edu&sz=64",
               "enabled": true
@@ -848,7 +756,7 @@
               "title": "ChatGPT K12教师身份认证实用攻略，快速秒过认证技巧",
               "href": "https://www.azx.us/posts/638",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=azx.us&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.azx.us&sz=64",
               "enabled": true
             },
             {
@@ -869,10 +777,10 @@
             },
             {
               "id": "2_1_38",
-              "title": "Pasti Mampu: Lowest 5G Internet Plans for Postpaid and Prepaid | Hotlink Malaysia",
+              "title": "Pasti Mampu: Lowest 5G Internet Plans for Postpaid and Prepaid",
               "href": "https://www.hotlink.com.my/en/home/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=hotlink.com.my&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.hotlink.com.my&sz=64",
               "enabled": true
             },
             {
@@ -896,7 +804,7 @@
               "title": "军人认证全攻略 快速通过 SheerID 退伍军人认证",
               "href": "https://www.azx.us/posts/656",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=azx.us&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.azx.us&sz=64",
               "enabled": true
             },
             {
@@ -912,7 +820,7 @@
               "title": "过美君认证免费获取ChatGPT Plus会员12个月！过认证教程",
               "href": "https://www.notion.so/ChatGPT-Plus-12-2d2940ddf46d80e2bd72e627bee38f9c",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=notion.so&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.notion.so&sz=64",
               "enabled": true
             },
             {
@@ -925,29 +833,38 @@
             },
             {
               "id": "2_1_45",
-              "title": "Unity 游戏开发代理 - Claude 代码模板 --- Unity Game Developer Agent - Claude Code Templates",
+              "title": "Unity 游戏开发代理",
               "href": "https://www.aitmpl.com/component/agent/unity-game-developer",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aitmpl.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.aitmpl.com&sz=64",
               "enabled": true
             },
             {
               "id": "2_1_46",
-              "title": "Claude 代码模板——用 Anthropic 的 Claude 代码强化你的 AI 驱动开发 --- Claude Code Templates - Supercharge Your AI-Powered Development with Anthropic's Claude Code",
+              "title": "Claude 代码模板——用 Anthropic 的 Claude 代码强化你的 AI 驱动开发 --- Claude Code Templates",
               "href": "https://www.aitmpl.com/agents",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aitmpl.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.aitmpl.com&sz=64",
               "enabled": true
             },
             {
               "id": "2_1_47",
-              "title": "LMArena 排行榜 |比较与基准测试最佳前沿 AI 模型 --- LMArena Leaderboard | Compare & Benchmark the Best Frontier AI Models",
+              "title": "LMArena 排行榜 |比较与基准测试最佳前沿 AI 模型 --- LMArena Leaderboard",
               "href": "https://lmarena.ai/zh/leaderboard/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=lmarena.ai&sz=64",
               "enabled": true
+            },
+            {
+              "id": "3_2_11",
+              "title": "‎Bard - Google 推出的对话式 AI 工具，由 PaLM 2 技术驱动",
+              "href": "https://bard.google.com/?pli=1",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=bard.google.com&sz=64",
+              "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "2_2",
@@ -964,7 +881,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=docs.claude.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "2_3",
@@ -1034,7 +952,7 @@
               "title": "Claude Code中国站 - 管理后台",
               "href": "https://www.88code.org/user-dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=88code.org&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.88code.org&sz=64",
               "enabled": true
             },
             {
@@ -1050,7 +968,7 @@
               "title": "PackyCode - AI-Powered Code Assistant",
               "href": "https://www.packycode.com/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=packycode.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.packycode.com&sz=64",
               "enabled": true
             },
             {
@@ -1138,7 +1056,7 @@
               "title": "Gala API",
               "href": "https://www.galaapi.com/pricing",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=galaapi.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.galaapi.com&sz=64",
               "enabled": true
             },
             {
@@ -1413,7 +1331,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=home.moleapi.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "2_6",
@@ -1424,7 +1343,7 @@
           "items": [
             {
               "id": "2_6_1",
-              "title": "如何解决ChatGPT4变笨了、被降智了的方法分享，教你怎么解决ChatGPT降智问题！ | 注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网",
+              "title": "如何解决ChatGPT4变笨了、被降智了的方法分享，教你怎么解决ChatGPT降智问题！",
               "href": "https://openssora.com/how-solve-chatgpt-degrade/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=openssora.com&sz=64",
@@ -1494,7 +1413,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=laowangblog.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "2_7",
@@ -1511,7 +1431,990 @@
               "icon": "https://www.google.com/s2/favicons?domain=mcp-docs.cn&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "2_4877",
+          "title": "AI 图像/创作",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_7",
+              "title": "Midjourney",
+              "href": "https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.midjourney.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "title": "开发与编程",
+      "icon": "Code",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "6_1",
+          "title": "代码托管与协作",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "6_1_1",
+              "title": "GitHub",
+              "href": "https://github.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_1_2",
+              "title": "GitHub Education",
+              "href": "https://education.github.com/globalcampus/student",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=education.github.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_1_3",
+              "title": "工作台 - Gitee.com",
+              "href": "https://gitee.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=gitee.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "6_2",
+          "title": "刷题/OJ",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "6_2_1",
+              "title": "牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网",
+              "href": "https://www.nowcoder.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.nowcoder.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_2_2",
+              "title": "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台",
+              "href": "https://leetcode.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=leetcode.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_2_3",
+              "title": "代码强制",
+              "href": "https://codeforces.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=codeforces.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "6_3",
+          "title": "文档/教程/速查",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "6_3_1",
+              "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+              "href": "https://www.runoob.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.runoob.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "6_4",
+          "title": "技术社区/博客",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "6_4_1",
+              "title": "学习C++ – 通过我们的免费教程提高技能",
+              "href": "https://www.learncpp.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.learncpp.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_2",
+              "title": "PTA | 程序设计类实验辅助教学平台",
+              "href": "https://pintia.cn/home",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=pintia.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_3",
+              "title": "HTML 系列教程",
+              "href": "https://www.w3school.com.cn/h.asp",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.w3school.com.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_4",
+              "title": "W3C 简介",
+              "href": "https://www.w3school.com.cn/w3c/w3c_intro.asp",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.w3school.com.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_5",
+              "title": "CS 61A 2020 年秋季",
+              "href": "https://inst.eecs.berkeley.edu/~cs61a/fa20/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=inst.eecs.berkeley.edu&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_6",
+              "title": "头歌实践教学平台",
+              "href": "https://trustie.educoder.net/users/pebxzq6lj/classrooms",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=trustie.educoder.net&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_7",
+              "title": "JetBrains：软件开发人员和团队的基本工具",
+              "href": "https://www.jetbrains.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_8",
+              "title": "Home - Replit",
+              "href": "https://replit.com/~",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=replit.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_9",
+              "title": "码市 - 互联网软件外包服务平台",
+              "href": "https://codemart.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=codemart.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_10",
+              "title": "开源众包-百万开发者,为您提供专业的软件开发服务",
+              "href": "https://zb.oschina.net/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=zb.oschina.net&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_11",
+              "title": "程序员客栈-领先的程序员自由远程工作平台",
+              "href": "https://www.proginn.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.proginn.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_12",
+              "title": "可信赖的软件外包服务 | 英选，用优秀的人，做优秀的产品",
+              "href": "https://www.yingxuan.co/?ref=www.codernav.cn",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yingxuan.co&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_13",
+              "title": "开发邦 - 互联网软件定制开发与软件外包开发服务",
+              "href": "https://www.kaifabang.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.kaifabang.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_14",
+              "title": "兼职程序员_程序员接私活_程序员兼职|外包平台-猿急送",
+              "href": "https://www.yuanjisong.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yuanjisong.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_4_15",
+              "title": "人人开发 - 集可视化开发，应用市场，威客众包，PaaS云于一体的企业级应用服务平台",
+              "href": "http://rrkf.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=rrkf.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "6_6",
+          "title": "开发工具/资源站",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "6_6_1",
+              "title": "Greasy Fork - 安全、实用的用户脚本大全",
+              "href": "https://greasyfork.org/zh-CN/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_2",
+              "title": "Greasy Fork - 安全、实用的用户脚本大全",
+              "href": "https://greasyfork.org/zh-CN",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_3",
+              "title": "用户脚本",
+              "href": "https://greasyfork.org/zh-CN/scripts",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_4",
+              "title": "Tbox导航 | 只收录优质在线工具的导航网站",
+              "href": "https://www.tboxn.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.tboxn.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_5",
+              "title": "超棒壁纸 - wallhaven.cc",
+              "href": "https://wallhaven.cc/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=wallhaven.cc&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_6",
+              "title": "软仓丨RuanCang.Net",
+              "href": "https://ruancang.net/#/sim",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=ruancang.net&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_7",
+              "title": "And Color Pro- 首页纵览",
+              "href": "https://coor.ooxox.cn/#/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=coor.ooxox.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_8",
+              "title": "用户脚本",
+              "href": "https://sleazyfork.org/zh-CN/scripts?sort=total_installs",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=sleazyfork.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_9",
+              "title": "Chrome 应用商店 - aiprm for chatgpt",
+              "href": "https://chrome.google.com/webstore/search/aiprm%20for%20chatgpt",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=chrome.google.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_10",
+              "title": "GitHub Dashboard",
+              "href": "https://github.com/dashboard",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_11",
+              "title": "BoyceLig/Clash_Chinese_Patch: Clash For Windows 汉化补丁和汉化脚本",
+              "href": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_12",
+              "title": "官方高级驱动搜索 | NVIDIA",
+              "href": "https://www.nvidia.cn/Download/Find.aspx?lang=cn",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.nvidia.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_13",
+              "title": "Getting Started",
+              "href": "https://www.notion.so/Getting-Started-f14c07d5fb364eeaac2a1a8394d0ba79",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.notion.so&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_14",
+              "title": "CloudConvert",
+              "href": "https://cloudconvert.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=cloudconvert.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_15",
+              "title": "站长之家 - 站长资讯-我们致力于为中文网站提供动力！",
+              "href": "https://www.chinaz.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.chinaz.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_16",
+              "title": "音乐搜索器 - 多站合一音乐搜索,音乐在线试听",
+              "href": "https://music.haom.ren/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=music.haom.ren&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_17",
+              "title": "首页 | 高德控制台",
+              "href": "https://console.amap.com/dev/index",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=console.amap.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_18",
+              "title": "AIGC工具导航 | 生成式人工智能GAI - AI应用工具导航平台！",
+              "href": "https://www.aigc.cn/#term-2494",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.aigc.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_19",
+              "title": "二维码美化 二维码模板 在线二维码生成器 | 美化码",
+              "href": "https://www.meihuama.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.meihuama.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_20",
+              "title": "文章封面生成器",
+              "href": "https://cover.zippic.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=cover.zippic.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_21",
+              "title": "Word 转 Markdown 在线转换器 | 快速、安全、无需上传",
+              "href": "https://www.word2md.net/zh",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.word2md.net&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_22",
+              "title": "Visit xian_kuang's Shop!",
+              "href": "https://ko-fi.com/xkxiankuang/shop",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=ko-fi.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "8",
+      "title": "可视化与建模",
+      "icon": "Workflow",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "8_1",
+          "title": "流程图/架构图",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "8_1_1",
+              "title": "阿发你好官网 | 游戏、建模、编程视频教程",
+              "href": "https://afanihao.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=afanihao.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "8_1_2",
+              "title": "Buy Royalty Free 3D models - Sketchfab Store",
+              "href": "https://sketchfab.com/store",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=sketchfab.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "8_1_3",
+              "title": "专业人士的3D模型 ：： TurboSquid",
+              "href": "https://www.turbosquid.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.turbosquid.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "8_8963",
+          "title": "流程图/图表工具",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "1_2_5",
+              "title": "Online FlowChart & Diagrams Editor - Mermaid Live Editor",
+              "href": "https://mermaid.live/edit#pako:eNpVkU1vgzAMhv9K5NMm0YqvFshh0kq3Xjpt0noa9GBBaKKVBIWgrgP--1KqSp1Ptt_Hryy7h0KVDChUR3UqOGpDdutcEhvPWcq1aE2N7Z7MZk_DhhlSK8nOA1k9bBRpuWoaIQ-PV351gUjaby8YI4YL-T1epXSaf5dsIOtsi41Rzf5e2Z3UQF4y8cGt_X-Fa2anXrMKaYWzAjVJUU8IOFAzXaMo7fr9pZOD4axmOVCblqzC7mhyyOVoUeyM-jzLAqjRHXNAq-7AwXoeW1t1TYmGrQUeNNY3pEH5pdR9CbSHH6CRN1_Ggev6SRD4XrJcOHAG6vnu3PPjKF5GQZQkrheMDvxOBt48WCzCOIz80A1DK8YOsFIYpd-u15-eMP4BSjJ5mg",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=mermaid.live&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_1_21",
+              "title": "ProcessOn - 我的文件",
+              "href": "https://www.processon.com/diagrams",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.processon.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_1_22",
+              "title": "在线教育平台的系统关联图2-ProcessOn",
+              "href": "https://www.processon.com/diagraming/66fb97a7da38ea3e04a17387",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.processon.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_1_23",
+              "title": "Untitled - dbdiagram.io",
+              "href": "https://dbdiagram.io/d",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=dbdiagram.io&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_1_24",
+              "title": "PlantUML Web Server",
+              "href": "https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700003",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.plantuml.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_11",
+              "title": "在线流程图和图表编辑器 - 美人鱼实时编辑器",
+              "href": "https://mermaid.live/edit#pako:eNpVjs1qw0AMhF9F6NRC_AI-FBq7zSXQQnPz5iBs2bvE-8NaSwi2373r-NLqJM18M2jG1neMJfajv7eaosClVg7yvDeVjmYSS9MViuJtObGA9Y4fCxxfTh4m7UMwbnjd-eMGQTWfN4xBtHG3dbeqZ_7L8QJ1c6YgPlz_Ope7X-CjMd861_93dOSc-mx6KnsqWopQUXwieEDL0ZLp8vvzpigUzZYVlnntuKc0ikLl1oxSEv_zcC2WEhMfMPo0aMyd45SvFDoSrg0NkeyOrL_WfFuF",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=mermaid.live&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "7",
+      "title": "办公与效率",
+      "icon": "Briefcase",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "7_2",
+          "title": "模板/PPT/办公资源",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "7_2_1",
+              "title": "PPT模板_PPT模版免费下载_免费PPT模板下载 -【第一PPT】",
+              "href": "https://www.1ppt.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.1ppt.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_2",
+              "title": "闪击PPT - 高效内容演示",
+              "href": "https://ppt.sankki.com/#/works",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=ppt.sankki.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_3",
+              "title": "PPT超级市场官网-PPT模板免费下载、最新PPT成品搜索",
+              "href": "https://www.pptsupermarket.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.pptsupermarket.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_4",
+              "title": "51PPT模板网 - 幻灯片演示模板及素材下载",
+              "href": "https://www.51pptmoban.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.51pptmoban.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_5",
+              "title": "PPT模板_PPT模板免费下载_免费PPT模板下载网站 -【PPT汇】",
+              "href": "https://www.ppthui.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.ppthui.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_6",
+              "title": "OfficePLUS- 让PPT制作更简单 | 微软官方打造的PPT制作一站式服务平台，助你摆脱办公焦虑",
+              "href": "https://www.officeplus.cn/Template/home.shtml",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.officeplus.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_7",
+              "title": "PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】",
+              "href": "https://www.ypppt.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.ypppt.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_8",
+              "title": "HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载",
+              "href": "http://www.hippter.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.hippter.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_9",
+              "title": "在线转换文档，图像，视频，音频文件",
+              "href": "https://www.aconvert.com/cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.aconvert.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_10",
+              "title": "Apache ECharts",
+              "href": "https://echarts.apache.org/zh/index.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=echarts.apache.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_12",
+              "title": "图片取色器/拾色器 | 菜鸟工具",
+              "href": "https://www.jyshare.com/front-end/6214/#73798c",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.jyshare.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_13",
+              "title": "全网素材免费解析下载-开发工具站",
+              "href": "https://tools1998.top/#/sucai",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=tools1998.top&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_2_14",
+              "title": "萝卜工坊_一键生成手写文稿_手写模拟器_手写字体在线转换_在线字体制作_手写APP下载_模仿手写软件_AI手写字体生成_手写字体生成器_字体下载",
+              "href": "https://www.beautifulcarrot.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.beautifulcarrot.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "7_25b1",
+          "title": "邮箱/账号",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_2",
+              "title": "(1) 收件箱 | xiaoyunhai@protonmail.com | Proton Mail",
+              "href": "https://mail.proton.me/u/0/inbox",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=mail.proton.me&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_3",
+              "title": "Free Email Addresses: Web based and secure Email - mail.com",
+              "href": "https://navigator-lxa.mail.com/mail",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=navigator-lxa.mail.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "5",
+      "title": "学习与校园",
+      "icon": "GraduationCap",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "5_1",
+          "title": "校园系统/教务/内网入口",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_1_1",
+              "title": "全国计算机等级考试（NCRE）成绩查询 - 中国教育考试网",
+              "href": "https://cjcx.neea.edu.cn/html1/folder/22014/5490-1.htm",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=cjcx.neea.edu.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_1_2",
+              "title": "欢迎 - Linux 101",
+              "href": "https://101.lug.ustc.edu.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=101.lug.ustc.edu.cn&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "5_2",
+          "title": "课程平台/慕课",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_2_1",
+              "title": "中国大学MOOC(慕课)_国家精品课程在线学习平台",
+              "href": "https://www.icourse163.org/?from=study",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.icourse163.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_2_2",
+              "title": "滁州学院",
+              "href": "https://i.mooc.chaoxing.com/space/index?t=1712895785302",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=i.mooc.chaoxing.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_2_3",
+              "title": "个人空间",
+              "href": "https://i.chaoxing.com/base?fid=467&wfworg=true&tid=0",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=i.chaoxing.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_2_4",
+              "title": "考试列表",
+              "href": "https://mooc1.chaoxing.com/exam-ans/exam/test/examcode/examlist?edition=1&nohead=0&fid=",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=mooc1.chaoxing.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "5_3",
+          "title": "考试/证书",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_3_1",
+              "title": "全国计算机等级考试考务管理系统",
+              "href": "https://ncre-bm.neea.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=ncre-bm.neea.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_3_2",
+              "title": "2023年计算机技术与软件专业技术资格 (水平)考试模拟作答系统-希赛网",
+              "href": "https://wangxiao.xisaiwang.com/tiku2/jk/cl.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=wangxiao.xisaiwang.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_3_3",
+              "title": "工业和信息化部教育与考试中心",
+              "href": "https://www.miiteec.org.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.miiteec.org.cn&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "5_4",
+          "title": "计算机自学",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_4_1",
+              "title": "首页 - 易班优课",
+              "href": "https://www.yooc.me/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yooc.me&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_2",
+              "title": "易班网",
+              "href": "https://www.yiban.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yiban.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_3",
+              "title": "安徽省网络课程学习中心（e会学）",
+              "href": "https://www.ehuixue.cn/index/index/index.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.ehuixue.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_4",
+              "title": "新建标签页",
+              "href": "edge://newtab/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=newtab&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_5",
+              "title": "Myccr云课堂",
+              "href": "http://myccr.net/%EF%BC%89#/personal/join",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=myccr.net&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_6",
+              "title": "中国计算机技术职业资格网",
+              "href": "https://www.ruankao.org.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.ruankao.org.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_7",
+              "title": "中国计算机学会",
+              "href": "https://www.ccf.org.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.ccf.org.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_8",
+              "title": "攀拓计算机能力测评 - 程序设计",
+              "href": "https://www.patest.cn/home",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.patest.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_9",
+              "title": "认证框架",
+              "href": "https://www.pmi.org/certifications/become-a-project-manager/certification-framework",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.pmi.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_10",
+              "title": "大学物理学第4版学习与解题指导.pdf",
+              "href": "file:///D:/%E4%B8%8B%E8%BD%BD/Documents/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC4%E7%89%88%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%A7%A3%E9%A2%98%E6%8C%87%E5%AF%BC.pdf",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "5_4_11",
+              "title": "Java17中文文档 - API参考文档 - 全栈行动派",
+              "href": "https://doc.qzxdp.cn/jdk/17/zh/api/index.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=doc.qzxdp.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_12",
+              "title": "首页 - boardmix",
+              "href": "https://boardmix.cn/app/home/flowchart",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=boardmix.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_13",
+              "title": "Solve ∫ xe^-x wrt x | Microsoft Math Solver",
+              "href": "https://mathsolver.microsoft.com/en/solve-problem/%60displaystyle%60int%7B%20x%20%7B%20e%20%20%7D%5E%7B%20-x%20%20%7D%20%20%20%20%7Dd%20x",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=mathsolver.microsoft.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_14",
+              "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
+              "href": "https://zh.z-library.se/?ts=0815",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=zh.z-library.se&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_15",
+              "title": "计算机宝藏！ - 飞书云文档",
+              "href": "https://rvwwc2le7y8.feishu.cn/wiki/EF2QwY6xXiKbq0kClxdcgx32nad",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=rvwwc2le7y8.feishu.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_16",
+              "title": "Documentation | GLFW",
+              "href": "https://www.glfw.org/documentation.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.glfw.org&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_17",
+              "title": "CS自学指南",
+              "href": "https://csdiy.wiki/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=csdiy.wiki&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_18",
+              "title": "游戏编程模式",
+              "href": "https://gpp.tkchu.me/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=gpp.tkchu.me&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_4_19",
+              "title": "Linux 201",
+              "href": "https://201.ustclug.org/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=201.ustclug.org&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "5_f0ac",
+          "title": "面经/求职/经验",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "4_1_26",
+              "title": "【游戏开发面经汇总】- 算法编程篇 - 知乎",
+              "href": "https://zhuanlan.zhihu.com/p/499548836",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "9_2_11",
+              "title": "智联招聘数据爬取（踩坑篇） - 知乎",
+              "href": "https://zhuanlan.zhihu.com/p/149760553",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         }
       ],
       "description": "",
@@ -1535,7 +2438,7 @@
               "title": "仪表盘 - EFCloud",
               "href": "https://www.efcloud3.com/#/stage/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=efcloud3.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.efcloud3.com&sz=64",
               "enabled": true
             },
             {
@@ -1583,7 +2486,7 @@
               "title": "仪表盘 - EFCloud",
               "href": "https://www.efcloud1.cc/#/stage/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=efcloud1.cc&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.efcloud1.cc&sz=64",
               "enabled": true
             },
             {
@@ -1599,7 +2502,7 @@
               "title": "仪表盘 - EFCloud",
               "href": "https://www.efcloud.bio/#/stage/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=efcloud.bio&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.efcloud.bio&sz=64",
               "enabled": true
             },
             {
@@ -1607,7 +2510,7 @@
               "title": "EEVPN",
               "href": "https://www.eevpn.com/#/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=eevpn.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.eevpn.com&sz=64",
               "enabled": true
             },
             {
@@ -1623,7 +2526,7 @@
               "title": "仪表盘 - 白月光",
               "href": "https://www.bygcloud.com/#/stage/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bygcloud.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.bygcloud.com&sz=64",
               "enabled": true
             },
             {
@@ -1639,7 +2542,7 @@
               "title": "EFCloud",
               "href": "https://www.efc1.cc/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=efc1.cc&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.efc1.cc&sz=64",
               "enabled": true
             },
             {
@@ -1655,7 +2558,7 @@
               "title": "白月光",
               "href": "https://www.bygcloud.com/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bygcloud.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.bygcloud.com&sz=64",
               "enabled": true
             },
             {
@@ -1687,7 +2590,7 @@
               "title": "VPS234主机测评 - 专注国外VPS/独立服务器/虚拟主机推荐",
               "href": "https://www.vps234.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=vps234.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.vps234.com&sz=64",
               "enabled": true
             },
             {
@@ -1695,7 +2598,7 @@
               "title": "Hostwinds VPS 购买方法图文详解 - VPS234主机测评",
               "href": "https://www.vps234.com/hostwinds-purchase-tutorial/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=vps234.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.vps234.com&sz=64",
               "enabled": true
             },
             {
@@ -1767,7 +2670,7 @@
               "title": "Vultr基本上已经废了 - 2024年原因分析及解决办法 - VPS234主机测评",
               "href": "https://www.vps234.com/vultr-jiben-shang-yijing-feile/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=vps234.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.vps234.com&sz=64",
               "enabled": true
             },
             {
@@ -1831,7 +2734,7 @@
               "title": "仪表盘 | W",
               "href": "https://www.wcloud.store/#/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=wcloud.store&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.wcloud.store&sz=64",
               "enabled": true
             },
             {
@@ -1839,7 +2742,7 @@
               "title": "农夫山泉",
               "href": "https://www.nfsq.us/#/dashboard",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=nfsq.us&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.nfsq.us&sz=64",
               "enabled": true
             },
             {
@@ -1855,179 +2758,11 @@
               "title": "Webshare | Fast & Affordable Proxies",
               "href": "https://www.webshare.io/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=webshare.io&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.webshare.io&sz=64",
               "enabled": true
             }
-          ]
-        },
-        {
-          "id": "3_2",
-          "title": "机场评测/推荐/导航",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_2_1",
-              "title": "Scamalytics",
-              "href": "https://scamalytics.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=scamalytics.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_2",
-              "title": "(1) 收件箱 | xiaoyunhai@protonmail.com | Proton Mail",
-              "href": "https://mail.proton.me/u/0/inbox",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mail.proton.me&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_3",
-              "title": "Free Email Addresses: Web based and secure Email - mail.com",
-              "href": "https://navigator-lxa.mail.com/mail?sid=dd1349163f87faa179b463ba0c8a4f24f240e7aada55654270d2d67e0495535ebf4b242b3412508f5f39e302f1422348",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=navigator-lxa.mail.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_4",
-              "title": "[pixiv] R-18热门作品",
-              "href": "https://www.pixiv.net/popular.php?mode=r18",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pixiv.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_5",
-              "title": "YouTube",
-              "href": "https://www.youtube.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_6",
-              "title": "Home / Twitter",
-              "href": "https://twitter.com/home",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=twitter.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_7",
-              "title": "Midjourney",
-              "href": "https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_8",
-              "title": "Discord",
-              "href": "https://discord.com/login",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=discord.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_9",
-              "title": "Twitch",
-              "href": "https://www.twitch.tv/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_10",
-              "title": "TikTok - Make Your Day",
-              "href": "https://www.tiktok.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_11",
-              "title": "‎Bard - Google 推出的对话式 AI 工具，由 PaLM 2 技术驱动",
-              "href": "https://bard.google.com/?pli=1",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bard.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_12",
-              "title": "PayPal: 账户首页",
-              "href": "https://www.paypal.com/myaccount/summary",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=paypal.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_13",
-              "title": "Reddit - Dive into anything",
-              "href": "https://www.reddit.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_14",
-              "title": "Quora",
-              "href": "https://www.quora.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=quora.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_15",
-              "title": "万事网联借记卡 – DocOfCard",
-              "href": "https://docofcard.com/archives/mccn-debit-card/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docofcard.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_16",
-              "title": "DocOfCard",
-              "href": "https://docofcard.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docofcard.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_17",
-              "title": "可能是全网最全的国内国际借记卡分析",
-              "href": "https://faint-store-ef0.notion.site/231bd9fa7ac18093b18ccbc035740193",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=faint-store-ef0.notion.site&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_18",
-              "title": "保号通 - 首页",
-              "href": "https://a6.cm/baohaotong/index.php",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=a6.cm&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_19",
-              "title": "主页 - IPRoyal",
-              "href": "https://dashboard.iproyal.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dashboard.iproyal.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_20",
-              "title": "Cliproxy - 最佳最快的住宅代理",
-              "href": "https://cliproxy.com/zh/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cliproxy.com&sz=64",
-              "enabled": true
-            }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "3_3",
@@ -2065,15 +2800,15 @@
               "title": "UCloud优刻得-首家公有云科创板上市公司",
               "href": "https://www.ucloud.cn/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ucloud.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.ucloud.cn&sz=64",
               "enabled": true
             },
             {
               "id": "3_3_5",
-              "title": "RackNerd - 介绍基础设施稳定性 --- RackNerd - Introducing Infrastructure Stability",
+              "title": "RackNerd",
               "href": "https://www.racknerd.com/index.php",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=racknerd.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.racknerd.com&sz=64",
               "enabled": true
             },
             {
@@ -2133,14 +2868,6 @@
               "enabled": true
             },
             {
-              "id": "3_3_13",
-              "title": "LowEndBox - Cheap VPS, Dedicated Servers and Hosting Deals",
-              "href": "https://lowendbox.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=lowendbox.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "3_3_14",
               "title": "公司简介 |格拉瓦塔尔 --- Profile | Gravatar",
               "href": "https://gravatar.com/profile",
@@ -2193,7 +2920,7 @@
               "title": "购物车 | UQIDC",
               "href": "https://www.uqidc.com/cart?fid=1&gid=27",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=uqidc.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.uqidc.com&sz=64",
               "enabled": true
             },
             {
@@ -2233,7 +2960,7 @@
               "title": "客戶中心 - DMIT, Inc.",
               "href": "https://www.dmit.io/clientarea.php",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dmit.io&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.dmit.io&sz=64",
               "enabled": true
             },
             {
@@ -2244,7 +2971,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=233boy.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "3_4",
@@ -2260,8 +2988,17 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=ping0.cc&sz=64",
               "enabled": true
+            },
+            {
+              "id": "3_3_13",
+              "title": "LowEndBox - Cheap VPS, Dedicated Servers and Hosting Deals",
+              "href": "https://lowendbox.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=lowendbox.com&sz=64",
+              "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "3_6",
@@ -2276,14 +3013,6 @@
               "href": "https://sms-activate.org/getNumber",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=sms-activate.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_6_2",
-              "title": "WildCard | 一分钟注册，轻松订阅海外软件服务",
-              "href": "https://bewildcard.com/?code=UPGPT",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bewildcard.com&sz=64",
               "enabled": true
             },
             {
@@ -2311,30 +3040,23 @@
               "enabled": true
             },
             {
-              "id": "3_6_6",
-              "title": "2024香港汇丰银行内地在线开户指南：内地开户+赴港激活+全程免费 | 美股开户2025 | 中国美股开户指南 | 口袋开户",
-              "href": "https://www.kdkh.com/bank/huifeng.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=kdkh.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_6_7",
-              "title": "境外钱包｜Paga教程：不惧锁卡锁区 尼日利亚低价app羊毛薅起来 - PlayfulSoul",
-              "href": "https://playfulsoul.net/zh/blog/2024/11/21/%E5%A2%83%E5%A4%96%E9%92%B1%E5%8C%85%EF%BD%9Cpaga%E6%95%99%E7%A8%8B%EF%BC%9A%E4%B8%8D%E6%83%A7%E9%94%81%E5%8D%A1%E9%94%81%E5%8C%BA-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E4%BD%8E%E4%BB%B7app%E7%BE%8A/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=playfulsoul.net&sz=64",
-              "enabled": true
-            },
-            {
               "id": "3_6_8",
               "title": "将各种节点转socks5，支持ssr,ss,vmess,v2ray,clash转socks5，自建机场节点转socks5",
               "href": "https://www.kjfx.cc/c/socks.html",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=kjfx.cc&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.kjfx.cc&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_18",
+              "title": "保号通 - 首页",
+              "href": "https://a6.cm/baohaotong/index.php",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=a6.cm&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "3_7",
@@ -2346,7 +3068,7 @@
             {
               "id": "3_7_1",
               "title": "德国沃达丰(Vodafone)|零月租eSIM申请教程|激活|保号|无需视频验证 | VPS小白",
-              "href": "https://vpsxb.net/7081/#:~:text=%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%85%B6%E5%AE%98%E6%96%B9APP%EF%BC%88MeinVodafone%EF%BC%89%E5%85%85%E5%80%BC%EF%BC%8CIOS%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8%E5%BE%B7%E5%9B%BD%E5%8C%BA%E8%B4%A6%E5%8F%B7%EF%BC%8C%E6%88%96%E8%80%85%E7%9B%B4%E6%8E%A5%E5%9C%A8%20%E5%AE%98%E6%96%B9%E7%BD%91%E9%A1%B5%20%E5%85%85%E5%80%BC%EF%BC%8C%E6%AF%8F%E6%AC%A1%E5%85%85%E5%80%BC%E9%83%BD%E6%98%AF%E6%9C%80%E4%BD%8E5%E6%AC%A7%E5%85%83%E3%80%82,%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%9C%89N26%E6%88%96%E8%80%85MyFin%E7%9A%84%E8%AF%9D%EF%BC%8C%E8%BF%98%E6%9C%89%E6%9B%B4%E4%BE%BF%E5%AE%9C%E7%9A%84%E5%85%85%E5%80%BC%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E7%9B%B4%E6%8E%A5%E9%80%9A%E8%BF%87IBAN%E8%BD%AC%E8%B4%A6%EF%BC%8C%E6%9C%80%E4%BD%8E0.01%E6%AC%A7%E5%85%83%E5%8D%B3%E5%8F%AF%EF%BC%8C%E4%B8%8D%E8%A1%8C%E7%9A%84%E8%AF%9D%E5%B0%B1%E8%BD%AC0.1%E6%AC%A7%E5%85%83%E3%80%82%20%E6%B3%A8%E6%84%8F%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E5%9C%A8%E8%BD%AC%E8%B4%A6%E9%99%84%E8%A8%80%E4%B8%AD%E5%A4%87%E6%B3%A8%E6%88%91%E4%BB%AC%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%B7%EF%BC%8C0%E5%BC%80%E5%A4%B4%E6%88%96%E8%80%85%2B49%E5%BC%80%E5%A4%B4%EF%BC%8C%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%8F%AF%E4%BB%A5%E5%B0%9D%E8%AF%95%E4%B8%8B%E3%80%82%20%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%A4%87%E6%B3%A8%E5%AE%A2%E6%88%B7%E5%8F%B7%EF%BC%88%E7%99%BB%E5%BD%95%E5%AE%98%E7%BD%91%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%EF%BC%89%E3%80%82",
+              "href": "https://vpsxb.net/7081/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=vpsxb.net&sz=64",
               "enabled": true
@@ -2359,7 +3081,212 @@
               "icon": "https://www.google.com/s2/favicons?domain=esim.gg&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "3_a438",
+          "title": "代理/住宅IP",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_19",
+              "title": "主页 - IPRoyal",
+              "href": "https://dashboard.iproyal.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=dashboard.iproyal.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_20",
+              "title": "Cliproxy - 最佳最快的住宅代理",
+              "href": "https://cliproxy.com/zh/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=cliproxy.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "new_a75f36",
+      "title": "金融与支付",
+      "icon": "Wallet",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "new_a75f36_0d48",
+          "title": "支付/银行卡/开户",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_12",
+              "title": "PayPal: 账户首页",
+              "href": "https://www.paypal.com/myaccount/summary",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.paypal.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_15",
+              "title": "万事网联借记卡 – DocOfCard",
+              "href": "https://docofcard.com/archives/mccn-debit-card/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=docofcard.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_16",
+              "title": "DocOfCard",
+              "href": "https://docofcard.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=docofcard.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_17",
+              "title": "可能是全网最全的国内国际借记卡分析",
+              "href": "https://faint-store-ef0.notion.site/231bd9fa7ac18093b18ccbc035740193",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=faint-store-ef0.notion.site&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_1_1",
+              "title": "GPT自助充值-安全快捷方便！",
+              "href": "https://www.chonggpt.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.chonggpt.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_1_7",
+              "title": "FOME派伊",
+              "href": "https://gpt.fomepay.com/#/pages/cards/index",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=gpt.fomepay.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_1_11",
+              "title": "FOMEPay",
+              "href": "https://gpt.fomepay.com/#/pages/index/index",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=gpt.fomepay.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_1_16",
+              "title": "人工智障 Plus 充值系统",
+              "href": "https://pluscz.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=pluscz.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_6_2",
+              "title": "WildCard | 一分钟注册，轻松订阅海外软件服务",
+              "href": "https://bewildcard.com/?code=UPGPT",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=bewildcard.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_6_6",
+              "title": "2024香港汇丰银行内地在线开户指南：内地开户+赴港激活+全程免费",
+              "href": "https://www.kdkh.com/bank/huifeng.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.kdkh.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_6_7",
+              "title": "境外钱包｜Paga教程：不惧锁卡锁区 尼日利亚低价app羊毛薅起来 - PlayfulSoul",
+              "href": "https://playfulsoul.net/zh/blog/2024/11/21/%E5%A2%83%E5%A4%96%E9%92%B1%E5%8C%85%EF%BD%9Cpaga%E6%95%99%E7%A8%8B%EF%BC%9A%E4%B8%8D%E6%83%A7%E9%94%81%E5%8D%A1%E9%94%81%E5%8C%BA-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E4%BD%8E%E4%BB%B7app%E7%BE%8A/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=playfulsoul.net&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "new_a75f36_0012",
+          "title": "风控/反欺诈",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_1",
+              "title": "Scamalytics",
+              "href": "https://scamalytics.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=scamalytics.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "new_024f5b",
+      "title": "社交与社区",
+      "icon": "Users",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "new_024f5b_d7a7",
+          "title": "平台/社区",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_6",
+              "title": "Home / Twitter",
+              "href": "https://twitter.com/home",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=twitter.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_8",
+              "title": "Discord",
+              "href": "https://discord.com/login",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=discord.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_13",
+              "title": "Reddit - Dive into anything",
+              "href": "https://www.reddit.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.reddit.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_14",
+              "title": "Quora",
+              "href": "https://www.quora.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.quora.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         }
       ],
       "description": "",
@@ -2381,17 +3308,9 @@
             {
               "id": "4_1_1",
               "title": "【Unity引擎技术整合】 Unity学习路线 | 知识汇总 | 持续更新 | 保持乐趣 | 共同成长-CSDN博客",
-              "href": "https://xiaoy.blog.csdn.net/article/details/131460926?spm=1001.2014.3001.5502",
+              "href": "https://xiaoy.blog.csdn.net/article/details/131460926",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=xiaoy.blog.csdn.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "4_1_2",
-              "title": "【翻译】Unity Shader Bible/Unity着色器圣经 全书目录 - 知乎",
-              "href": "https://zhuanlan.zhihu.com/p/645676077?utm_psn=1887921322606170978",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
               "enabled": true
             },
             {
@@ -2421,7 +3340,7 @@
             {
               "id": "4_1_6",
               "title": "C#初级编程 | Unity 中文课堂",
-              "href": "https://learn.u3d.cn/tutorial/beginner-gameplay-scripting?chapterId=63562b29edca72001f21d179#",
+              "href": "https://learn.u3d.cn/tutorial/beginner-gameplay-scripting?chapterId=63562b29edca72001f21d179",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=learn.u3d.cn&sz=64",
               "enabled": true
@@ -2447,7 +3366,7 @@
               "title": "50+ 个值得学习的 Unity 开源项目 - 朴文 - 博客园",
               "href": "https://www.cnblogs.com/puwen/p/18721845",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cnblogs.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.cnblogs.com&sz=64",
               "enabled": true
             },
             {
@@ -2460,31 +3379,23 @@
             },
             {
               "id": "4_1_11",
-              "title": "Ultimate Unity Overview (60+ Tools and Features Explained!) | Code",
+              "title": "Ultimate Unity Overview (60+ Tools and Features Explained!)",
               "href": "https://unitycodemonkey.teachable.com/p/ultimate-unity-overview-50-tools-and-features-explained?coupon_code=CM-UNITY-OVERVIEW&product_id=4697369",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=unitycodemonkey.teachable.com&sz=64",
               "enabled": true
             },
             {
-              "id": "4_1_12",
-              "title": "Unity制作类胡闹厨房游戏 KitchenChaos 笔记整理（上） - 知乎",
-              "href": "https://zhuanlan.zhihu.com/p/612934767",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "4_1_13",
               "title": "KitchenChaos笔记（类胡闹厨房游戏demo）",
-              "href": "https://www.yuque.com/wocaibuqinamochangdemingzi/akh7w4/ka1o8oxb7723ndg9?singleDoc#",
+              "href": "https://www.yuque.com/wocaibuqinamochangdemingzi/akh7w4/ka1o8oxb7723ndg9?singleDoc=",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yuque.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yuque.com&sz=64",
               "enabled": true
             },
             {
               "id": "4_1_14",
-              "title": "学习使用 Unity 制作游戏！初学者和中级者 - 代码猴子 --- Learn to make a Game with Unity! Beginners and Intermediates - Code Monkey",
+              "title": "学习使用 Unity 制作游戏！初学者和中级者",
               "href": "https://unitycodemonkey.com/kitchenchaoscourse.php#playerPickUp",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=unitycodemonkey.com&sz=64",
@@ -2493,7 +3404,7 @@
             {
               "id": "4_1_15",
               "title": "【推荐100个unity插件之8】实现多人在线联机游戏——Mirror插件的使用介绍（附项目源码）-阿里云开发者社区",
-              "href": "https://developer.aliyun.com/article/1552178?spm=a2c6h.24874632.expert-profile.18.180042ecsWXwoh",
+              "href": "https://developer.aliyun.com/article/1552178",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=developer.aliyun.com&sz=64",
               "enabled": true
@@ -2515,14 +3426,6 @@
               "enabled": true
             },
             {
-              "id": "4_1_18",
-              "title": "Unity 多人联机库Mirror教程 - 知乎",
-              "href": "https://zhuanlan.zhihu.com/p/1902124152866969041",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "4_1_19",
               "title": "【Unity】Luban配置教程和按文件加载优化 - DayDayAsobi's Blog",
               "href": "https://blog.meo39.com/2025/06/09/lubanLean1/",
@@ -2533,9 +3436,9 @@
             {
               "id": "4_1_20",
               "title": "TEngine相关文档",
-              "href": "https://www.yuque.com/woyaoquzhengjiushijie/yk7q3n/hz22kh146r7yflo7?singleDoc#",
+              "href": "https://www.yuque.com/woyaoquzhengjiushijie/yk7q3n/hz22kh146r7yflo7?singleDoc=",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yuque.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yuque.com&sz=64",
               "enabled": true
             },
             {
@@ -2543,7 +3446,7 @@
               "title": "Hello from YooAsset | YooAsset",
               "href": "https://www.yooasset.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yooasset.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yooasset.com&sz=64",
               "enabled": true
             },
             {
@@ -2551,7 +3454,7 @@
               "title": "HybridCLR | HybridCLR",
               "href": "https://www.hybridclr.cn/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=hybridclr.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.hybridclr.cn&sz=64",
               "enabled": true
             },
             {
@@ -2567,7 +3470,7 @@
               "title": "浏览 | Patreon",
               "href": "https://www.patreon.com/home",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=patreon.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.patreon.com&sz=64",
               "enabled": true
             },
             {
@@ -2579,19 +3482,11 @@
               "enabled": true
             },
             {
-              "id": "4_1_26",
-              "title": "【游戏开发面经汇总】- 算法编程篇 - 知乎",
-              "href": "https://zhuanlan.zhihu.com/p/499548836",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "4_1_27",
               "title": "cg程序设计,CG搜搜 - Powered by Discuz!",
               "href": "http://www.cgsoso.com/forum.php",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cgsoso.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.cgsoso.com&sz=64",
               "enabled": true
             },
             {
@@ -2642,7 +3537,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=dashboard.photonengine.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "4_2",
@@ -2659,7 +3555,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=learn.unity.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "4_9",
@@ -2670,7 +3567,7 @@
           "items": [
             {
               "id": "4_9_1",
-              "title": "【Unity游戏开发专题】Unity游戏开发超全合集-无限进步【各大机构付费课程】【100G】 - 资源荟萃 - LINUX DO",
+              "title": "【Unity游戏开发专题】Unity游戏开发超全合集-无限进步【各大机构付费课程】【100G】",
               "href": "https://linux.do/t/topic/510122",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=linux.do&sz=64",
@@ -2681,7 +3578,7 @@
               "title": "My Library | Fab.com",
               "href": "https://www.fab.com/library",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=fab.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.fab.com&sz=64",
               "enabled": true
             },
             {
@@ -2689,7 +3586,7 @@
               "title": "pixellab.ai/account",
               "href": "https://www.pixellab.ai/account",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pixellab.ai&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.pixellab.ai&sz=64",
               "enabled": true
             },
             {
@@ -2702,7 +3599,7 @@
             },
             {
               "id": "4_9_5",
-              "title": "GitHub - AsPJT/DungeonTemplateLibrary: 🌏: Dungeon free resources (terrain & roguelike generation)",
+              "title": "GitHub",
               "href": "https://github.com/AsPJT/DungeonTemplateLibrary",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
@@ -2713,7 +3610,7 @@
               "title": "The Spriters Resource",
               "href": "https://www.spriters-resource.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=spriters-resource.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.spriters-resource.com&sz=64",
               "enabled": true
             },
             {
@@ -2729,7 +3626,7 @@
               "title": "Pinterest",
               "href": "https://www.pinterest.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pinterest.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.pinterest.com&sz=64",
               "enabled": true
             },
             {
@@ -2737,7 +3634,7 @@
               "title": "Piskel - 免费的在线精灵编辑器",
               "href": "https://www.piskelapp.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=piskelapp.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.piskelapp.com&sz=64",
               "enabled": true
             },
             {
@@ -2745,7 +3642,7 @@
               "title": "iconfont-阿里巴巴矢量图标库",
               "href": "https://www.iconfont.cn/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=iconfont.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.iconfont.cn&sz=64",
               "enabled": true
             },
             {
@@ -2753,7 +3650,7 @@
               "title": "Photopea | Online Photo Editor",
               "href": "https://www.photopea.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=photopea.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.photopea.com&sz=64",
               "enabled": true
             },
             {
@@ -2761,7 +3658,7 @@
               "title": "爱给网_音效配乐_3D模型_视频素材_免费下载",
               "href": "https://www.aigei.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aigei.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.aigei.com&sz=64",
               "enabled": true
             },
             {
@@ -2769,7 +3666,7 @@
               "title": "Unreal Engine Marketplace is now Fab - 虚幻引擎商城",
               "href": "https://www.unrealengine.com/marketplace/zh-CN/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=unrealengine.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.unrealengine.com&sz=64",
               "enabled": true
             },
             {
@@ -2841,7 +3738,7 @@
               "title": "CG3DA - 免费3DCG资源分享平台",
               "href": "https://www.cg3da.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cg3da.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.cg3da.com&sz=64",
               "enabled": true
             },
             {
@@ -2849,7 +3746,7 @@
               "title": "导读-最新热门 - 藏宝湾网游单机站 - 手机版 - Powered by Discuz!",
               "href": "https://www.iopq.net/forum.php?mod=guide&view=hot&mobile=2",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=iopq.net&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.iopq.net&sz=64",
               "enabled": true
             },
             {
@@ -2857,7 +3754,7 @@
               "title": "Starter Kits · Kenney",
               "href": "https://www.kenney.nl/starter-kits",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=kenney.nl&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.kenney.nl&sz=64",
               "enabled": true
             },
             {
@@ -2865,7 +3762,7 @@
               "title": "Mixamo",
               "href": "https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mixamo.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.mixamo.com&sz=64",
               "enabled": true
             },
             {
@@ -2889,7 +3786,7 @@
               "title": "CG模型网 - 专注3D模型,3dmax模型,maya模型,c4d模型,优质三维模型素材下载",
               "href": "https://www.cgmodel.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cgmodel.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.cgmodel.com&sz=64",
               "enabled": true
             },
             {
@@ -2913,7 +3810,7 @@
               "title": "背景素材を無料ダウンロード｜背景フリー画像 BEIZ images",
               "href": "https://www.beiz.jp/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=beiz.jp&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.beiz.jp&sz=64",
               "enabled": true
             },
             {
@@ -2929,12 +3826,12 @@
               "title": "Transparent Textures",
               "href": "https://www.transparenttextures.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=transparenttextures.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.transparenttextures.com&sz=64",
               "enabled": true
             },
             {
               "id": "4_9_34",
-              "title": "使您的纹理可平铺，使用直方图保留混合 --- Make your texture tileable with histogram-preserving blending",
+              "title": "使您的纹理可平铺，使用直方图保留混合",
               "href": "https://unity-grenoble.github.io/website/demo/2020/10/16/demo-histogram-preserving-blend-make-tileable.html",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=unity-grenoble.github.io&sz=64",
@@ -2942,15 +3839,15 @@
             },
             {
               "id": "4_9_35",
-              "title": "3D、平面设计和 Photoshop 纹理！ --- Textures for 3D, graphic design and Photoshop!",
+              "title": "3D、平面设计和 Photoshop 纹理！",
               "href": "https://www.textures.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=textures.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.textures.com&sz=64",
               "enabled": true
             },
             {
               "id": "4_9_36",
-              "title": "3D 纹理 | 免费 PBR 纹理和风格化纹理，包含颜色、法线、位移、遮挡和粗糙度贴图。 --- 3D TEXTURES | Free PBR textures and Stylized textures with Color, Normal, Displacement, Occlusion and Roughness Maps.",
+              "title": "3D 纹理",
               "href": "https://3dtextures.me/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=3dtextures.me&sz=64",
@@ -2958,7 +3855,7 @@
             },
             {
               "id": "4_9_37",
-              "title": "数百款 3D 纹理下载 - 免费 PBR 材质 --- Hundreds of 3D Texture Downloads - Free PBR Materials",
+              "title": "数百款 3D 纹理下载",
               "href": "https://freepbr.com/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=freepbr.com&sz=64",
@@ -2977,886 +3874,53 @@
               "title": "Poliigon - PBR 纹理、模型和 HDRI",
               "href": "https://www.poliigon.com/zh",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=poliigon.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.poliigon.com&sz=64",
               "enabled": true
             },
             {
               "id": "4_9_40",
-              "title": "ambientCG - 免费纹理、HDRIs 和模型 --- ambientCG - Free Textures, HDRIs and Models",
+              "title": "ambientCG",
               "href": "https://ambientcg.com/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=ambientcg.com&sz=64",
               "enabled": true
             }
-          ]
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "5",
-      "title": "学习与校园",
-      "icon": "GraduationCap",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "5_1",
-          "title": "校园系统/教务/内网入口",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_1_1",
-              "title": "全国计算机等级考试（NCRE）成绩查询 - 中国教育考试网",
-              "href": "https://cjcx.neea.edu.cn/html1/folder/22014/5490-1.htm",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cjcx.neea.edu.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_2",
-              "title": "欢迎 - Linux 101",
-              "href": "https://101.lug.ustc.edu.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=101.lug.ustc.edu.cn&sz=64",
-              "enabled": true
-            }
-          ]
+          ],
+          "subCategories": []
         },
         {
-          "id": "5_2",
-          "title": "课程平台/慕课",
+          "id": "4_c2a4",
+          "title": "教程/博客/文档",
           "icon": "Folder",
-          "description": "",
-          "enabled": true,
           "items": [
             {
-              "id": "5_2_1",
-              "title": "中国大学MOOC(慕课)_国家精品课程在线学习平台",
-              "href": "https://www.icourse163.org/?from=study",
+              "id": "4_1_2",
+              "title": "【翻译】Unity Shader Bible/Unity着色器圣经 全书目录 - 知乎",
+              "href": "https://zhuanlan.zhihu.com/p/645676077",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=icourse163.org&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
               "enabled": true
             },
             {
-              "id": "5_2_2",
-              "title": "滁州学院",
-              "href": "https://i.mooc.chaoxing.com/space/index?t=1712895785302",
+              "id": "4_1_12",
+              "title": "Unity制作类胡闹厨房游戏 KitchenChaos 笔记整理（上） - 知乎",
+              "href": "https://zhuanlan.zhihu.com/p/612934767",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=i.mooc.chaoxing.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
               "enabled": true
             },
             {
-              "id": "5_2_3",
-              "title": "个人空间",
-              "href": "https://i.chaoxing.com/base?fid=467&wfworg=true&tid=0",
+              "id": "4_1_18",
+              "title": "Unity 多人联机库Mirror教程 - 知乎",
+              "href": "https://zhuanlan.zhihu.com/p/1902124152866969041",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=i.chaoxing.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_2_4",
-              "title": "考试列表",
-              "href": "https://mooc1.chaoxing.com/exam-ans/exam/test/examcode/examlist?edition=1&nohead=0&fid=",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mooc1.chaoxing.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
               "enabled": true
             }
-          ]
-        },
-        {
-          "id": "5_3",
-          "title": "考试/证书",
-          "icon": "Folder",
+          ],
+          "subCategories": [],
           "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_3_1",
-              "title": "全国计算机等级考试考务管理系统",
-              "href": "https://ncre-bm.neea.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ncre-bm.neea.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_3_2",
-              "title": "2023年计算机技术与软件专业技术资格 (水平)考试模拟作答系统-希赛网",
-              "href": "https://wangxiao.xisaiwang.com/tiku2/jk/cl.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=wangxiao.xisaiwang.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_3_3",
-              "title": "工业和信息化部教育与考试中心",
-              "href": "https://www.miiteec.org.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=miiteec.org.cn&sz=64",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5_4",
-          "title": "计算机自学",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_4_1",
-              "title": "首页 - 易班优课",
-              "href": "https://www.yooc.me/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yooc.me&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_2",
-              "title": "易班网",
-              "href": "https://www.yiban.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yiban.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_3",
-              "title": "安徽省网络课程学习中心（e会学）",
-              "href": "https://www.ehuixue.cn/index/index/index.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ehuixue.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_4",
-              "title": "新建标签页",
-              "href": "edge://newtab/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=newtab&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_5",
-              "title": "Myccr云课堂",
-              "href": "http://myccr.net/%EF%BC%89#/personal/join",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=myccr.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_6",
-              "title": "中国计算机技术职业资格网",
-              "href": "https://www.ruankao.org.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ruankao.org.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_7",
-              "title": "中国计算机学会",
-              "href": "https://www.ccf.org.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ccf.org.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_8",
-              "title": "攀拓计算机能力测评 - 程序设计",
-              "href": "https://www.patest.cn/home",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=patest.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_9",
-              "title": "认证框架",
-              "href": "https://www.pmi.org/certifications/become-a-project-manager/certification-framework",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pmi.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_10",
-              "title": "大学物理学第4版学习与解题指导.pdf",
-              "href": "file:///D:/%E4%B8%8B%E8%BD%BD/Documents/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC4%E7%89%88%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%A7%A3%E9%A2%98%E6%8C%87%E5%AF%BC.pdf",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "5_4_11",
-              "title": "Java17中文文档 - API参考文档 - 全栈行动派",
-              "href": "https://doc.qzxdp.cn/jdk/17/zh/api/index.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=doc.qzxdp.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_12",
-              "title": "首页 - boardmix",
-              "href": "https://boardmix.cn/app/home/flowchart",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=boardmix.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_13",
-              "title": "Solve ∫ xe^-x wrt x | Microsoft Math Solver",
-              "href": "https://mathsolver.microsoft.com/en/solve-problem/%60displaystyle%60int%7B%20x%20%7B%20e%20%20%7D%5E%7B%20-x%20%20%7D%20%20%20%20%7Dd%20x",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mathsolver.microsoft.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_14",
-              "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
-              "href": "https://zh.z-library.se/?ts=0815",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zh.z-library.se&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_15",
-              "title": "计算机宝藏！ - 飞书云文档",
-              "href": "https://rvwwc2le7y8.feishu.cn/wiki/EF2QwY6xXiKbq0kClxdcgx32nad",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=rvwwc2le7y8.feishu.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_16",
-              "title": "Documentation | GLFW",
-              "href": "https://www.glfw.org/documentation.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=glfw.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_17",
-              "title": "CS自学指南",
-              "href": "https://csdiy.wiki/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=csdiy.wiki&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_18",
-              "title": "游戏编程模式",
-              "href": "https://gpp.tkchu.me/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gpp.tkchu.me&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_4_19",
-              "title": "Linux 201",
-              "href": "https://201.ustclug.org/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=201.ustclug.org&sz=64",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5_5",
-          "title": "通识内容/知识视频",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_5_1",
-              "title": "两周年大制作！五分钟带你看完俄乌战争！【两周年】【年表2.0】_哔哩哔哩_bilibili",
-              "href": "https://www.bilibili.com/video/BV1KS421N7on/?spm_id_from=333.337.search-card.all.click&vd_source=137be5313e20ab659a9542722291ee56",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bilibili.com&sz=64",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "6",
-      "title": "开发与编程",
-      "icon": "Code",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "6_1",
-          "title": "代码托管与协作",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "6_1_1",
-              "title": "GitHub",
-              "href": "https://github.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_1_2",
-              "title": "GitHub Education",
-              "href": "https://education.github.com/globalcampus/student",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=education.github.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_1_3",
-              "title": "工作台 - Gitee.com",
-              "href": "https://gitee.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gitee.com&sz=64",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "6_2",
-          "title": "刷题/OJ",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "6_2_1",
-              "title": "牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网",
-              "href": "https://www.nowcoder.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=nowcoder.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_2_2",
-              "title": "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台",
-              "href": "https://leetcode.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=leetcode.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_2_3",
-              "title": "代码强制",
-              "href": "https://codeforces.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=codeforces.com&sz=64",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "6_3",
-          "title": "文档/教程/速查",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "6_3_1",
-              "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
-              "href": "https://www.runoob.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=runoob.com&sz=64",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "6_4",
-          "title": "技术社区/博客",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "6_4_1",
-              "title": "学习C++ – 通过我们的免费教程提高技能",
-              "href": "https://www.learncpp.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=learncpp.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_2",
-              "title": "PTA | 程序设计类实验辅助教学平台",
-              "href": "https://pintia.cn/home",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pintia.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_3",
-              "title": "HTML 系列教程",
-              "href": "https://www.w3school.com.cn/h.asp",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=w3school.com.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_4",
-              "title": "W3C 简介",
-              "href": "https://www.w3school.com.cn/w3c/w3c_intro.asp",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=w3school.com.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_5",
-              "title": "CS 61A 2020 年秋季",
-              "href": "https://inst.eecs.berkeley.edu/~cs61a/fa20/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=inst.eecs.berkeley.edu&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_6",
-              "title": "头歌实践教学平台",
-              "href": "https://trustie.educoder.net/users/pebxzq6lj/classrooms",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=trustie.educoder.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_7",
-              "title": "JetBrains：软件开发人员和团队的基本工具",
-              "href": "https://www.jetbrains.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=jetbrains.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_8",
-              "title": "Home - Replit",
-              "href": "https://replit.com/~",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=replit.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_9",
-              "title": "码市 - 互联网软件外包服务平台",
-              "href": "https://codemart.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=codemart.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_10",
-              "title": "开源众包-百万开发者,为您提供专业的软件开发服务",
-              "href": "https://zb.oschina.net/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zb.oschina.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_11",
-              "title": "程序员客栈-领先的程序员自由远程工作平台",
-              "href": "https://www.proginn.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=proginn.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_12",
-              "title": "可信赖的软件外包服务 | 英选，用优秀的人，做优秀的产品",
-              "href": "https://www.yingxuan.co/?ref=www.codernav.cn",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yingxuan.co&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_13",
-              "title": "开发邦 - 互联网软件定制开发与软件外包开发服务",
-              "href": "https://www.kaifabang.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=kaifabang.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_14",
-              "title": "兼职程序员_程序员接私活_程序员兼职|外包平台-猿急送",
-              "href": "https://www.yuanjisong.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yuanjisong.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_15",
-              "title": "人人开发 - 集可视化开发，应用市场，威客众包，PaaS云于一体的企业级应用服务平台",
-              "href": "http://rrkf.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=rrkf.com&sz=64",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "6_6",
-          "title": "开发工具/资源站",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "6_6_1",
-              "title": "Greasy Fork - 安全、实用的用户脚本大全",
-              "href": "https://greasyfork.org/zh-CN/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_2",
-              "title": "Greasy Fork - 安全、实用的用户脚本大全",
-              "href": "https://greasyfork.org/zh-CN",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_3",
-              "title": "用户脚本",
-              "href": "https://greasyfork.org/zh-CN/scripts",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_4",
-              "title": "Tbox导航 | 只收录优质在线工具的导航网站",
-              "href": "https://www.tboxn.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=tboxn.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_5",
-              "title": "超棒壁纸 - wallhaven.cc",
-              "href": "https://wallhaven.cc/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=wallhaven.cc&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_6",
-              "title": "软仓丨RuanCang.Net",
-              "href": "https://ruancang.net/#/sim",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ruancang.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_7",
-              "title": "And Color Pro- 首页纵览",
-              "href": "https://coor.ooxox.cn/?#/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=coor.ooxox.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_8",
-              "title": "用户脚本",
-              "href": "https://sleazyfork.org/zh-CN/scripts?sort=total_installs",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=sleazyfork.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_9",
-              "title": "Chrome 应用商店 - aiprm for chatgpt",
-              "href": "https://chrome.google.com/webstore/search/aiprm%20for%20chatgpt",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chrome.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_10",
-              "title": "GitHub Dashboard",
-              "href": "https://github.com/dashboard",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_11",
-              "title": "BoyceLig/Clash_Chinese_Patch: Clash For Windows 汉化补丁和汉化脚本",
-              "href": "https://github.com/BoyceLig/Clash_Chinese_Patch",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_12",
-              "title": "官方高级驱动搜索 | NVIDIA",
-              "href": "https://www.nvidia.cn/Download/Find.aspx?lang=cn",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=nvidia.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_13",
-              "title": "Getting Started",
-              "href": "https://www.notion.so/Getting-Started-f14c07d5fb364eeaac2a1a8394d0ba79",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=notion.so&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_14",
-              "title": "CloudConvert",
-              "href": "https://cloudconvert.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cloudconvert.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_15",
-              "title": "站长之家 - 站长资讯-我们致力于为中文网站提供动力！",
-              "href": "https://www.chinaz.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chinaz.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_16",
-              "title": "音乐搜索器 - 多站合一音乐搜索,音乐在线试听",
-              "href": "https://music.haom.ren/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=music.haom.ren&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_17",
-              "title": "首页 | 高德控制台",
-              "href": "https://console.amap.com/dev/index",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=console.amap.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_18",
-              "title": "AIGC工具导航 | 生成式人工智能GAI - AI应用工具导航平台！",
-              "href": "https://www.aigc.cn/#term-2494",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aigc.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_19",
-              "title": "二维码美化 二维码模板 在线二维码生成器 | 美化码",
-              "href": "https://www.meihuama.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=meihuama.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_20",
-              "title": "文章封面生成器 - 创建美丽的文章封面图片 --- Post Cover Generator - Create Beautiful Article Cover Images",
-              "href": "https://cover.zippic.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cover.zippic.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_21",
-              "title": "Word 转 Markdown 在线转换器 | 快速、安全、无需上传",
-              "href": "https://www.word2md.net/zh",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=word2md.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_6_22",
-              "title": "Visit xian_kuang's Shop!",
-              "href": "https://ko-fi.com/xkxiankuang/shop",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ko-fi.com&sz=64",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "7",
-      "title": "办公与效率",
-      "icon": "Briefcase",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "7_2",
-          "title": "模板/PPT/办公资源",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "7_2_1",
-              "title": "PPT模板_PPT模版免费下载_免费PPT模板下载 -【第一PPT】",
-              "href": "https://www.1ppt.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=1ppt.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_2",
-              "title": "闪击PPT - 高效内容演示",
-              "href": "https://ppt.sankki.com/#/works",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ppt.sankki.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_3",
-              "title": "PPT超级市场官网-PPT模板免费下载、最新PPT成品搜索",
-              "href": "https://www.pptsupermarket.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pptsupermarket.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_4",
-              "title": "51PPT模板网 - 幻灯片演示模板及素材下载",
-              "href": "https://www.51pptmoban.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=51pptmoban.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_5",
-              "title": "PPT模板_PPT模板免费下载_免费PPT模板下载网站 -【PPT汇】",
-              "href": "https://www.ppthui.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ppthui.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_6",
-              "title": "OfficePLUS- 让PPT制作更简单 | 微软官方打造的PPT制作一站式服务平台，助你摆脱办公焦虑",
-              "href": "https://www.officeplus.cn/Template/home.shtml",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=officeplus.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_7",
-              "title": "PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】",
-              "href": "https://www.ypppt.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ypppt.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_8",
-              "title": "HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载",
-              "href": "http://www.hippter.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=hippter.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_9",
-              "title": "在线转换文档，图像，视频，音频文件",
-              "href": "https://www.aconvert.com/cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aconvert.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_10",
-              "title": "Apache ECharts",
-              "href": "https://echarts.apache.org/zh/index.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=echarts.apache.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_11",
-              "title": "在线流程图和图表编辑器 - 美人鱼实时编辑器",
-              "href": "https://mermaid.live/edit#pako:eNpVjs1qw0AMhF9F6NRC_AI-FBq7zSXQQnPz5iBs2bvE-8NaSwi2373r-NLqJM18M2jG1neMJfajv7eaosClVg7yvDeVjmYSS9MViuJtObGA9Y4fCxxfTh4m7UMwbnjd-eMGQTWfN4xBtHG3dbeqZ_7L8QJ1c6YgPlz_Ope7X-CjMd861_93dOSc-mx6KnsqWopQUXwieEDL0ZLp8vvzpigUzZYVlnntuKc0ikLl1oxSEv_zcC2WEhMfMPo0aMyd45SvFDoSrg0NkeyOrL_WfFuF",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mermaid.live&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_12",
-              "title": "图片取色器/拾色器 | 菜鸟工具",
-              "href": "https://www.jyshare.com/front-end/6214/#73798c",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=jyshare.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_13",
-              "title": "全网素材免费解析下载-开发工具站",
-              "href": "https://tools1998.top/#/sucai",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=tools1998.top&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_14",
-              "title": "萝卜工坊_一键生成手写文稿_手写模拟器_手写字体在线转换_在线字体制作_手写APP下载_模仿手写软件_AI手写字体生成_手写字体生成器_字体下载",
-              "href": "https://www.beautifulcarrot.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=beautifulcarrot.com&sz=64",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "8",
-      "title": "可视化与建模",
-      "icon": "Workflow",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "8_1",
-          "title": "流程图/架构图",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "8_1_1",
-              "title": "阿发你好官网 | 游戏、建模、编程视频教程",
-              "href": "https://afanihao.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=afanihao.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_2",
-              "title": "Buy Royalty Free 3D models - Sketchfab Store",
-              "href": "https://sketchfab.com/store",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=sketchfab.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_3",
-              "title": "专业人士的3D模型 ：： TurboSquid",
-              "href": "https://www.turbosquid.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=turbosquid.com&sz=64",
-              "enabled": true
-            }
-          ]
+          "enabled": true
         }
       ],
       "description": "",
@@ -3880,7 +3944,7 @@
               "title": "未来软件园-精品绿色软件下载-免费素材下载-免费小说阅读-安全可靠的绿色软件下载站",
               "href": "https://www.macxz.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=macxz.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.macxz.com&sz=64",
               "enabled": true
             },
             {
@@ -3888,7 +3952,7 @@
               "title": "开源软件 - OSCHINA - 中文开源技术交流社区",
               "href": "https://www.oschina.net/project?ref=www.tboxn.com",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=oschina.net&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.oschina.net&sz=64",
               "enabled": true
             },
             {
@@ -3896,7 +3960,7 @@
               "title": "myfreemp3音乐官网-mp3歌曲免费下载-myfreemp3在线音乐免费下载官网-歌曲下载-myfreemp3 app官网下载",
               "href": "https://www.myfreemp3.com.cn/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=myfreemp3.com.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.myfreemp3.com.cn&sz=64",
               "enabled": true
             },
             {
@@ -3904,7 +3968,7 @@
               "title": "资源下载（yanweb.top）",
               "href": "https://www.kdocs.cn/l/cnAPRIBU8qGr",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=kdocs.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.kdocs.cn&sz=64",
               "enabled": true
             },
             {
@@ -3912,7 +3976,7 @@
               "title": "熊猫无损音乐免费下载网站-WAV|FLAC|MP3|APE,提供在线简谱,在线歌词,最新最全免费的无损音乐下载网站www.xmwav.com",
               "href": "https://www.xmwav.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=xmwav.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.xmwav.com&sz=64",
               "enabled": true
             },
             {
@@ -3920,10 +3984,11 @@
               "title": "在线二维码图片生成器_二维码扫描软件下载_联图二维码",
               "href": "https://www.liantu.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=liantu.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.liantu.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "9_2",
@@ -3949,14 +4014,6 @@
               "enabled": true
             },
             {
-              "id": "9_2_3",
-              "title": "かいづか | 琉璃神社 ★ HACG.me",
-              "href": "https://www.hacg.mom/wp/tag/%E3%81%8B%E3%81%84%E3%81%A5%E3%81%8B",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=hacg.mom&sz=64",
-              "enabled": true
-            },
-            {
               "id": "9_2_4",
               "title": "就是加速 用户操作演示面板",
               "href": "http://94speed.com/",
@@ -3977,12 +4034,12 @@
               "title": "小众技术工具库 | 专注分享实用软件和精品网站",
               "href": "https://www.xiaozhongjishu.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=xiaozhongjishu.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.xiaozhongjishu.com&sz=64",
               "enabled": true
             },
             {
               "id": "9_2_7",
-              "title": "Alpha Coders - Your Source For Desktop Wallpapers, Phone Wallpapers, Gifs, PFP, and More!",
+              "title": "Alpha Coders",
               "href": "https://alphacoders.com/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=alphacoders.com&sz=64",
@@ -4013,27 +4070,11 @@
               "enabled": true
             },
             {
-              "id": "9_2_11",
-              "title": "智联招聘数据爬取（踩坑篇） - 知乎",
-              "href": "https://zhuanlan.zhihu.com/p/149760553",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "9_2_12",
               "title": "系统 97P 直播 | Zoom Earth",
               "href": "https://zoom.earth/storms/97p-2025/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=zoom.earth&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "9_2_13",
-              "title": "最新社工库: X-ray社工库，支持查询微信、公积金、身份证、支付宝、微博绑定等数据-社工库",
-              "href": "https://www.shegongku.top/46.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=shegongku.top&sz=64",
               "enabled": true
             },
             {
@@ -4073,7 +4114,7 @@
               "title": "Unity麦田物语模拟经营游戏开发教程-青知木杂货铺",
               "href": "https://www.qzmzhp.cn/5821.html",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=qzmzhp.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.qzmzhp.cn&sz=64",
               "enabled": true
             },
             {
@@ -4118,7 +4159,7 @@
             },
             {
               "id": "9_2_24",
-              "title": "itgoyo/TelegramGroup: 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】",
+              "title": "itgoyo/TelegramGroup: 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000...",
               "href": "https://github.com/itgoyo/TelegramGroup",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
@@ -4132,7 +4173,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=dianbaodaohang.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         }
       ],
       "description": "",
@@ -4164,7 +4206,7 @@
               "title": "在线里番 - ACG盒子",
               "href": "https://www.acgbox.link/q/zaixianlifan",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=acgbox.link&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.acgbox.link&sz=64",
               "enabled": true
             },
             {
@@ -4188,7 +4230,7 @@
               "title": "天狼影院_西瓜影视_2345影视大全",
               "href": "http://www.tlss.cc/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=tlss.cc&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.tlss.cc&sz=64",
               "enabled": true
             },
             {
@@ -4196,7 +4238,7 @@
               "title": "里番看看-在线里番APP-在线里番动漫",
               "href": "https://www.lf1080.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=lf1080.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.lf1080.com&sz=64",
               "enabled": true
             },
             {
@@ -4212,7 +4254,7 @@
               "title": "曲奇动漫 - 专注动漫的门户网站",
               "href": "https://www.quqidm.net/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=quqidm.net&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.quqidm.net&sz=64",
               "enabled": true
             },
             {
@@ -4228,7 +4270,7 @@
               "title": "樱花萌ACG - 二次元ACG资源分享网",
               "href": "https://www.yhuam.cc/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yhuam.cc&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yhuam.cc&sz=64",
               "enabled": true
             },
             {
@@ -4236,7 +4278,7 @@
               "title": "樱花动漫_风车动漫_樱花动漫专注动漫的门户网站",
               "href": "https://www.xumin.cc/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=xumin.cc&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.xumin.cc&sz=64",
               "enabled": true
             },
             {
@@ -4244,7 +4286,7 @@
               "title": "BTNull - 无名小站",
               "href": "https://www.btnull.org/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=btnull.org&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.btnull.org&sz=64",
               "enabled": true
             },
             {
@@ -4252,7 +4294,7 @@
               "title": "樱花动漫－专注动漫的门户网站",
               "href": "http://www.yinghua8.tv/index.html",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yinghua8.tv&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yinghua8.tv&sz=64",
               "enabled": true
             },
             {
@@ -4268,7 +4310,7 @@
               "title": "2023年冬(1月～3月)のおすすめアニメランキング【あにこれβ】",
               "href": "https://www.anikore.jp/chronicle/2023/winter/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=anikore.jp&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.anikore.jp&sz=64",
               "enabled": true
             },
             {
@@ -4282,9 +4324,9 @@
             {
               "id": "10_1_17",
               "title": "AGE动漫 - 在线动漫观看",
-              "href": "https://www.agedm.org/?utm_source=cq&utm_campaign=www.age.tv",
+              "href": "https://www.agedm.org/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=agedm.org&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.agedm.org&sz=64",
               "enabled": true
             },
             {
@@ -4292,7 +4334,7 @@
               "title": "播放《海贼王》第1090集未删减在线观看 - 樱花动漫网",
               "href": "https://www.yhxdny.com/bofang/75-4-1087.html",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yhxdny.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yhxdny.com&sz=64",
               "enabled": true
             },
             {
@@ -4308,15 +4350,15 @@
               "title": "精選",
               "href": "https://www.mangacopy.com/h5/index",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mangacopy.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.mangacopy.com&sz=64",
               "enabled": true
             },
             {
               "id": "10_1_21",
-              "title": "电影频道-好看的电影推荐 - 第7页 - 555电影_555在线电影_最新Netflix新剧_韩国电影免费在线观看 - www.555zxdy.com",
+              "title": "电影频道-好看的电影推荐",
               "href": "https://www.555zxdy.com/vod/show/id/1/page/7/year/2024.html",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=555zxdy.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.555zxdy.com&sz=64",
               "enabled": true
             },
             {
@@ -4324,12 +4366,12 @@
               "title": "里番动漫_免费里番动漫在线观看_OK动漫",
               "href": "https://www.okdm.cc/ok/6.html",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=okdm.cc&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.okdm.cc&sz=64",
               "enabled": true
             },
             {
               "id": "10_1_23",
-              "title": "正在播放《[Maplestar] 咒术回战 JJK Full Animation 2024.04》第01集_高清1080P在线观看平台_短片_高清版完整视频免费在线播放_第一动漫-最新动漫高速播放 - 1anime.me",
+              "title": "正在播放《[Maplestar] 咒术回战 JJK Full Animation 2024.04》第01集_高清1080P在线观看平台_短片_高清版完整视...",
               "href": "https://1anime.me/vodplay/6855-1-1.html",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=1anime.me&sz=64",
@@ -4359,7 +4401,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=hmgdm.cn&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "10_2",
@@ -4373,10 +4416,19 @@
               "title": "第六十五章 - 從前有座靈劍山 - 包子漫畫",
               "href": "https://www.twbzmg.com/comic/chapter/congqianyouzuolingjianshan-xianmanwenhua/0_66.html",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=twbzmg.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.twbzmg.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_2_4",
+              "title": "1085话 奈菲尔塔利.寇布拉之死 - ACG和谐漫画",
+              "href": "https://acgzone.lianaimh.com/manhua/haizeiwang/2188009.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=acgzone.lianaimh.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "10_3",
@@ -4422,7 +4474,7 @@
               "title": "PE游戏-TouchGAL",
               "href": "https://www.touchgal.org/pegame",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=touchgal.org&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.touchgal.org&sz=64",
               "enabled": true
             },
             {
@@ -4438,7 +4490,7 @@
               "title": "失落小站 - galgame资源站",
               "href": "https://www.shinnku.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=shinnku.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.shinnku.com&sz=64",
               "enabled": true
             },
             {
@@ -4462,7 +4514,7 @@
               "title": "Rockstar Games",
               "href": "https://www.rockstargames.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=rockstargames.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.rockstargames.com&sz=64",
               "enabled": true
             },
             {
@@ -4486,7 +4538,7 @@
               "title": "真红小站",
               "href": "https://www.shinnku.com/files",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=shinnku.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.shinnku.com&sz=64",
               "enabled": true
             },
             {
@@ -4502,7 +4554,7 @@
               "title": "For Honor Server Status | Ubisoft",
               "href": "https://www.ubisoft.com/en-us/game/for-honor/status",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ubisoft.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.ubisoft.com&sz=64",
               "enabled": true
             },
             {
@@ -4518,7 +4570,7 @@
               "title": "Green Man Gaming | 购买正版游戏，Steam游戏激活码|特价促销游戏",
               "href": "https://www.greenmangaming.com/zh/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=greenmangaming.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.greenmangaming.com&sz=64",
               "enabled": true
             },
             {
@@ -4526,7 +4578,7 @@
               "title": "GreenManGaming优惠码，促销，最高省75%，更新：2023年09月 | AnyCodes",
               "href": "https://www.anycodes.com/zh-hans/promo-codes/greenmangaming.com#:~:text=%E4%BC%98%E6%83%A0%E7%A0%81%20RRP%20on%20all,PC%20games%EF%BC%9A%E9%99%90%E6%97%B6%E7%AB%8B%E4%BA%AB17%25%E6%8A%98%E6%89%A3%20%E5%88%B0%E6%9C%9F%E6%97%B6%E9%97%B4%3A%202023-08-31",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=anycodes.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.anycodes.com&sz=64",
               "enabled": true
             },
             {
@@ -4550,15 +4602,15 @@
               "title": "街头霸王6MOD下载_街头霸王6MOD大全_街头霸王6MOD合集",
               "href": "https://www.pc6.com/pc/jtbw6mod/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pc6.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.pc6.com&sz=64",
               "enabled": true
             },
             {
               "id": "10_3_22",
-              "title": "Fluffy Manager 5000 at Monster Hunter Rise - Nexus mods and community",
+              "title": "Fluffy Manager 5000 at Monster Hunter Rise",
               "href": "https://www.nexusmods.com/monsterhunterrise/mods/7",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=nexusmods.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.nexusmods.com&sz=64",
               "enabled": true
             },
             {
@@ -4574,7 +4626,7 @@
               "title": "Switch618|免费Switch游戏PC游戏下载 | SWITCH618游戏公益分享",
               "href": "https://www.switch618.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=switch618.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.switch618.com&sz=64",
               "enabled": true
             },
             {
@@ -4638,7 +4690,7 @@
               "title": "创享游戏网-又一个WordPress站点",
               "href": "https://www.xx1887.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=xx1887.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.xx1887.com&sz=64",
               "enabled": true
             },
             {
@@ -4646,7 +4698,7 @@
               "title": "Video Game Reviews, Articles, Trailers and more - Metacritic",
               "href": "https://www.metacritic.com/game/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=metacritic.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.metacritic.com&sz=64",
               "enabled": true
             },
             {
@@ -4662,7 +4714,7 @@
               "title": "No Man's Sky Nexus - Mods and Community",
               "href": "https://www.nexusmods.com/nomanssky",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=nexusmods.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.nexusmods.com&sz=64",
               "enabled": true
             },
             {
@@ -4678,10 +4730,19 @@
               "title": "玩游戏来机地_3A大作_单机游戏_PC单机游戏下载_免费电脑单机游戏_存档",
               "href": "https://www.jidiyouxi.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=jidiyouxi.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.jidiyouxi.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_1_17",
+              "title": "主页 | 梓澪の妙妙屋 | 免费Galgame仓库&下载站",
+              "href": "https://zi0.cc/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=zi0.cc&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "10_4",
@@ -4708,7 +4769,7 @@
             },
             {
               "id": "10_4_3",
-              "title": "Learn Unity Beginner/Intermediate 2025 (FREE COMPLETE Course - Unity Tutorial) - DownSub.com",
+              "title": "Learn Unity Beginner/Intermediate 2025 (FREE COMPLETE Course",
               "href": "https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAmGSEH7QcDg%26t%3D25587s",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=downsub.com&sz=64",
@@ -4724,13 +4785,98 @@
             },
             {
               "id": "10_4_5",
-              "title": "免费音频转录——准确快速的 AI 转录 --- Free YouTube to MP4 Converter Online[Any Platform]",
+              "title": "免费音频转录",
               "href": "https://audiotranscription.io/video-downloader/youtube-to-mp4-converter",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?domain=audiotranscription.io&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "10_55b4",
+          "title": "插画/同人（可能NSFW）",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_4",
+              "title": "[pixiv] R-18热门作品",
+              "href": "https://www.pixiv.net/popular.php?mode=r18",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.pixiv.net&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "9_2_3",
+              "title": "かいづか | 琉璃神社 ★ HACG.me",
+              "href": "https://www.hacg.mom/wp/tag/%E3%81%8B%E3%81%84%E3%81%A5%E3%81%8B",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.hacg.mom&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "10_84a0",
+          "title": "视频/直播平台",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "3_2_5",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_9",
+              "title": "Twitch",
+              "href": "https://www.twitch.tv/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.twitch.tv&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_2_10",
+              "title": "TikTok - Make Your Day",
+              "href": "https://www.tiktok.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.tiktok.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_1_4",
+              "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+              "href": "https://www.bilibili.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.bilibili.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_5_1",
+              "title": "两周年大制作！五分钟带你看完俄乌战争！【两周年】【年表2.0】_哔哩哔哩_bilibili",
+              "href": "https://www.bilibili.com/video/BV1KS421N7on/?vd_source=137be5313e20ab659a9542722291ee56",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.bilibili.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "11_1_1",
+              "title": "怎么找动漫生肉素材并且 - 哔哩哔哩",
+              "href": "https://www.bilibili.com/read/cv7604919",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.bilibili.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         }
       ],
       "description": "",
@@ -4750,14 +4896,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "11_1_1",
-              "title": "怎么找动漫生肉素材并且 - 哔哩哔哩",
-              "href": "https://www.bilibili.com/read/cv7604919",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bilibili.com&sz=64",
-              "enabled": true
-            },
-            {
               "id": "11_1_2",
               "title": "首頁 - 動漫花園資源網 - 動漫愛好者的自由交流平台",
               "href": "https://dmhy.anoneko.com//",
@@ -4770,7 +4908,7 @@
               "title": "链接页面",
               "href": "https://www.yueliu.cn/v20/#/links?fromShare=1",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yueliu.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yueliu.cn&sz=64",
               "enabled": true
             },
             {
@@ -4781,7 +4919,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         }
       ],
       "description": "",
@@ -4805,10 +4944,11 @@
               "title": "科研废物导航 - 科研，从这里开始！",
               "href": "https://www.yanweb.top/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yanweb.top&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.yanweb.top&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "12_2",
@@ -4830,7 +4970,7 @@
               "title": "艾瑞咨询",
               "href": "https://www.iresearch.com.cn/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=iresearch.com.cn&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.iresearch.com.cn&sz=64",
               "enabled": true
             },
             {
@@ -4849,7 +4989,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         }
       ],
       "description": "",
@@ -4873,10 +5014,11 @@
               "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
               "href": "https://www.jd.com/",
               "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=jd.com&sz=64",
+              "icon": "https://www.google.com/s2/favicons?domain=www.jd.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         },
         {
           "id": "13_2",
@@ -4893,7 +5035,8 @@
               "icon": "https://www.google.com/s2/favicons?domain=hardwaretester.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": []
         }
       ],
       "description": "",
@@ -4904,7 +5047,26 @@
       "title": "待整理",
       "icon": "Inbox",
       "items": [],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "14_5c7a",
+          "title": "需手动确认/敏感链接",
+          "icon": "Folder",
+          "items": [
+            {
+              "id": "9_2_13",
+              "title": "最新社工库: X-ray社工库，支持查询微信、公积金、身份证、支付宝、微博绑定等数据-社工库",
+              "href": "https://www.shegongku.top/46.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?domain=www.shegongku.top&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
       "description": "",
       "enabled": true
     }
