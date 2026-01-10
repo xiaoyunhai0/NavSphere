@@ -8,6 +8,6 @@ GITHUB_ID = "Ov23limyNXXkMlhIlVGb"
 GITHUB_OWNER = "xiaoyunhai0"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://xiaoyunhai0.qzz.io/api/auth"
-NEXT_PUBLIC_API_URL="https://xiaoyunhai0.qzz.io"
+NEXTAUTH_URL = "https://nav.vnoo.de/api/auth"
+NEXT_PUBLIC_API_URL="https://nav.vnoo.de"
 
