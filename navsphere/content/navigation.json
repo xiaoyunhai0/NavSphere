@@ -2,111 +2,65 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用入口",
-      "icon": "Star",
+      "title": "AI与大模型",
+      "icon": "Sparkles",
+      "description": "对话/模型/创作",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "1_1",
-          "title": "常用工具",
+          "title": "对话入口",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "1_1_1",
-              "title": "api1",
-              "href": "https://console.cloud.google.com/welcome",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=console.cloud.google.com&sz=64",
+              "title": "AI Studio",
+              "href": "https://aistudio.google.com/",
+              "description": "Google AI",
+              "icon": "https://aistudio.google.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_1_2",
-              "title": "HarmonyOS应用开发者高级认证-华为开发者学堂",
-              "href": "https://developer.huawei.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=developer.huawei.com&sz=64",
+              "title": "ChatGPT",
+              "href": "https://chatgpt.com/",
+              "description": "对话 AI",
+              "icon": "https://chatgpt.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_1_3",
-              "title": "归档",
-              "href": "https://weikunou.github.io/archives/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=weikunou.github.io&sz=64",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/",
+              "description": "对话 AI",
+              "icon": "https://chat.deepseek.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_1_4",
-              "title": "总览",
-              "href": "https://screeps-cn.github.io/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=screeps-cn.github.io&sz=64",
+              "title": "Gemini",
+              "href": "https://gemini.google.com/",
+              "description": "Google 助手",
+              "icon": "https://gemini.google.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_1_5",
-              "title": "太空公司 NG",
-              "href": "https://g8hh.github.io/NGSpaceCompany/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=g8hh.github.io&sz=64",
+              "title": "NotebookLM",
+              "href": "https://notebooklm.google.com/",
+              "description": "资料总结",
+              "icon": "https://notebooklm.google.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_1_6",
-              "title": "通用",
-              "href": "https://mirror-networking.gitbook.io/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mirror-networking.gitbook.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_7",
-              "title": "TAG",
-              "href": "https://honven.dedicated-afflink.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=honven.dedicated-afflink.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_8",
-              "title": "U校园",
-              "href": "https://u.unipus.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=u.unipus.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_9",
-              "title": "Bing",
-              "href": "https://www.bing.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.bing.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_10",
-              "title": "KOOK",
-              "href": "https://www.kookapp.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.kookapp.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_11",
-              "title": "通义千问",
-              "href": "https://qianwen.aliyun.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=qianwen.aliyun.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_12",
-              "title": "sora.com",
-              "href": "https://sora.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=sora.com&sz=64",
+              "title": "Perplexity",
+              "href": "https://www.perplexity.ai/",
+              "description": "AI 搜索",
+              "icon": "https://perplexity.ai/favicon.ico",
               "enabled": true
             }
           ],
@@ -114,49 +68,17 @@
         },
         {
           "id": "1_2",
-          "title": "AI 快捷入口",
+          "title": "工具",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "1_2_1",
-              "title": "DALL·E",
-              "href": "https://labs.openai.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=labs.openai.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_2_2",
-              "title": "New chat",
-              "href": "https://chat.openai.com/chat",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chat.openai.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_2_3",
-              "title": "Google Gemini",
-              "href": "https://gemini.google.com/app",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_2_4",
-              "title": "Google AI Studio",
-              "href": "https://aistudio.google.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_2_5",
-              "title": "DeepSeek",
-              "href": "https://chat.deepseek.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com&sz=64",
+              "title": "Wolfram",
+              "href": "https://www.wolframalpha.com/",
+              "description": "计算知识",
+              "icon": "https://wolframalpha.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -164,41 +86,25 @@
         },
         {
           "id": "1_3",
-          "title": "学习/校园快捷入口",
+          "title": "平台与社区",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "1_3_1",
-              "title": "滁州学院",
-              "href": "https://www.chzu.edu.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.chzu.edu.cn&sz=64",
+              "title": "Hugging Face",
+              "href": "https://huggingface.co/",
+              "description": "模型/数据集",
+              "icon": "https://huggingface.co/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_3_2",
-              "title": "CHZUOJ",
-              "href": "https://webvpn.chzu.edu.cn/http/webvpn3231302e34352e3136302e313038",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=webvpn.chzu.edu.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_3_3",
-              "title": "线上课程_宏志助航",
-              "href": "https://hzzh.chsi.com.cn/kc/xx/suugkcmfcipan156",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=hzzh.chsi.com.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_3_4",
-              "title": "软件测试2025春",
-              "href": "https://trustie.educoder.net/classrooms/7emr23w5/shixun_homework",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=trustie.educoder.net&sz=64",
+              "title": "OpenRouter",
+              "href": "https://openrouter.ai/",
+              "description": "模型路由",
+              "icon": "https://openrouter.ai/favicon.ico",
               "enabled": true
             }
           ],
@@ -206,157 +112,153 @@
         },
         {
           "id": "1_4",
-          "title": "常用网站集合",
+          "title": "官方与文档",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "1_4_1",
-              "title": "Fix bash detection failure in VS Code Co…",
-              "href": "https://github.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+              "title": "Claude Docs",
+              "href": "https://docs.claude.com/",
+              "description": "Claude 文档",
+              "icon": "https://docs.claude.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_4_2",
-              "title": "Awesome Cloudflare",
-              "href": "https://cloudflare.chuhai.tools/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cloudflare.chuhai.tools&sz=64",
+              "title": "OpenAI",
+              "href": "https://openai.com/",
+              "description": "官网/研究",
+              "icon": "https://openai.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_4_3",
-              "title": "域名",
-              "href": "https://www.spaceship.com/zh/domains/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.spaceship.com&sz=64",
+              "title": "OpenAI API",
+              "href": "https://platform.openai.com/",
+              "description": "API 平台",
+              "icon": "https://platform.openai.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "1_4_4",
-              "title": "哪煮米",
-              "href": "https://www.nazhumi.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.nazhumi.com&sz=64",
+              "title": "OpenAI Help",
+              "href": "https://help.openai.com/",
+              "description": "帮助中心",
+              "icon": "https://help.openai.com/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "1_5",
+          "title": "社区与资源",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1_5_1",
+              "title": "LM Arena",
+              "href": "https://lmarena.ai/",
+              "description": "模型排行",
+              "icon": "https://lmarena.ai/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "1_5_2",
+              "title": "OpenAI 社区",
+              "href": "https://community.openai.com/",
+              "description": "论坛社区",
+              "icon": "https://community.openai.com/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "1_6",
+          "title": "AI创作",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1_6_1",
+              "title": "Midjourney",
+              "href": "https://www.midjourney.com/",
+              "description": "图像生成",
+              "icon": "https://midjourney.com/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "2",
-      "title": "AI 与大模型",
-      "icon": "Sparkles",
+      "title": "开发与编程",
+      "icon": "Code",
+      "description": "代码/文档/刷题",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "2_1",
-          "title": "AI 助手/对话入口",
+          "title": "文档与教程",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "2_1_1",
-              "title": "‎Bard",
-              "href": "https://bard.google.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bard.google.com&sz=64",
+              "title": "Markdown",
+              "href": "https://markdown.com.cn/",
+              "description": "语法速查",
+              "icon": "https://markdown.com.cn/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_1_2",
-              "title": "Pricing",
-              "href": "https://openai.com/api/pricing/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+              "title": "MS Learn",
+              "href": "https://learn.microsoft.com/",
+              "description": "微软文档",
+              "icon": "https://learn.microsoft.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_1_3",
-              "title": "Hugging Face",
-              "href": "https://huggingface.co/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64",
+              "title": "W3School",
+              "href": "https://www.w3school.com.cn/",
+              "description": "Web 教程",
+              "icon": "https://w3school.com.cn/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_1_4",
-              "title": "在 Windows 上运行 Codex --- Running Codex on…",
-              "href": "https://developers.openai.com/codex/windows",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=developers.openai.com&sz=64",
+              "title": "华为开发者",
+              "href": "https://developer.huawei.com/",
+              "description": "文档/社区",
+              "icon": "https://developer.huawei.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_1_5",
-              "title": "Perplexity Discover",
-              "href": "https://www.perplexity.ai/discover",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64",
+              "title": "菜鸟教程",
+              "href": "https://www.runoob.com/",
+              "description": "编程速查",
+              "icon": "https://runoob.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_1_6",
-              "title": "LMArena 排行榜 |比较与基准测试最佳前沿 AI 模型 --- LMAre…",
-              "href": "https://lmarena.ai/zh/leaderboard/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=lmarena.ai&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_7",
-              "title": "Untitled notebook",
-              "href": "https://notebooklm.google.com/notebook/d3400b42-dc64-4c86-9499-8f3ff6d7def1",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_8",
-              "title": "首页",
-              "href": "https://www.chiphell.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.chiphell.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_9",
-              "title": "恢复照片",
-              "href": "https://www.photorestore.io/quality",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.photorestore.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_10",
-              "title": "AI工具集官网",
-              "href": "https://ai-bot.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_11",
-              "title": "FlowGPT",
-              "href": "https://flowgpt.ai/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=flowgpt.ai&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_1_12",
-              "title": "Free GPT",
-              "href": "https://guomibao.com/starred",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=guomibao.com&sz=64",
+              "title": "阿里开发者",
+              "href": "https://developer.aliyun.com/",
+              "description": "文档/社区",
+              "icon": "https://developer.aliyun.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -364,17 +266,25 @@
         },
         {
           "id": "2_2",
-          "title": "官方平台与文档",
+          "title": "代码与协作",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "2_2_1",
-              "title": "管理 Claude 的内存",
-              "href": "https://docs.claude.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docs.claude.com&sz=64",
+              "title": "Gitee",
+              "href": "https://gitee.com/",
+              "description": "代码托管",
+              "icon": "https://gitee.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "2_2_2",
+              "title": "GitHub",
+              "href": "https://github.com/",
+              "description": "代码托管",
+              "icon": "https://github.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -382,105 +292,41 @@
         },
         {
           "id": "2_3",
-          "title": "API / 控制台 / Key 管理",
+          "title": "刷题与面试",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "2_3_1",
-              "title": "Overview",
-              "href": "https://platform.openai.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=platform.openai.com&sz=64",
+              "title": "Codeforces",
+              "href": "https://codeforces.com/",
+              "description": "竞赛刷题",
+              "icon": "https://codeforces.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_3_2",
-              "title": "Google AI Studio",
-              "href": "https://aistudio.google.com/api-keys",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
+              "title": "PTA",
+              "href": "https://pintia.cn/",
+              "description": "编程练习",
+              "icon": "https://pintia.cn/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_3_3",
-              "title": "火山方舟管理控制台",
-              "href": "https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=console.volcengine.com&sz=64",
+              "title": "力扣",
+              "href": "https://leetcode.cn/",
+              "description": "刷题",
+              "icon": "https://leetcode.cn/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_3_4",
-              "title": "Claude Code中国站",
-              "href": "https://claude.nonocode.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=claude.nonocode.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_5",
-              "title": "PPIO",
-              "href": "https://ppio.com/invitation",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ppio.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_6",
-              "title": "KFC API",
-              "href": "https://kfc-api.sxxe.net/console",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=kfc-api.sxxe.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_7",
-              "title": "MoleAPI",
-              "href": "https://home.moleapi.com/pricing",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=home.moleapi.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_8",
-              "title": "NyxarAI",
-              "href": "https://api.nyxar.org/console",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=api.nyxar.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_9",
-              "title": "hlwy api",
-              "href": "https://api.voct.dev/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=api.voct.dev&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_10",
-              "title": "Your API",
-              "href": "https://yourapi.cn/console/token",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=yourapi.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_11",
-              "title": "PackyCode",
-              "href": "https://www.packycode.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.packycode.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_12",
-              "title": "便携AI聚合API",
-              "href": "https://api.bianxie.ai/token",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=api.bianxie.ai&sz=64",
+              "title": "牛客",
+              "href": "https://www.nowcoder.com/",
+              "description": "刷题/面经",
+              "icon": "https://nowcoder.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -488,421 +334,137 @@
         },
         {
           "id": "2_4",
-          "title": "提示词/教程/社区",
+          "title": "开发工具",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "2_4_1",
-              "title": "ChatGPT",
-              "href": "https://community.openai.com/c/chatgpt/19",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=community.openai.com&sz=64",
+              "title": "ECharts",
+              "href": "https://echarts.apache.org/",
+              "description": "可视化图表",
+              "icon": "https://echarts.apache.org/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_4_2",
-              "title": "OpenAI 帮助中心",
-              "href": "https://help.openai.com/en/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=help.openai.com&sz=64",
+              "title": "JetBrains",
+              "href": "https://www.jetbrains.com/",
+              "description": "IDE 工具",
+              "icon": "https://jetbrains.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "2_4_3",
-              "title": "ChatGPT博客",
-              "href": "https://chatgptboke.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chatgptboke.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_4_4",
-              "title": "ChatGPT中文网",
-              "href": "https://upchatgpt.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=upchatgpt.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_4_5",
-              "title": "ChatGPT Next Web 部署教程：一键搭建一个国内可以访问的 Chat…",
-              "href": "https://laowangblog.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=laowangblog.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_4_6",
-              "title": "Open WebUI 部署教程：体验直逼 ChatGPT 的高级 AI 对话客户…",
-              "href": "https://blog.zetatechs.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=blog.zetatechs.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_4_7",
-              "title": "如何解决ChatGPT4变笨了、被降智了的方法分享，教你怎么解决ChatGPT降…",
-              "href": "https://openssora.com/how-solve-chatgpt-degrade/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=openssora.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "2_5",
-          "title": "MCP / 插件生态",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "2_5_1",
-              "title": "MCP 简介",
-              "href": "https://mcp-docs.cn/introduction",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mcp-docs.cn&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "2_6",
-          "title": "AI 图像/创作",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "2_6_1",
-              "title": "Midjourney",
-              "href": "https://www.midjourney.com/home/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.midjourney.com&sz=64",
+              "title": "Replit",
+              "href": "https://replit.com/",
+              "description": "在线 IDE",
+              "icon": "https://replit.com/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "3",
-      "title": "开发与编程",
-      "icon": "Code",
+      "title": "云与部署",
+      "icon": "Cloud",
+      "description": "云平台/部署",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "3_1",
-          "title": "代码托管与协作",
+          "title": "云平台",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "3_1_1",
-              "title": "工作台",
-              "href": "https://gitee.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gitee.com&sz=64",
+              "title": "Azure",
+              "href": "https://azure.microsoft.com/",
+              "description": "云平台",
+              "icon": "https://azure.microsoft.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "3_1_2",
-              "title": "GitHub Education",
-              "href": "https://education.github.com/globalcampus/student",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=education.github.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "3_2",
-          "title": "刷题/OJ",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_2_1",
-              "title": "牛客网",
-              "href": "https://www.nowcoder.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.nowcoder.com&sz=64",
+              "title": "GCP",
+              "href": "https://console.cloud.google.com/",
+              "description": "云控制台",
+              "icon": "https://console.cloud.google.com/favicon.ico",
               "enabled": true
             },
             {
-              "id": "3_2_2",
-              "title": "代码强制",
-              "href": "https://codeforces.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=codeforces.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_2_3",
-              "title": "力扣（LeetCode）官网",
-              "href": "https://leetcode.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=leetcode.cn&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "3_3",
-          "title": "文档/教程/速查",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_3_1",
-              "title": "菜鸟教程",
-              "href": "https://www.runoob.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.runoob.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "3_4",
-          "title": "技术社区/博客",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_4_1",
-              "title": "Home",
-              "href": "https://replit.com/~",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=replit.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_2",
-              "title": "JetBrains：软件开发人员和团队的基本工具",
-              "href": "https://www.jetbrains.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_3",
-              "title": "码市",
-              "href": "https://codemart.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=codemart.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_4",
-              "title": "PTA",
-              "href": "https://pintia.cn/home",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pintia.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_5",
-              "title": "开发邦",
-              "href": "https://www.kaifabang.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.kaifabang.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_6",
-              "title": "人人开发",
-              "href": "https://rrkf.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=rrkf.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_7",
-              "title": "学习C++",
-              "href": "https://www.learncpp.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.learncpp.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_8",
-              "title": "头歌实践教学平台",
-              "href": "https://trustie.educoder.net/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=trustie.educoder.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_9",
-              "title": "可信赖的软件外包服务",
-              "href": "https://www.yingxuan.co/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.yingxuan.co&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_10",
-              "title": "CS 61A 2020 年秋季",
-              "href": "https://inst.eecs.berkeley.edu/~cs61a/fa20/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=inst.eecs.berkeley.edu&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_4_11",
-              "title": "程序员客栈-领先的程序员自由远程工作平台",
-              "href": "https://www.proginn.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.proginn.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "3_5",
-          "title": "开发工具/资源站",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_5_1",
-              "title": "Chrome 应用商店",
-              "href": "https://chrome.google.com/webstore/search/aiprm%20for%20chatgpt",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chrome.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_2",
-              "title": "软仓",
-              "href": "https://ruancang.net/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ruancang.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_3",
-              "title": "首页",
-              "href": "https://console.amap.com/dev/index",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=console.amap.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_4",
-              "title": "用户脚本",
-              "href": "https://greasyfork.org/zh-CN/scripts",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_5",
-              "title": "用户脚本",
-              "href": "https://sleazyfork.org/zh-CN/scripts",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=sleazyfork.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_6",
-              "title": "站长之家",
-              "href": "https://www.chinaz.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.chinaz.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_7",
-              "title": "Tbox导航",
-              "href": "https://www.tboxn.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.tboxn.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_8",
-              "title": "文章封面生成器",
-              "href": "https://cover.zippic.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cover.zippic.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_9",
-              "title": "官方高级驱动搜索",
-              "href": "https://www.nvidia.cn/Download/Find.aspx",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.nvidia.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_5_10",
-              "title": "Greasy Fork",
-              "href": "https://greasyfork.org/zh-CN/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=greasyfork.org&sz=64",
+              "id": "3_1_3",
+              "title": "火山引擎",
+              "href": "https://console.volcengine.com/",
+              "description": "云控制台",
+              "icon": "https://console.volcengine.com/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "4",
-      "title": "可视化与建模",
-      "icon": "Workflow",
+      "title": "效率工具",
+      "icon": "LayoutGrid",
+      "description": "笔记/图表/协作",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "4_1",
-          "title": "流程图/架构图",
+          "title": "笔记与文档",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "4_1_1",
-              "title": "阿发你好官网",
-              "href": "https://afanihao.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=afanihao.cn&sz=64",
+              "title": "FlowUs",
+              "href": "https://flowus.cn/",
+              "description": "知识库",
+              "icon": "https://flowus.cn/favicon.ico",
               "enabled": true
             },
             {
               "id": "4_1_2",
-              "title": "专业人士的3D模型 ：： TurboSquid",
-              "href": "https://www.turbosquid.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.turbosquid.com&sz=64",
+              "title": "Notion",
+              "href": "https://www.notion.so/",
+              "description": "笔记/项目",
+              "icon": "https://notion.so/favicon.ico",
               "enabled": true
             },
             {
               "id": "4_1_3",
-              "title": "Buy Royalty Free 3D models",
-              "href": "https://sketchfab.com/store",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=sketchfab.com&sz=64",
+              "title": "腾讯文档",
+              "href": "https://docs.qq.com/",
+              "description": "在线协作",
+              "icon": "https://docs.qq.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "4_1_4",
+              "title": "语雀",
+              "href": "https://www.yuque.com/",
+              "description": "笔记文档",
+              "icon": "https://yuque.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "4_1_5",
+              "title": "金山文档",
+              "href": "https://www.kdocs.cn/",
+              "description": "在线协作",
+              "icon": "https://kdocs.cn/favicon.ico",
               "enabled": true
             }
           ],
@@ -910,157 +472,85 @@
         },
         {
           "id": "4_2",
-          "title": "流程图/图表工具",
+          "title": "图表与建模",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "4_2_1",
-              "title": "Untitled",
-              "href": "https://dbdiagram.io/d",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dbdiagram.io&sz=64",
+              "title": "dbdiagram",
+              "href": "https://dbdiagram.io/",
+              "description": "ER 建模",
+              "icon": "https://dbdiagram.io/favicon.ico",
               "enabled": true
             },
             {
               "id": "4_2_2",
-              "title": "PlantUML Web Server",
-              "href": "https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700003",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.plantuml.com&sz=64",
+              "title": "Mermaid",
+              "href": "https://mermaid.live/",
+              "description": "图表编辑",
+              "icon": "https://mermaid.live/favicon.ico",
               "enabled": true
             },
             {
               "id": "4_2_3",
-              "title": "在线教育平台的系统关联图2-ProcessOn",
-              "href": "https://www.processon.com/diagraming/66fb97a7da38ea3e04a17387",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.processon.com&sz=64",
+              "title": "PlantUML",
+              "href": "https://www.plantuml.com/",
+              "description": "UML 图",
+              "icon": "https://plantuml.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "4_2_4",
-              "title": "在线流程图和图表编辑器",
-              "href": "https://mermaid.live/edit",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mermaid.live&sz=64",
+              "title": "ProcessOn",
+              "href": "https://www.processon.com/",
+              "description": "流程图",
+              "icon": "https://processon.com/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "5",
-      "title": "办公与效率",
-      "icon": "Briefcase",
+      "title": "设计与素材",
+      "icon": "Palette",
+      "description": "图片/纹理/素材",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "5_1",
-          "title": "模板/PPT/办公资源",
+          "title": "图片与灵感",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "5_1_1",
-              "title": "闪击PPT",
-              "href": "https://ppt.sankki.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ppt.sankki.com&sz=64",
+              "title": "AlphaCoders",
+              "href": "https://alphacoders.com/",
+              "description": "壁纸库",
+              "icon": "https://alphacoders.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "5_1_2",
-              "title": "HiPPTER",
-              "href": "https://www.hippter.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.hippter.com&sz=64",
+              "title": "Pinterest",
+              "href": "https://www.pinterest.com/",
+              "description": "灵感收集",
+              "icon": "https://pinterest.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "5_1_3",
-              "title": "图片取色器/拾色器",
-              "href": "https://www.jyshare.com/front-end/6214/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.jyshare.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_4",
-              "title": "Apache ECharts",
-              "href": "https://echarts.apache.org/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=echarts.apache.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_5",
-              "title": "在线转换文档，图像，视频，音频文件",
-              "href": "https://www.aconvert.com/cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.aconvert.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_6",
-              "title": "OfficePLUS- 让PPT制作更简单",
-              "href": "https://www.officeplus.cn/Template/home.shtml",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.officeplus.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_7",
-              "title": "PPT模板_PPT模板免费下载_免费PPT模板下载网站 -【PPT汇】",
-              "href": "https://www.ppthui.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.ppthui.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_8",
-              "title": "PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】",
-              "href": "https://www.ypppt.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.ypppt.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_9",
-              "title": "PPT超级市场官网-PPT模板免费下载、最新PPT成品搜索",
-              "href": "https://www.pptsupermarket.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.pptsupermarket.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_10",
-              "title": "萝卜工坊_一键生成手写文稿_手写模拟器_手写字体在线转换_在线字体制作_手写AP…",
-              "href": "https://www.beautifulcarrot.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.beautifulcarrot.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_11",
-              "title": "51PPT模板网",
-              "href": "https://www.51pptmoban.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.51pptmoban.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_12",
-              "title": "PPT模板_PPT模版免费下载_免费PPT模板下载 -【第一PPT】",
-              "href": "https://www.1ppt.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.1ppt.com&sz=64",
+              "title": "Wallhaven",
+              "href": "https://wallhaven.cc/",
+              "description": "壁纸",
+              "icon": "https://wallhaven.cc/favicon.ico",
               "enabled": true
             }
           ],
@@ -1068,61 +558,219 @@
         },
         {
           "id": "5_2",
-          "title": "邮箱/账号",
+          "title": "3D素材",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "5_2_1",
-              "title": "Free Email Addresses: Web based and secu…",
-              "href": "https://navigator-lxa.mail.com/mail",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=navigator-lxa.mail.com&sz=64",
+              "title": "AmbientCG",
+              "href": "https://ambientcg.com/",
+              "description": "PBR 材质",
+              "icon": "https://ambientcg.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "5_2_2",
-              "title": "(1) 收件箱",
-              "href": "https://mail.proton.me/u/0/inbox",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mail.proton.me&sz=64",
+              "title": "CG模型网",
+              "href": "https://www.cgmodel.com/",
+              "description": "3D 模型",
+              "icon": "https://cgmodel.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_2_3",
+              "title": "Free3D",
+              "href": "https://free3d.com/",
+              "description": "3D 模型",
+              "icon": "https://free3d.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_2_4",
+              "title": "Poliigon",
+              "href": "https://www.poliigon.com/",
+              "description": "纹理素材",
+              "icon": "https://poliigon.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_2_5",
+              "title": "Poly Haven",
+              "href": "https://polyhaven.com/",
+              "description": "HDRI/材质",
+              "icon": "https://polyhaven.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_2_6",
+              "title": "Sketchfab",
+              "href": "https://sketchfab.com/",
+              "description": "3D 展示",
+              "icon": "https://sketchfab.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_2_7",
+              "title": "TextureLabs",
+              "href": "https://texturelabs.org/",
+              "description": "纹理/笔刷",
+              "icon": "https://texturelabs.org/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_2_8",
+              "title": "Textures",
+              "href": "https://www.textures.com/",
+              "description": "纹理库",
+              "icon": "https://textures.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_2_9",
+              "title": "TurboSquid",
+              "href": "https://www.turbosquid.com/",
+              "description": "3D 模型",
+              "icon": "https://turbosquid.com/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "5_3",
+          "title": "游戏素材",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_3_1",
+              "title": "Kenney",
+              "href": "https://www.kenney.nl/",
+              "description": "游戏素材",
+              "icon": "https://kenney.nl/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_3_2",
+              "title": "OpenGameArt",
+              "href": "https://opengameart.org/",
+              "description": "免费素材",
+              "icon": "https://opengameart.org/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_3_3",
+              "title": "Sprite资源",
+              "href": "https://www.spriters-resource.com/",
+              "description": "精灵图",
+              "icon": "https://spriters-resource.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_3_4",
+              "title": "爱给网",
+              "href": "https://www.aigei.com/",
+              "description": "音效/素材",
+              "icon": "https://aigei.com/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "5_4",
+          "title": "设计工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_4_1",
+              "title": "Photopea",
+              "href": "https://www.photopea.com/",
+              "description": "在线PS",
+              "icon": "https://photopea.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_4_2",
+              "title": "Piskel",
+              "href": "https://www.piskelapp.com/",
+              "description": "像素编辑",
+              "icon": "https://piskelapp.com/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "5_5",
+          "title": "图标与字体",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "5_5_1",
+              "title": "Game-icons",
+              "href": "https://game-icons.net/",
+              "description": "游戏图标",
+              "icon": "https://game-icons.net/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_5_2",
+              "title": "Iconfont",
+              "href": "https://www.iconfont.cn/",
+              "description": "图标库",
+              "icon": "https://iconfont.cn/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "6",
-      "title": "学习与校园",
-      "icon": "GraduationCap",
+      "title": "游戏开发",
+      "icon": "Gamepad2",
+      "description": "引擎/教程/资源",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "6_1",
-          "title": "校园系统/教务/内网入口",
+          "title": "Unity",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "6_1_1",
-              "title": "全国计算机等级考试（NCRE）成绩查询",
-              "href": "https://cjcx.neea.edu.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cjcx.neea.edu.cn&sz=64",
+              "title": "Unity Docs",
+              "href": "https://docs.unity3d.com/",
+              "description": "官方文档",
+              "icon": "https://docs.unity3d.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "6_1_2",
-              "title": "欢迎",
-              "href": "https://101.lug.ustc.edu.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=101.lug.ustc.edu.cn&sz=64",
+              "title": "Unity Learn",
+              "href": "https://learn.unity.com/",
+              "description": "学习平台",
+              "icon": "https://learn.unity.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "6_1_3",
+              "title": "Unity 中文",
+              "href": "https://docs.unity.cn/",
+              "description": "中文文档",
+              "icon": "https://docs.unity.cn/favicon.ico",
               "enabled": true
             }
           ],
@@ -1130,25 +778,17 @@
         },
         {
           "id": "6_2",
-          "title": "课程平台/慕课",
+          "title": "教程与课程",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "6_2_1",
-              "title": "滁州学院",
-              "href": "https://i.mooc.chaoxing.com/space/index",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=i.mooc.chaoxing.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_2_2",
-              "title": "考试列表",
-              "href": "https://mooc1.chaoxing.com/exam-ans/exam/test/examcode/examlist",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mooc1.chaoxing.com&sz=64",
+              "title": "CodeMonkey",
+              "href": "https://unitycodemonkey.com/",
+              "description": "Unity 教程",
+              "icon": "https://unitycodemonkey.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -1156,33 +796,33 @@
         },
         {
           "id": "6_3",
-          "title": "考试/证书",
+          "title": "资源市场",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "6_3_1",
-              "title": "工业和信息化部教育与考试中心",
-              "href": "https://www.miiteec.org.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.miiteec.org.cn&sz=64",
+              "title": "Asset Store",
+              "href": "https://assetstore.unity.com/",
+              "description": "Unity 资源",
+              "icon": "https://assetstore.unity.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "6_3_2",
-              "title": "全国计算机等级考试考务管理系统",
-              "href": "https://ncre-bm.neea.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=ncre-bm.neea.cn&sz=64",
+              "title": "Fab",
+              "href": "https://www.fab.com/",
+              "description": "资产市场",
+              "icon": "https://fab.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "6_3_3",
-              "title": "2023年计算机技术与软件专业技术资格 (水平)考试模拟作答系统-希赛网",
-              "href": "https://wangxiao.xisaiwang.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=wangxiao.xisaiwang.com&sz=64",
+              "title": "itch.io",
+              "href": "https://itch.io/",
+              "description": "独立游戏",
+              "icon": "https://itch.io/favicon.ico",
               "enabled": true
             }
           ],
@@ -1190,97 +830,25 @@
         },
         {
           "id": "6_4",
-          "title": "计算机自学",
+          "title": "引擎与工具",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "6_4_1",
-              "title": "Solve ∫ xe^-x wrt x",
-              "href": "https://mathsolver.microsoft.com/en/solve-problem/%60displaystyle%60int%7B%20x%20%7B%20e%20%20%7D%5E%7B%20-x%20%20%7D%20%20%20%20%7Dd%20x",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=mathsolver.microsoft.com&sz=64",
+              "title": "Photon",
+              "href": "https://dashboard.photonengine.com/",
+              "description": "联机服务",
+              "icon": "https://dashboard.photonengine.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "6_4_2",
-              "title": "首页",
-              "href": "https://boardmix.cn/app/home/flowchart",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=boardmix.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_3",
-              "title": "易班网",
-              "href": "https://www.yiban.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.yiban.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_4",
-              "title": "认证框架",
-              "href": "https://www.pmi.org/certifications/become-a-project-manager/certification-framework",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.pmi.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_5",
-              "title": "中国计算机学会",
-              "href": "https://www.ccf.org.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.ccf.org.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_6",
-              "title": "Myccr云课堂",
-              "href": "https://myccr.net/%EF%BC%89",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=myccr.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_7",
-              "title": "攀拓计算机能力测评",
-              "href": "https://www.patest.cn/home",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.patest.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_8",
-              "title": "Java17中文文档",
-              "href": "https://doc.qzxdp.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=doc.qzxdp.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_9",
-              "title": "中国计算机技术职业资格网",
-              "href": "https://www.ruankao.org.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.ruankao.org.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_10",
-              "title": "Documentation",
-              "href": "https://www.glfw.org/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.glfw.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_4_11",
-              "title": "安徽省网络课程学习中心（e会学）",
-              "href": "https://www.ehuixue.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.ehuixue.cn&sz=64",
+              "title": "Unreal",
+              "href": "https://www.unrealengine.com/",
+              "description": "虚幻引擎",
+              "icon": "https://unrealengine.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -1288,109 +856,45 @@
         },
         {
           "id": "6_5",
-          "title": "面经/求职/经验",
+          "title": "素材资源",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "6_5_1",
-              "title": "智联招聘数据爬取（踩坑篇）",
-              "href": "https://zhuanlan.zhihu.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zhuanlan.zhihu.com&sz=64",
+              "title": "Mixamo",
+              "href": "https://www.mixamo.com/",
+              "description": "动画绑定",
+              "icon": "https://mixamo.com/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "7",
-      "title": "网络与科学上网",
-      "icon": "Globe",
+      "title": "游戏资源",
+      "icon": "Dice5",
+      "description": "模组/数据/折扣",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "7_1",
-          "title": "机场面板/订阅管理",
+          "title": "购买与折扣",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "7_1_1",
-              "title": "推荐机场",
-              "href": "https://tuijianjichang.github.io/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=tuijianjichang.github.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_2",
-              "title": "仪表盘",
-              "href": "https://gurenyun.org/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gurenyun.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_3",
-              "title": "仪表盘",
-              "href": "https://cp.yushe.org/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cp.yushe.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_4",
-              "title": "仪表盘",
-              "href": "https://www.bygcloud.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.bygcloud.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_5",
-              "title": "仪表盘",
-              "href": "https://cnm.weyolo.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cnm.weyolo.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_6",
-              "title": "白月光",
-              "href": "https://bygcloud.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bygcloud.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_7",
-              "title": "EEVPN",
-              "href": "https://www.eevpn.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.eevpn.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_8",
-              "title": "HK-BEUP",
-              "href": "https://st.stga.cn/plan",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=st.stga.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_9",
-              "title": "IPRoyal",
-              "href": "https://dashboard.iproyal.com/products/royal-residential-proxies/create-order",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dashboard.iproyal.com&sz=64",
+              "title": "GMG",
+              "href": "https://www.greenmangaming.com/",
+              "description": "正版折扣",
+              "icon": "https://greenmangaming.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -1398,81 +902,25 @@
         },
         {
           "id": "7_2",
-          "title": "VPS/服务器",
+          "title": "模组与社区",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "7_2_1",
-              "title": "🌟 Popular",
-              "href": "https://docs.rsshub.app/routes/popular",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docs.rsshub.app&sz=64",
+              "title": "NexusMods",
+              "href": "https://www.nexusmods.com/",
+              "description": "模组资源",
+              "icon": "https://nexusmods.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "7_2_2",
-              "title": "购物车",
-              "href": "https://litevm.net/cart",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=litevm.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_3",
-              "title": "购物车",
-              "href": "https://www.uqidc.com/cart",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.uqidc.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_4",
-              "title": "客戶中心",
-              "href": "https://www.dmit.io/clientarea.php",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.dmit.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_5",
-              "title": "DigVPS",
-              "href": "https://digvps.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=digvps.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_6",
-              "title": "全球主机监控",
-              "href": "https://stock.hostmonit.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=stock.hostmonit.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_7",
-              "title": "🚀 入门指南",
-              "href": "https://docs.openwebui.com/getting-started/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docs.openwebui.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_8",
-              "title": "VPS促销监控",
-              "href": "https://vps-monitor.czl.net/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=vps-monitor.czl.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_2_9",
-              "title": "RackNerd",
-              "href": "https://www.racknerd.com/index.php",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.racknerd.com&sz=64",
+              "title": "Thunderstore",
+              "href": "https://thunderstore.io/",
+              "description": "模组平台",
+              "icon": "https://thunderstore.io/favicon.ico",
               "enabled": true
             }
           ],
@@ -1480,137 +928,61 @@
         },
         {
           "id": "7_3",
-          "title": "测速/监控/优惠",
+          "title": "游戏工具",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "7_3_1",
-              "title": "LowEndBox",
-              "href": "https://lowendbox.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=lowendbox.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "7_4",
-          "title": "eSIM/境外上网",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "7_4_1",
-              "title": "eSIM.gg",
-              "href": "https://esim.gg/lines",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=esim.gg&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "7_5",
-          "title": "代理/住宅IP",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "7_5_1",
-              "title": "主页",
-              "href": "https://dashboard.iproyal.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dashboard.iproyal.com&sz=64",
+              "title": "Metacritic",
+              "href": "https://www.metacritic.com/",
+              "description": "评分/评测",
+              "icon": "https://metacritic.com/favicon.ico",
               "enabled": true
             },
             {
-              "id": "7_5_2",
-              "title": "Cliproxy",
-              "href": "https://cliproxy.com/zh/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=cliproxy.com&sz=64",
+              "id": "7_3_2",
+              "title": "SteamDB",
+              "href": "https://steamdb.info/",
+              "description": "Steam 数据",
+              "icon": "https://steamdb.info/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "8",
-      "title": "金融与支付",
-      "icon": "Wallet",
+      "title": "社区与内容",
+      "icon": "Globe",
+      "description": "社区/视频/知识",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "8_1",
-          "title": "支付/银行卡/开户",
+          "title": "知识社区",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "8_1_1",
-              "title": "FOME派伊",
-              "href": "https://gpt.fomepay.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gpt.fomepay.com&sz=64",
+              "title": "CSDN",
+              "href": "https://www.csdn.net/",
+              "description": "技术社区",
+              "icon": "https://csdn.net/favicon.ico",
               "enabled": true
             },
             {
               "id": "8_1_2",
-              "title": "万事网联借记卡",
-              "href": "https://docofcard.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docofcard.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_3",
-              "title": "WildCard",
-              "href": "https://bewildcard.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=bewildcard.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_4",
-              "title": "PayPal: 账户首页",
-              "href": "https://www.paypal.com/myaccount/summary",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.paypal.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_5",
-              "title": "人工智障 Plus 充值系统",
-              "href": "https://pluscz.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=pluscz.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_6",
-              "title": "GPT自助充值-安全快捷方便！",
-              "href": "https://www.chonggpt.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.chonggpt.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_7",
-              "title": "2024香港汇丰银行内地在线开户指南：内地开户+赴港激活+全程免费",
-              "href": "https://www.kdkh.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.kdkh.com&sz=64",
+              "title": "掘金",
+              "href": "https://juejin.cn/",
+              "description": "技术社区",
+              "icon": "https://juejin.cn/favicon.ico",
               "enabled": true
             }
           ],
@@ -1618,169 +990,183 @@
         },
         {
           "id": "8_2",
-          "title": "风控/反欺诈",
+          "title": "社区",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "8_2_1",
-              "title": "Scamalytics",
-              "href": "https://scamalytics.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=scamalytics.com&sz=64",
+              "title": "Discord",
+              "href": "https://discord.com/",
+              "description": "社群",
+              "icon": "https://discord.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "8_2_2",
+              "title": "Quora",
+              "href": "https://www.quora.com/",
+              "description": "问答",
+              "icon": "https://quora.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "8_2_3",
+              "title": "Reddit",
+              "href": "https://www.reddit.com/",
+              "description": "论坛",
+              "icon": "https://reddit.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "8_2_4",
+              "title": "X",
+              "href": "https://twitter.com/",
+              "description": "社交",
+              "icon": "https://twitter.com/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "8_3",
+          "title": "创作社区",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "8_3_1",
+              "title": "Pixiv",
+              "href": "https://www.pixiv.net/",
+              "description": "插画社区",
+              "icon": "https://pixiv.net/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "8_4",
+          "title": "视频",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "8_4_1",
+              "title": "B站",
+              "href": "https://www.bilibili.com/",
+              "description": "视频社区",
+              "icon": "https://bilibili.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "8_4_2",
+              "title": "TikTok",
+              "href": "https://www.tiktok.com/",
+              "description": "短视频",
+              "icon": "https://tiktok.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "8_4_3",
+              "title": "Twitch",
+              "href": "https://www.twitch.tv/",
+              "description": "直播",
+              "icon": "https://twitch.tv/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "8_4_4",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "视频",
+              "icon": "https://youtube.com/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "9",
-      "title": "社交与社区",
-      "icon": "Users",
+      "title": "学习与成长",
+      "icon": "GraduationCap",
+      "description": "路线/教程",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "9_1",
-          "title": "平台/社区",
+          "title": "文档与教程",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "9_1_1",
-              "title": "Quora",
-              "href": "https://www.quora.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.quora.com&sz=64",
+              "title": "GLFW",
+              "href": "https://www.glfw.org/",
+              "description": "图形库文档",
+              "icon": "https://glfw.org/favicon.ico",
               "enabled": true
-            },
+            }
+          ],
+          "subCategories": []
+        },
+        {
+          "id": "9_2",
+          "title": "学习路线",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
             {
-              "id": "9_1_2",
-              "title": "Reddit",
-              "href": "https://www.reddit.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.reddit.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "9_1_3",
-              "title": "Discord",
-              "href": "https://discord.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=discord.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "9_1_4",
-              "title": "Home / Twitter",
-              "href": "https://twitter.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=twitter.com&sz=64",
+              "id": "9_2_1",
+              "title": "CSDIY",
+              "href": "https://csdiy.wiki/",
+              "description": "自学指南",
+              "icon": "https://csdiy.wiki/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     },
     {
       "id": "10",
-      "title": "Unity 与游戏开发",
-      "icon": "Gamepad2",
+      "title": "工具箱",
+      "icon": "Wrench",
+      "description": "转换/查询",
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
           "id": "10_1",
-          "title": "学习路线/教程",
+          "title": "格式转换",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "10_1_1",
-              "title": "Unity User Manual 2021.2",
-              "href": "https://docs.unity3d.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docs.unity3d.com&sz=64",
+              "title": "AConvert",
+              "href": "https://www.aconvert.com/",
+              "description": "格式转换",
+              "icon": "https://aconvert.com/favicon.ico",
               "enabled": true
             },
             {
               "id": "10_1_2",
-              "title": "向宇it_社区达人页_第4页-阿里云开发者社区",
-              "href": "https://developer.aliyun.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=developer.aliyun.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_3",
-              "title": "Gizmos 菜单",
-              "href": "https://docs.unity.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docs.unity.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_4",
-              "title": "Unity指尖赛车",
-              "href": "https://gongqihua.github.io/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=gongqihua.github.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_5",
-              "title": "Code Monkey",
-              "href": "https://unitycodemonkey.com/courses.php",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=unitycodemonkey.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_6",
-              "title": "学习使用 Unity 制作游戏！初学者和中级者",
-              "href": "https://unitycodemonkey.com/kitchenchaoscourse.php",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=unitycodemonkey.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_7",
-              "title": "Ultimate Unity Overview (60+ Tools and F…",
-              "href": "https://unitycodemonkey.teachable.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=unitycodemonkey.teachable.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_8",
-              "title": "浏览",
-              "href": "https://www.patreon.com/home",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.patreon.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_9",
-              "title": "热更新实例",
-              "href": "https://blog.csdn.net/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=blog.csdn.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_1_10",
-              "title": "HybridCLR",
-              "href": "https://www.hybridclr.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.hybridclr.cn&sz=64",
+              "title": "CloudConvert",
+              "href": "https://cloudconvert.com/",
+              "description": "文件转换",
+              "icon": "https://cloudconvert.com/favicon.ico",
               "enabled": true
             }
           ],
@@ -1788,519 +1174,31 @@
         },
         {
           "id": "10_2",
-          "title": "官方文档/手册",
+          "title": "信息查询",
           "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
             {
               "id": "10_2_1",
-              "title": "坦克",
-              "href": "https://learn.unity.com/project/tanks-tutorial",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=learn.unity.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "10_3",
-          "title": "素材与美术资源",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "10_3_1",
-              "title": "用于制作游戏的优质资源",
-              "href": "https://assetstore.unity.com/zh-CN",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=assetstore.unity.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_2",
-              "title": "Unreal Engine Marketplace is now Fab",
-              "href": "https://www.unrealengine.com/marketplace/zh-CN/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.unrealengine.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_3",
-              "title": "使您的纹理可平铺，使用直方图保留混合",
-              "href": "https://unity-grenoble.github.io/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=unity-grenoble.github.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_4",
-              "title": "新闻动态",
-              "href": "https://sketchfab.com/feed",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=sketchfab.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_5",
-              "title": "CG模型网",
-              "href": "https://www.cgmodel.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.cgmodel.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_6",
-              "title": "Mixamo",
-              "href": "https://www.mixamo.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.mixamo.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_7",
-              "title": "Piskel",
-              "href": "https://www.piskelapp.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.piskelapp.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_8",
-              "title": "导读-最新热门",
-              "href": "https://www.iopq.net/forum.php",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.iopq.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_9",
-              "title": "Photopea",
-              "href": "https://www.photopea.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.photopea.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_10",
-              "title": "Poliigon",
-              "href": "https://www.poliigon.com/zh",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.poliigon.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "10_3_11",
-              "title": "Pinterest",
-              "href": "https://www.pinterest.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.pinterest.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "11",
-      "title": "资源与下载",
-      "icon": "Download",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "11_1",
-          "title": "软件/工具下载站",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "11_1_1",
-              "title": "开源软件",
-              "href": "https://www.oschina.net/project",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.oschina.net&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_1_2",
-              "title": "资源下载（yanweb.top）",
-              "href": "https://www.kdocs.cn/l/cnAPRIBU8qGr",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.kdocs.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_1_3",
-              "title": "在线二维码图片生成器_二维码扫描软件下载_联图二维码",
-              "href": "https://www.liantu.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.liantu.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_1_4",
-              "title": "未来软件园-精品绿色软件下载-免费素材下载-免费小说阅读-安全可靠的绿色软件下载…",
-              "href": "https://www.macxz.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.macxz.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_1_5",
-              "title": "熊猫无损音乐免费下载网站-WAV|FLAC|MP3|APE,提供在线简谱,在线歌…",
-              "href": "https://www.xmwav.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.xmwav.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_1_6",
-              "title": "myfreemp3音乐官网-mp3歌曲免费下载-myfreemp3在线音乐免费下…",
-              "href": "https://www.myfreemp3.com.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.myfreemp3.com.cn&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "11_2",
-          "title": "通用资源合集",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "11_2_1",
-              "title": "技术文档",
-              "href": "https://learn.microsoft.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=learn.microsoft.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_2",
-              "title": "小番茄图片混淆",
-              "href": "https://xfqtphx.netlify.app/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=xfqtphx.netlify.app&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_3",
-              "title": "Hexo",
-              "href": "https://hexo.io/zh-cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=hexo.io&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_4",
-              "title": "七七导航页",
-              "href": "https://docs.qq.com/sheet/DRVVxTHJ3RXJFVHVr",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=docs.qq.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_5",
-              "title": "小众技术工具库",
-              "href": "https://www.xiaozhongjishu.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.xiaozhongjishu.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_6",
-              "title": "TG电报频道群组导航",
-              "href": "https://dianbaodaohang.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dianbaodaohang.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_7",
-              "title": "Alpha Coders",
-              "href": "https://alphacoders.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=alphacoders.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_8",
-              "title": "iFixit：免费修理手册",
+              "title": "iFixit",
               "href": "https://zh.ifixit.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=zh.ifixit.com&sz=64",
+              "description": "维修指南",
+              "icon": "https://zh.ifixit.com/favicon.ico",
               "enabled": true
             },
             {
-              "id": "11_2_9",
-              "title": "WallpaperWaifu",
-              "href": "https://wallpaperwaifu.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=wallpaperwaifu.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_10",
-              "title": "Unity麦田物语模拟经营游戏开发教程-青知木杂货铺",
-              "href": "https://www.qzmzhp.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.qzmzhp.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "11_2_11",
-              "title": "Welcome • freemediaheckyeah",
-              "href": "https://fmhy.net/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=fmhy.net&sz=64",
+              "id": "10_2_2",
+              "title": "ZoomEarth",
+              "href": "https://zoom.earth/",
+              "description": "卫星云图",
+              "icon": "https://zoom.earth/favicon.ico",
               "enabled": true
             }
           ],
           "subCategories": []
         }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "12",
-      "title": "娱乐内容",
-      "icon": "Film",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "12_1",
-          "title": "游戏资源/工具/加速器",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "12_1_1",
-              "title": "Video Game Reviews, Articles, Trailers a…",
-              "href": "https://www.metacritic.com/game/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.metacritic.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "12_2",
-          "title": "视频/直播平台",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "12_2_1",
-              "title": "TikTok",
-              "href": "https://www.tiktok.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.tiktok.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "12_2_2",
-              "title": "Twitch",
-              "href": "https://www.twitch.tv/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.twitch.tv&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "12_2_3",
-              "title": "YouTube",
-              "href": "https://www.youtube.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "12_2_4",
-              "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-              "href": "https://www.bilibili.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.bilibili.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "13",
-      "title": "自媒体与剪辑",
-      "icon": "Video",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "13_1",
-          "title": "PR/剪辑教程与资源",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "13_1_1",
-              "title": "文本转语音 – 真实 AI 语音生成器",
-              "href": "https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "13_1_2",
-              "title": "首頁",
-              "href": "https://dmhy.anoneko.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=dmhy.anoneko.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "13_1_3",
-              "title": "链接页面",
-              "href": "https://www.yueliu.cn/v20/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.yueliu.cn&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "14",
-      "title": "写作与论文",
-      "icon": "FileText",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "14_1",
-          "title": "论文",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "14_1_1",
-              "title": "科研废物导航",
-              "href": "https://www.yanweb.top/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.yanweb.top&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "14_2",
-          "title": "软件需求分析",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "14_2_1",
-              "title": "VSCode实验步骤指南-李",
-              "href": "https://chatgpt.com/c/66f51d5d-8904-8005-b359-020432c4e7d3",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "14_2_2",
-              "title": "稀土掘金",
-              "href": "https://juejin.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=juejin.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "14_2_3",
-              "title": "艾瑞咨询",
-              "href": "https://www.iresearch.com.cn/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.iresearch.com.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "14_2_4",
-              "title": "TalkingData",
-              "href": "https://account.talkingdata.com/api/v1/center",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=account.talkingdata.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "15",
-      "title": "硬件与外设",
-      "icon": "Cpu",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "15_1",
-          "title": "购物",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "15_1_1",
-              "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
-              "href": "https://www.jd.com/",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=www.jd.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        },
-        {
-          "id": "15_2",
-          "title": "手柄/外设",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "15_2_1",
-              "title": "游戏手柄测试仪",
-              "href": "https://hardwaretester.com/gamepad",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?domain=hardwaretester.com&sz=64",
-              "enabled": true
-            }
-          ],
-          "subCategories": []
-        }
-      ],
-      "description": "",
-      "enabled": true
+      ]
     }
   ]
 }
