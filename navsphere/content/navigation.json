@@ -8,231 +8,37 @@
       "subCategories": [
         {
           "id": "1_1",
-          "title": "入口",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "多模态/生成",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "1_1_1",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "OpenAI 的对话式 AI 助手，支持写作/编程/问答。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768117221657_chatgpt.ico",
-              "enabled": true
-            },
-            {
-              "id": "1_1_2",
-              "title": "Gemini",
-              "href": "https://gemini.google.com/",
-              "description": "Google 的 AI 助手入口。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115089175_gemini.google.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_3",
-              "title": "Linux Do",
-              "href": "https://linux.do/",
-              "description": "中文技术社区/论坛（偏 AI/开发）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115097886_linux.do.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_4",
               "title": "Sora",
               "href": "https://sora.com/",
               "description": "OpenAI 的文生视频工具/应用入口。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115101748_sora.com.png",
               "enabled": true
-            },
-            {
-              "id": "1_1_5",
-              "title": "Mermaid Live",
-              "href": "https://mermaid.live/",
-              "description": "Mermaid 在线编辑与预览分享。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768116713068_mermaid.ico",
-              "enabled": true
-            },
-            {
-              "id": "1_1_6",
-              "title": "DeepSeek Chat",
-              "href": "https://chat.deepseek.com/",
-              "description": "DeepSeek 在线对话入口。",
-              "icon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_7",
-              "title": "AI Studio",
-              "href": "https://aistudio.google.com/",
-              "description": "Google AI Studio：测试与调用模型的开发入口。",
-              "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_1_8",
-              "title": "JetBrains",
-              "href": "https://www.jetbrains.com/",
-              "description": "开发者 IDE 与工具套件官网。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115118671_www.jetbrains.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_9",
-              "title": "开发邦",
-              "href": "https://www.kaifabang.com/",
-              "description": "软件定制开发/外包开发服务平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115117835_www.kaifabang.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_10",
-              "title": "Acgbox",
-              "href": "https://www.acgbox.link/q/zaixianlifan",
-              "description": "ACG盒子，专注ACG的导航盒子，收录二次元相关的网站，打造一个二次元专属的网站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115116210_www.acgbox.link.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_11",
-              "title": "PPT超级市场",
-              "href": "https://www.pptsupermarket.com/",
-              "description": "PPT 模板下载与 AI 生成 PPT 工具。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115129730_www.pptsupermarket.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_12",
-              "title": "Sketchfab",
-              "href": "https://sketchfab.com/store",
-              "description": "在线 3D 模型展示/下载。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115102972_sketchfab.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_13",
-              "title": "TurboSquid",
-              "href": "https://www.turbosquid.com/",
-              "description": "专业 3D 模型市场。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115126799_www.turbosquid.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_14",
-              "title": "Pixellab",
-              "href": "https://www.pixellab.ai/",
-              "description": "设计/3D/贴图/素材资源站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115124492_www.pixellab.ai.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_15",
-              "title": "爱给网",
-              "href": "https://www.aigei.com/",
-              "description": "音效/素材/模板资源站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115116716_www.aigei.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_16",
-              "title": "Sketchfab",
-              "href": "https://sketchfab.com/feed",
-              "description": "在线 3D 模型展示/下载。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115102972_sketchfab.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_17",
-              "title": "Free3D",
-              "href": "https://free3d.com/",
-              "description": "3D 模型下载站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115093105_free3d.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_18",
-              "title": "Poly Haven",
-              "href": "https://polyhaven.com/",
-              "description": "HDRI/贴图/模型免费素材。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115099814_polyhaven.com.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_19",
-              "title": "RPGGO",
-              "href": "https://www.rpggo.ai/",
-              "description": "AI 文字 RPG 平台：可玩可创作。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115132066_www.rpggo.ai.png",
-              "enabled": true
-            },
-            {
-              "id": "1_1_20",
-              "title": "AudioTranscription",
-              "href": "https://audiotranscription.io/",
-              "description": "AI 音频转文字/字幕转录在线服务。",
-              "icon": "https://www.google.com/s2/favicons?domain=audiotranscription.io&sz=64",
-              "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "1_2",
-          "title": "平台/控制台",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "导航/聚合",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "1_2_1",
-              "title": "OpenRouter",
-              "href": "https://openrouter.ai/",
-              "description": "统一调用多家模型的 API 网关（非官方）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115103940_openrouter.ai.png",
+              "title": "AIGC导航",
+              "href": "https://www.aigc.cn/",
+              "description": "生成式 AI 工具导航与资源聚合。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115116007_www.aigc.cn.png",
               "enabled": true
             },
             {
               "id": "1_2_2",
-              "title": "OpenAI Platform",
-              "href": "https://platform.openai.com/",
-              "description": "OpenAI API 平台控制台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115101738_platform.openai.com.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "1_3",
-          "title": "第三方/聚合",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1_3_1",
-              "title": "SiliconFlow Cloud",
-              "href": "https://cloud.siliconflow.cn/me/models",
-              "description": "硅基流动的云端控制台/工作台。",
-              "icon": "https://www.google.com/s2/favicons?domain=cloud.siliconflow.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_3_2",
-              "title": "Upchatgpt",
-              "href": "https://upchatgpt.cn/",
-              "description": "AI/大模型相关站点（含官方与第三方）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115115424_upchatgpt.cn.png",
-              "enabled": true
-            },
-            {
-              "id": "1_3_3",
-              "title": "Copilot GPT4",
-              "href": "https://copilot-gpt4.com/",
-              "description": "第三方 AI 对话站点（非官方）。",
-              "icon": "https://www.google.com/s2/favicons?domain=copilot-gpt4.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "1_3_4",
               "title": "Chatgptboke",
               "href": "https://chatgptboke.com/",
               "description": "AI/大模型相关站点（含官方与第三方）。",
@@ -240,24 +46,109 @@
               "enabled": true
             },
             {
-              "id": "1_3_5",
-              "title": "AIGC导航",
-              "href": "https://www.aigc.cn/",
-              "description": "生成式 AI 工具导航与资源聚合。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115116007_www.aigc.cn.png",
+              "id": "1_2_3",
+              "title": "Copilot GPT4",
+              "href": "https://copilot-gpt4.com/",
+              "description": "第三方 AI 对话站点（非官方）。",
+              "icon": "https://www.google.com/s2/favicons?domain=copilot-gpt4.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_2_4",
+              "title": "Nonocode",
+              "href": "https://claude.nonocode.cn/user-dashboard",
+              "description": "AI/大模型相关站点（含官方与第三方）。",
+              "icon": "https://www.google.com/s2/favicons?domain=claude.nonocode.cn&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_2_5",
+              "title": "Upchatgpt",
+              "href": "https://upchatgpt.cn/",
+              "description": "AI/大模型相关站点（含官方与第三方）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115115424_upchatgpt.cn.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "1_3",
+          "title": "平台/控制台",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "1_3_1",
+              "title": "AI Studio",
+              "href": "https://aistudio.google.com/",
+              "description": "Google AI Studio：测试与调用模型的开发入口。",
+              "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_3_2",
+              "title": "OpenAI Platform",
+              "href": "https://platform.openai.com/",
+              "description": "OpenAI API 平台控制台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115101738_platform.openai.com.png",
+              "enabled": true
+            },
+            {
+              "id": "1_3_3",
+              "title": "OpenRouter",
+              "href": "https://openrouter.ai/",
+              "description": "统一调用多家模型的 API 网关（非官方）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115103940_openrouter.ai.png",
+              "enabled": true
+            },
+            {
+              "id": "1_3_4",
+              "title": "SiliconFlow Cloud",
+              "href": "https://cloud.siliconflow.cn/me/models",
+              "description": "硅基流动的云端控制台/工作台。",
+              "icon": "https://www.google.com/s2/favicons?domain=cloud.siliconflow.cn&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "1_4",
-          "title": "文档/社区",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "应用/创作",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "1_4_1",
+              "title": "RPGGO",
+              "href": "https://www.rpggo.ai/",
+              "description": "AI 文字 RPG 平台：可玩可创作。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115132066_www.rpggo.ai.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "1_5",
+          "title": "文档/社区",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "1_5_1",
+              "title": "MCP Docs",
+              "href": "https://mcp-docs.cn/introduction",
+              "description": "Model Context Protocol（MCP）中文文档站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117223399_mcp-docs.ico",
+              "enabled": true
+            },
+            {
+              "id": "1_5_2",
               "title": "OpenAI Community",
               "href": "https://community.openai.com/c/chatgpt/",
               "description": "OpenAI 社区论坛。",
@@ -265,25 +156,54 @@
               "enabled": true
             },
             {
-              "id": "1_4_2",
+              "id": "1_5_3",
               "title": "OpenAI Help",
               "href": "https://help.openai.com/",
               "description": "OpenAI 帮助中心。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115091242_help.openai.com.png",
               "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "1_6",
+          "title": "聊天/入口",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "1_6_1",
+              "title": "ChatGPT",
+              "href": "https://chat.openai.com/",
+              "description": "OpenAI 的对话式 AI 助手，支持写作/编程/问答。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117221657_chatgpt.ico",
+              "enabled": true
             },
             {
-              "id": "1_4_3",
-              "title": "MCP Docs",
-              "href": "https://mcp-docs.cn/introduction",
-              "description": "Model Context Protocol（MCP）中文文档站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768117223399_mcp-docs.ico",
+              "id": "1_6_2",
+              "title": "DeepSeek Chat",
+              "href": "https://chat.deepseek.com/",
+              "description": "DeepSeek 在线对话入口。",
+              "icon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "1_6_3",
+              "title": "Gemini",
+              "href": "https://gemini.google.com/",
+              "description": "Google 的 AI 助手入口。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115089175_gemini.google.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         }
       ],
-      "description": "模型入口、平台控制台、文档与社区。",
+      "description": "",
       "enabled": true
     },
     {
@@ -294,13 +214,45 @@
       "subCategories": [
         {
           "id": "2_1",
-          "title": "Unity/游戏开发",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "IDE/在线开发",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "2_1_1",
+              "title": "JetBrains",
+              "href": "https://www.jetbrains.com/",
+              "description": "开发者 IDE 与工具套件官网。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115118671_www.jetbrains.com.png",
+              "enabled": true
+            },
+            {
+              "id": "2_1_2",
+              "title": "Replit",
+              "href": "https://replit.com/",
+              "description": "在线 IDE 与云端开发运行环境。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115103955_replit.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "2_2",
+          "title": "Unity/游戏开发",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "2_2_1",
+              "title": "Code Monkey",
+              "href": "https://unitycodemonkey.com/",
+              "description": "Unity 教程与案例课程。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115109197_unitycodemonkey.com.png",
+              "enabled": true
+            },
+            {
+              "id": "2_2_2",
               "title": "Mirror Docs",
               "href": "https://mirror-networking.gitbook.io/",
               "description": "Mirror Networking（Unity）文档。",
@@ -308,122 +260,77 @@
               "enabled": true
             },
             {
-              "id": "2_1_2",
+              "id": "2_2_3",
               "title": "YooAsset",
               "href": "https://www.yooasset.com/",
               "description": "Unity 资源管理/热更新资源系统与文档。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115134045_www.yooasset.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "2_2",
-          "title": "代码托管",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "2_3",
+          "title": "书籍/阅读",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "2_2_1",
-              "title": "GitHub",
-              "href": "https://github.com/",
-              "description": "代码托管与协作平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115090671_github.com.png",
+              "id": "2_3_1",
+              "title": "游戏编程模式",
+              "href": "https://gpp.tkchu.me/",
+              "description": "《游戏编程模式》中文版在线阅读。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115097628_gpp.tkchu.me.png",
               "enabled": true
-            },
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "2_4",
+          "title": "代码托管",
+          "icon": "CircleDot",
+          "items": [
             {
-              "id": "2_2_2",
+              "id": "2_4_1",
               "title": "Gitee",
               "href": "https://gitee.com/",
               "description": "码云：代码托管与协作平台。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115098647_gitee.com.png",
               "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2_3",
-          "title": "教程/资料",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "2_3_1",
-              "title": "LearnCpp",
-              "href": "https://www.learncpp.com/",
-              "description": "C++ 学习教程与参考资料。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115123365_www.learncpp.com.png",
-              "enabled": true
             },
             {
-              "id": "2_3_2",
-              "title": "菜鸟教程",
-              "href": "https://www.runoob.com/",
-              "description": "编程语言与工具的入门教程站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115129215_www.runoob.com.png",
-              "enabled": true
-            },
-            {
-              "id": "2_3_3",
-              "title": "W3School",
-              "href": "https://www.w3school.com.cn/h.asp",
-              "description": "Web/编程教程与参考。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115131254_www.w3school.com.cn.png",
-              "enabled": true
-            },
-            {
-              "id": "2_3_4",
-              "title": "USTCLUG 201",
-              "href": "https://201.ustclug.org/",
-              "description": "中科大 Linux 用户协会课程/资料入口。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115084168_201.ustclug.org.png",
-              "enabled": true
-            },
-            {
-              "id": "2_3_5",
-              "title": "软仓",
-              "href": "https://www.ruancang.net/",
-              "description": "专业软件资源导航/安装教程（注意版权合规）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115132364_www.ruancang.net.png",
-              "enabled": true
-            },
-            {
-              "id": "2_3_6",
-              "title": "不良林",
-              "href": "https://bulianglin.com/",
-              "description": "网络工具/旁路由/教程相关内容。",
-              "icon": "https://www.google.com/s2/favicons?domain=bulianglin.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "2_3_7",
-              "title": "233Boy",
-              "href": "https://233boy.com/",
-              "description": "网络工具/脚本与教程站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115077733_233boy.com.png",
-              "enabled": true
-            },
-            {
-              "id": "2_3_8",
-              "title": "Code Monkey",
-              "href": "https://unitycodemonkey.com/",
-              "description": "Unity 教程与案例课程。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115109197_unitycodemonkey.com.png",
+              "id": "2_4_2",
+              "title": "GitHub",
+              "href": "https://github.com/",
+              "description": "代码托管与协作平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115090671_github.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "2_4",
-          "title": "刷题",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "2_5",
+          "title": "刷题/面试",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "2_4_1",
+              "id": "2_5_1",
+              "title": "Codeforces",
+              "href": "https://codeforces.com/",
+              "description": "竞赛编程平台与题库。",
+              "icon": "https://www.google.com/s2/favicons?domain=codeforces.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_5_2",
               "title": "LeetCode",
               "href": "https://leetcode.cn/",
               "description": "算法题库与面试训练平台。",
@@ -431,57 +338,57 @@
               "enabled": true
             },
             {
-              "id": "2_4_2",
-              "title": "Codeforces",
-              "href": "https://codeforces.com/",
-              "description": "竞赛编程平台与题库。",
-              "icon": "https://www.google.com/s2/favicons?domain=codeforces.com&sz=64",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2_5",
-          "title": "其它",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "2_5_1",
-              "title": "Replit",
-              "href": "https://replit.com/",
-              "description": "在线 IDE 与云端开发运行环境。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115103955_replit.com.png",
-              "enabled": true
-            },
-            {
-              "id": "2_5_2",
-              "title": "RSSHub Docs",
-              "href": "https://docs.rsshub.app/",
-              "description": "RSSHub 官方文档与路由说明。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115095620_docs.rsshub.app.png",
-              "enabled": true
-            },
-            {
               "id": "2_5_3",
-              "title": "掘金",
-              "href": "https://juejin.cn/",
-              "description": "开发者技术社区与文章平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115095444_juejin.cn.png",
+              "title": "牛客网",
+              "href": "https://www.nowcoder.com/",
+              "description": "面试/笔试题库与校招社区。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115118560_www.nowcoder.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "2_6",
           "title": "外包/接单",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "icon": "CircleDot",
           "items": [
             {
               "id": "2_6_1",
+              "title": "人人开发",
+              "href": "http://rrkf.com/",
+              "description": "企业级应用可视化开发与服务市场。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115104299_rrkf.com.png",
+              "enabled": true
+            },
+            {
+              "id": "2_6_2",
+              "title": "开发邦",
+              "href": "https://www.kaifabang.com/",
+              "description": "软件定制开发/外包开发服务平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115117835_www.kaifabang.com.png",
+              "enabled": true
+            },
+            {
+              "id": "2_6_3",
+              "title": "开源众包",
+              "href": "https://zb.oschina.net/",
+              "description": "开源中国的众包外包平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115121812_www.oschina.net.png",
+              "enabled": true
+            },
+            {
+              "id": "2_6_4",
+              "title": "猿急送",
+              "href": "https://www.yuanjisong.com/",
+              "description": "程序员兼职/外包项目对接平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115133774_www.yuanjisong.com.png",
+              "enabled": true
+            },
+            {
+              "id": "2_6_5",
               "title": "码市",
               "href": "https://codemart.com/",
               "description": "软件外包/开发者接单平台。",
@@ -489,200 +396,177 @@
               "enabled": true
             },
             {
-              "id": "2_6_2",
-              "title": "人人开发",
-              "href": "http://rrkf.com/",
-              "description": "企业级应用可视化开发与服务市场。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115104299_rrkf.com.png",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "代码托管、刷题、教程资料与开发生态。",
-      "enabled": true
-    },
-    {
-      "id": "3",
-      "title": "图表 & 文档",
-      "icon": "linecons-thumbs-up",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "3_1",
-          "title": "绘图/建模图",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_1_1",
-              "title": "ProcessOn",
-              "href": "https://www.processon.com/",
-              "description": "在线流程图/思维导图/原型图工具。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115123626_www.processon.com.png",
+              "id": "2_6_6",
+              "title": "程序员客栈",
+              "href": "https://www.proginn.com/",
+              "description": "自由职业/外包接单平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115124305_www.proginn.com.png",
               "enabled": true
             },
             {
-              "id": "3_1_2",
-              "title": "dbdiagram",
-              "href": "https://dbdiagram.io/",
-              "description": "用 DBML 画数据库 ER 图的在线工具。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115085981_dbdiagram.io.png",
-              "enabled": true
-            },
-            {
-              "id": "3_1_3",
-              "title": "PlantUML",
-              "href": "https://www.plantuml.com/",
-              "description": "用文本生成 UML 图的工具与在线服务。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115125658_www.plantuml.com.png",
-              "enabled": true
-            },
-            {
-              "id": "3_1_4",
-              "title": "牛客网",
-              "href": "https://www.nowcoder.com/",
-              "description": "面试/笔试题库与校招社区。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115118560_www.nowcoder.com.png",
-              "enabled": true
-            },
-            {
-              "id": "3_1_5",
+              "id": "2_6_7",
               "title": "英选",
               "href": "https://www.yingxuan.co/?ref=www.codernav.cn",
               "description": "软件外包撮合/平台匹配服务。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115129371_www.yingxuan.co.png",
               "enabled": true
-            },
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "2_7",
+          "title": "教程/资料",
+          "icon": "CircleDot",
+          "items": [
             {
-              "id": "3_1_6",
-              "title": "AConvert",
-              "href": "https://www.aconvert.com/cn/",
-              "description": "在线文件格式转换工具集合。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115113696_www.aconvert.com.png",
+              "id": "2_7_1",
+              "title": "233Boy",
+              "href": "https://233boy.com/",
+              "description": "网络工具/脚本与教程站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115077733_233boy.com.png",
               "enabled": true
             },
             {
-              "id": "3_1_7",
+              "id": "2_7_2",
+              "title": "LearnCpp",
+              "href": "https://www.learncpp.com/",
+              "description": "C++ 学习教程与参考资料。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115123365_www.learncpp.com.png",
+              "enabled": true
+            },
+            {
+              "id": "2_7_3",
+              "title": "RSSHub Docs",
+              "href": "https://docs.rsshub.app/",
+              "description": "RSSHub 官方文档与路由说明。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115095620_docs.rsshub.app.png",
+              "enabled": true
+            },
+            {
+              "id": "2_7_4",
+              "title": "USTCLUG 201",
+              "href": "https://201.ustclug.org/",
+              "description": "中科大 Linux 用户协会课程/资料入口。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115084168_201.ustclug.org.png",
+              "enabled": true
+            },
+            {
+              "id": "2_7_5",
+              "title": "W3School",
+              "href": "https://www.w3school.com.cn/h.asp",
+              "description": "Web/编程教程与参考。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115131254_www.w3school.com.cn.png",
+              "enabled": true
+            },
+            {
+              "id": "2_7_6",
+              "title": "不良林",
+              "href": "https://bulianglin.com/",
+              "description": "网络工具/旁路由/教程相关内容。",
+              "icon": "https://www.google.com/s2/favicons?domain=bulianglin.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_7_7",
+              "title": "菜鸟教程",
+              "href": "https://www.runoob.com/",
+              "description": "编程语言与工具的入门教程站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115129215_www.runoob.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "2_8",
+          "title": "社区/资讯",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "2_8_1",
+              "title": "Linux Do",
+              "href": "https://linux.do/",
+              "description": "中文技术社区/论坛（偏 AI/开发）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115097886_linux.do.png",
+              "enabled": true
+            },
+            {
+              "id": "2_8_2",
+              "title": "开源中国",
+              "href": "https://www.oschina.net/",
+              "description": "开源社区/资讯与代码托管。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115121812_www.oschina.net.png",
+              "enabled": true
+            },
+            {
+              "id": "2_8_3",
+              "title": "掘金",
+              "href": "https://juejin.cn/",
+              "description": "开发者技术社区与文章平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115095444_juejin.cn.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "2_9",
+          "title": "脚本/扩展",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "2_9_1",
+              "title": "Chrome 应用商店",
+              "href": "https://chromewebstore.google.com/",
+              "description": "Chrome 扩展商店。",
+              "icon": "https://www.google.com/s2/favicons?domain=chromewebstore.google.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "2_9_2",
               "title": "Greasy Fork",
               "href": "https://greasyfork.org/zh-CN/",
               "description": "用户脚本（Tampermonkey 等）分享站。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115097273_greasyfork.org.png",
               "enabled": true
-            },
-            {
-              "id": "3_1_8",
-              "title": "CloudConvert",
-              "href": "https://cloudconvert.com/",
-              "description": "在线格式转换与文件处理工具。",
-              "icon": "https://www.google.com/s2/favicons?domain=cloudconvert.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "3_1_9",
-              "title": "封面生成器",
-              "href": "https://cover.zippic.cn/",
-              "description": "文章封面图生成与模板编辑。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768117220139_cover.zippic.ico",
-              "enabled": true
-            },
-            {
-              "id": "3_1_10",
-              "title": "HardwareTester",
-              "href": "https://hardwaretester.com/gamepad",
-              "description": "硬件检测/测试相关工具与文章。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115098680_hardwaretester.com.png",
-              "enabled": true
             }
-          ]
-        },
-        {
-          "id": "3_2",
-          "title": "文档/协作",
-          "icon": "Folder",
+          ],
+          "subCategories": [],
           "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_2_1",
-              "title": "Notion",
-              "href": "https://www.notion.com/",
-              "description": "Notion 官方网站与产品信息。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115122432_www.notion.com.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "3_3",
-          "title": "PPT/办公",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_3_1",
-              "title": "美化码",
-              "href": "https://www.meihuama.com/",
-              "description": "在线二维码美化模板与生成器。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115124206_www.meihuama.com.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "3_4",
-          "title": "转换/站长工具",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "3_4_1",
-              "title": "联图网",
-              "href": "https://www.liantu.com/",
-              "description": "二维码生成/二维码 API 与相关工具服务。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115121318_www.liantu.com.png",
-              "enabled": true
-            },
-            {
-              "id": "3_4_2",
-              "title": "Word2MD",
-              "href": "https://www.word2md.net/",
-              "description": "Word(.docx) 转 Markdown 在线工具。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115130230_www.word2md.net.png",
-              "enabled": true
-            }
-          ]
+          "enabled": true
         }
       ],
-      "description": "流程图/建模图、知识库、PPT与格式转换工具。",
+      "description": "",
       "enabled": true
     },
     {
-      "id": "4",
-      "title": "设计 & 素材",
-      "icon": "Box",
+      "id": "3",
+      "title": "图表 & 文档",
+      "icon": "FileText",
       "items": [],
       "subCategories": [
         {
-          "id": "4_1",
-          "title": "其它",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "3_1",
+          "title": "PPT/办公",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "4_1_1",
-              "title": "OfficePLUS",
-              "href": "https://www.officeplus.cn/PPT/template/",
-              "description": "微软官方 PPT 模板与素材站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115118942_www.hippter.com.png",
+              "id": "3_1_1",
+              "title": "51PPT模板",
+              "href": "https://www.51pptmoban.com/",
+              "description": "PPT 模板下载站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115110602_www.51pptmoban.com.png",
               "enabled": true
             },
             {
-              "id": "4_1_2",
+              "id": "3_1_2",
               "title": "HiPPTer",
               "href": "https://www.hippter.com/",
               "description": "PPT 资源与设计素材导航站。",
@@ -690,56 +574,255 @@
               "enabled": true
             },
             {
-              "id": "4_1_3",
-              "title": "Wallhaven",
-              "href": "https://wallhaven.cc/",
-              "description": "壁纸资源站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115113155_wallhaven.cc.png",
+              "id": "3_1_3",
+              "title": "OfficePLUS",
+              "href": "https://www.officeplus.cn/PPT/template/",
+              "description": "微软官方 PPT 模板与素材站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115118942_www.hippter.com.png",
               "enabled": true
             },
             {
-              "id": "4_1_4",
-              "title": "Spriters Resource",
-              "href": "https://www.spriters-resource.com/",
-              "description": "设计/3D/贴图/素材资源站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115128044_www.spriters-resource.com.png",
+              "id": "3_1_4",
+              "title": "PPT 模板",
+              "href": "https://ppt.sankki.com/",
+              "description": "PPT 模板/课件素材下载站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115106258_ppt.sankki.com.png",
               "enabled": true
             },
             {
-              "id": "4_1_5",
-              "title": "Mixamo",
-              "href": "https://www.mixamo.com/",
-              "description": "角色动画自动绑定与动作库。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115122656_www.mixamo.com.png",
+              "id": "3_1_5",
+              "title": "PPT超级市场",
+              "href": "https://www.pptsupermarket.com/",
+              "description": "PPT 模板下载与 AI 生成 PPT 工具。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115129730_www.pptsupermarket.com.png",
+              "enabled": true
+            },
+            {
+              "id": "3_1_6",
+              "title": "优品PPT",
+              "href": "https://www.ypppt.com/",
+              "description": "高质量免费 PPT 模板/素材下载。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115132455_www.ypppt.com.png",
+              "enabled": true
+            },
+            {
+              "id": "3_1_7",
+              "title": "第一PPT",
+              "href": "https://www.1ppt.com/",
+              "description": "PPT 模板/课件资源下载。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115111956_www.1ppt.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "4_2",
-          "title": "3D模型",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "3_2",
+          "title": "二维码/封面",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "4_2_1",
-              "title": "Fab",
-              "href": "https://www.fab.com/",
-              "description": "数字资产市场（Epic 生态）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115120756_www.fab.com.png",
+              "id": "3_2_1",
+              "title": "封面生成器",
+              "href": "https://cover.zippic.cn/",
+              "description": "文章封面图生成与模板编辑。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117220139_cover.zippic.ico",
               "enabled": true
             },
             {
-              "id": "4_2_2",
-              "title": "Unity Asset Store",
-              "href": "https://assetstore.unity.com/",
-              "description": "Unity 官方资源商店。",
-              "icon": "https://www.google.com/s2/favicons?domain=assetstore.unity.com&sz=64",
+              "id": "3_2_2",
+              "title": "美化码",
+              "href": "https://www.meihuama.com/",
+              "description": "在线二维码美化模板与生成器。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115124206_www.meihuama.com.png",
               "enabled": true
             },
             {
-              "id": "4_2_3",
+              "id": "3_2_3",
+              "title": "联图网",
+              "href": "https://www.liantu.com/",
+              "description": "二维码生成/二维码 API 与相关工具服务。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115121318_www.liantu.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "3_3",
+          "title": "写作/Markdown",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "3_3_1",
+              "title": "住宅代理",
+              "href": "https://markdown.com.cn/",
+              "description": "在线工具/转换/可视化相关网站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115102921_markdown.com.cn.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "3_4",
+          "title": "图表/建模",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "3_4_1",
+              "title": "Apache",
+              "href": "https://echarts.apache.org/zh/index.html",
+              "description": "在线工具/转换/可视化相关网站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115093464_echarts.apache.org.png",
+              "enabled": true
+            },
+            {
+              "id": "3_4_2",
+              "title": "dbdiagram",
+              "href": "https://dbdiagram.io/",
+              "description": "用 DBML 画数据库 ER 图的在线工具。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115085981_dbdiagram.io.png",
+              "enabled": true
+            },
+            {
+              "id": "3_4_3",
+              "title": "Mermaid Live",
+              "href": "https://mermaid.live/",
+              "description": "Mermaid 在线编辑与预览分享。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768116713068_mermaid.ico",
+              "enabled": true
+            },
+            {
+              "id": "3_4_4",
+              "title": "PlantUML",
+              "href": "https://www.plantuml.com/",
+              "description": "用文本生成 UML 图的工具与在线服务。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115125658_www.plantuml.com.png",
+              "enabled": true
+            },
+            {
+              "id": "3_4_5",
+              "title": "ProcessOn",
+              "href": "https://www.processon.com/",
+              "description": "在线流程图/思维导图/原型图工具。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115123626_www.processon.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "3_5",
+          "title": "格式转换",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "3_5_1",
+              "title": "AConvert",
+              "href": "https://www.aconvert.com/cn/",
+              "description": "在线文件格式转换工具集合。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115113696_www.aconvert.com.png",
+              "enabled": true
+            },
+            {
+              "id": "3_5_2",
+              "title": "CloudConvert",
+              "href": "https://cloudconvert.com/",
+              "description": "在线格式转换与文件处理工具。",
+              "icon": "https://www.google.com/s2/favicons?domain=cloudconvert.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "3_5_3",
+              "title": "Word2MD",
+              "href": "https://www.word2md.net/",
+              "description": "Word(.docx) 转 Markdown 在线工具。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115130230_www.word2md.net.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "3_6",
+          "title": "知识库/协作",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "3_6_1",
+              "title": "Notion",
+              "href": "https://www.notion.com/",
+              "description": "Notion 官方网站与产品信息。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115122432_www.notion.com.png",
+              "enabled": true
+            },
+            {
+              "id": "3_6_2",
+              "title": "科研工具资源",
+              "href": "https://www.kdocs.cn/l/cnAPRIBU8qGr",
+              "description": "Windows工具下载。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115114032_www.kdocs.cn.png",
+              "enabled": true
+            },
+            {
+              "id": "3_6_3",
+              "title": "语雀",
+              "href": "https://www.yuque.com/dashboard",
+              "description": "知识库/文档协作平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115133080_www.yuque.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "3_7",
+          "title": "硬件/测试",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "3_7_1",
+              "title": "HardwareTester",
+              "href": "https://hardwaretester.com/gamepad",
+              "description": "硬件检测/测试相关工具与文章。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115098680_hardwaretester.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "title": "设计 & 素材",
+      "icon": "Palette",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "4_1",
+          "title": "3D模型/资产市场",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "4_1_1",
               "title": "Cg3Da",
               "href": "https://www.cg3da.com/",
               "description": "设计/3D/贴图/素材资源站点。",
@@ -747,15 +830,15 @@
               "enabled": true
             },
             {
-              "id": "4_2_4",
-              "title": "Cg3Da",
-              "href": "https://www.cg3da.com/",
+              "id": "4_1_2",
+              "title": "Cgmodel",
+              "href": "https://www.cgmodel.com/",
               "description": "设计/3D/贴图/素材资源站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115118913_www.cg3da.com.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115113037_www.cgmodel.com.png",
               "enabled": true
             },
             {
-              "id": "4_2_5",
+              "id": "4_1_3",
               "title": "Cubebrush",
               "href": "https://cubebrush.co/",
               "description": "设计/3D/贴图/素材资源站点。",
@@ -763,40 +846,91 @@
               "enabled": true
             },
             {
-              "id": "4_2_6",
-              "title": "Cgmodel",
-              "href": "https://www.cgmodel.com/",
+              "id": "4_1_4",
+              "title": "Fab",
+              "href": "https://www.fab.com/",
+              "description": "数字资产市场（Epic 生态）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115120756_www.fab.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_1_5",
+              "title": "Free3D",
+              "href": "https://free3d.com/",
+              "description": "3D 模型下载站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115093105_free3d.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_1_6",
+              "title": "Pixellab",
+              "href": "https://www.pixellab.ai/",
               "description": "设计/3D/贴图/素材资源站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115113037_www.cgmodel.com.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115124492_www.pixellab.ai.png",
+              "enabled": true
+            },
+            {
+              "id": "4_1_7",
+              "title": "Sketchfab",
+              "href": "https://sketchfab.com/feed",
+              "description": "在线 3D 模型展示/下载。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115102972_sketchfab.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_1_8",
+              "title": "Sketchfab",
+              "href": "https://sketchfab.com/store",
+              "description": "在线 3D 模型展示/下载。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115102972_sketchfab.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_1_9",
+              "title": "TurboSquid",
+              "href": "https://www.turbosquid.com/",
+              "description": "专业 3D 模型市场。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115126799_www.turbosquid.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_1_10",
+              "title": "Unity Asset Store",
+              "href": "https://assetstore.unity.com/",
+              "description": "Unity 官方资源商店。",
+              "icon": "https://www.google.com/s2/favicons?domain=assetstore.unity.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "4_2",
+          "title": "动画/绑定",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "4_2_1",
+              "title": "Mixamo",
+              "href": "https://www.mixamo.com/",
+              "description": "角色动画自动绑定与动作库。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115122656_www.mixamo.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "4_3",
           "title": "图标/平面工具",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "icon": "CircleDot",
           "items": [
             {
               "id": "4_3_1",
-              "title": "Piskel",
-              "href": "https://www.piskelapp.com/",
-              "description": "像素画在线编辑器。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115120610_www.piskelapp.com.png",
-              "enabled": true
-            },
-            {
-              "id": "4_3_2",
-              "title": "Pinterest",
-              "href": "https://www.pinterest.com/",
-              "description": "图片收藏与灵感平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115125143_www.pinterest.com.png",
-              "enabled": true
-            },
-            {
-              "id": "4_3_3",
               "title": "Iconfont",
               "href": "https://www.iconfont.cn/",
               "description": "阿里巴巴矢量图标库。",
@@ -804,21 +938,46 @@
               "enabled": true
             },
             {
-              "id": "4_3_4",
+              "id": "4_3_2",
               "title": "Photopea",
               "href": "https://www.photopea.com/",
               "description": "在线 PS/图片编辑器。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115119814_www.photopea.com.png",
               "enabled": true
+            },
+            {
+              "id": "4_3_3",
+              "title": "Pinterest",
+              "href": "https://www.pinterest.com/",
+              "description": "图片收藏与灵感平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115125143_www.pinterest.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_3_4",
+              "title": "Piskel",
+              "href": "https://www.piskelapp.com/",
+              "description": "像素画在线编辑器。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115120610_www.piskelapp.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_3_5",
+              "title": "Spriters Resource",
+              "href": "https://www.spriters-resource.com/",
+              "description": "设计/3D/贴图/素材资源站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115128044_www.spriters-resource.com.png",
+              "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "4_4",
-          "title": "综合素材",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "地图/制图",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "4_4_1",
@@ -828,49 +987,36 @@
               "icon": "https://443222.xyz/file/NAV/icon/1768115094404_inkarnate.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "4_5",
-          "title": "贴图/材质",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "壁纸",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "4_5_1",
-              "title": "TextureLabs",
-              "href": "https://texturelabs.org/",
-              "description": "纹理/叠加素材库。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115105999_texturelabs.org.png",
+              "title": "Wallhaven",
+              "href": "https://wallhaven.cc/",
+              "description": "壁纸资源站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115113155_wallhaven.cc.png",
               "enabled": true
-            },
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "4_6",
+          "title": "贴图/材质",
+          "icon": "CircleDot",
+          "items": [
             {
-              "id": "4_5_2",
-              "title": "BEIZ",
-              "href": "https://www.beiz.jp/",
-              "description": "日系免费背景/模板素材。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115109891_www.beiz.jp.png",
-              "enabled": true
-            },
-            {
-              "id": "4_5_3",
-              "title": "Transparent Textu…",
-              "href": "https://www.transparenttextures.com/",
-              "description": "可平铺背景纹理素材。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115126427_www.transparenttextures.com.png",
-              "enabled": true
-            },
-            {
-              "id": "4_5_4",
-              "title": "Textures.com",
-              "href": "https://www.textures.com/",
-              "description": "贴图/材质素材站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115134076_www.textures.com.png",
-              "enabled": true
-            },
-            {
-              "id": "4_5_5",
+              "id": "4_6_1",
               "title": "3DTextures",
               "href": "https://3dtextures.me/",
               "description": "免费 PBR 材质/贴图。",
@@ -878,7 +1024,23 @@
               "enabled": true
             },
             {
-              "id": "4_5_6",
+              "id": "4_6_2",
+              "title": "ambientCG",
+              "href": "https://ambientcg.com/",
+              "description": "免费 PBR 材质/贴图库。",
+              "icon": "https://www.google.com/s2/favicons?domain=ambientcg.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "4_6_3",
+              "title": "BEIZ",
+              "href": "https://www.beiz.jp/",
+              "description": "日系免费背景/模板素材。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115109891_www.beiz.jp.png",
+              "enabled": true
+            },
+            {
+              "id": "4_6_4",
               "title": "FreePBR",
               "href": "https://freepbr.com/",
               "description": "免费 PBR 材质资源站。",
@@ -886,7 +1048,7 @@
               "enabled": true
             },
             {
-              "id": "4_5_7",
+              "id": "4_6_5",
               "title": "Poliigon",
               "href": "https://www.poliigon.com/",
               "description": "高质量材质/贴图库（订阅）。",
@@ -894,34 +1056,101 @@
               "enabled": true
             },
             {
-              "id": "4_5_8",
-              "title": "ambientCG",
-              "href": "https://ambientcg.com/",
-              "description": "免费 PBR 材质/贴图库。",
-              "icon": "https://www.google.com/s2/favicons?domain=ambientcg.com&sz=64",
+              "id": "4_6_6",
+              "title": "Poly Haven",
+              "href": "https://polyhaven.com/",
+              "description": "HDRI/贴图/模型免费素材。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115099814_polyhaven.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_6_7",
+              "title": "TextureLabs",
+              "href": "https://texturelabs.org/",
+              "description": "纹理/叠加素材库。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115105999_texturelabs.org.png",
+              "enabled": true
+            },
+            {
+              "id": "4_6_8",
+              "title": "Textures.com",
+              "href": "https://www.textures.com/",
+              "description": "贴图/材质素材站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115134076_www.textures.com.png",
+              "enabled": true
+            },
+            {
+              "id": "4_6_9",
+              "title": "Transparent Textu…",
+              "href": "https://www.transparenttextures.com/",
+              "description": "可平铺背景纹理素材。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115126427_www.transparenttextures.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "4_7",
+          "title": "音效/综合素材",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "4_7_1",
+              "title": "爱给网",
+              "href": "https://www.aigei.com/",
+              "description": "音效/素材/模板资源站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115116716_www.aigei.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         }
       ],
-      "description": "3D模型、贴图材质、图标与设计工具、综合素材。",
+      "description": "",
       "enabled": true
     },
     {
       "id": "5",
       "title": "游戏 & ACG",
-      "icon": "Video",
+      "icon": "Gamepad2",
       "items": [],
       "subCategories": [
         {
           "id": "5_1",
-          "title": "ACG/影视",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "ACG/动漫/漫画",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "5_1_1",
+              "title": "1Anime",
+              "href": "https://1anime.me/",
+              "description": "动漫站点（NSFW）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768114633092_1anime.me.png",
+              "enabled": true
+            },
+            {
+              "id": "5_1_2",
+              "title": "Acg游戏网",
+              "href": "https://acgmm.vip/",
+              "description": "动漫/漫画/ACG 相关站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117227606_acgmm.ico",
+              "enabled": true
+            },
+            {
+              "id": "5_1_3",
+              "title": "Age动漫",
+              "href": "https://www.agedm.io/",
+              "description": "动漫站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115111948_www.agedm.io.png",
+              "enabled": true
+            },
+            {
+              "id": "5_1_4",
               "title": "Anoneko",
               "href": "https://dmhy.anoneko.com/",
               "description": "动漫/漫画/ACG 相关站点（用途以实际内容为准）。",
@@ -929,35 +1158,11 @@
               "enabled": true
             },
             {
-              "id": "5_1_2",
+              "id": "5_1_5",
               "title": "Byrut",
               "href": "https://byrut.org/",
               "description": "游戏相关资源/社区/工具站。",
               "icon": "https://www.google.com/s2/favicons?domain=byrut.org&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_1_3",
-              "title": "真红小站",
-              "href": "https://www.shinnku.com/",
-              "description": "一个galgame资源站, 收录了大部分的汉化galgame, 大部分的生肉galgame资源，krkr资源，visual novel等。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115125609_www.shinnku.com.png",
-              "enabled": true
-            },
-            {
-              "id": "5_1_4",
-              "title": "芯幻-次元",
-              "href": "https://xhacg.cc/",
-              "description": "一个ACG小圈子(NSFW)",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115136099_xhacg.cc.png",
-              "enabled": true
-            },
-            {
-              "id": "5_1_5",
-              "title": "Acg游戏网",
-              "href": "https://acgmm.vip/",
-              "description": "动漫/漫画/ACG 相关站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768117227606_acgmm.ico",
               "enabled": true
             },
             {
@@ -970,54 +1175,22 @@
             },
             {
               "id": "5_1_7",
-              "title": "猫猫网盘",
-              "href": "https://catcat.cloud/",
-              "description": "Galgame/ACG 资源索引。",
-              "icon": "https://www.google.com/s2/favicons?domain=catcat.cloud&sz=64",
+              "title": "H萌娘",
+              "href": "https://hmoegirl.com/",
+              "description": "致力于搜集郑智、色禽以及其他在互联网上那些被压抑的网络文化相关资料！",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115100649_hmoegirl.com.png",
               "enabled": true
             },
             {
               "id": "5_1_8",
-              "title": "机地游戏",
-              "href": "https://www.jidiyouxi.com/",
-              "description": "游戏资源/工具站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115119390_www.jidiyouxi.com.png",
+              "title": "哈密瓜动漫",
+              "href": "https://hmgdm.cn/",
+              "description": "动漫站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115100076_hmgdm.cn.png",
               "enabled": true
             },
             {
               "id": "5_1_9",
-              "title": "樱花动漫",
-              "href": "http://wap.yinghuacd.com/index.html",
-              "description": "动漫站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115116538_wap.yinghuacd.com.png",
-              "enabled": true
-            },
-            {
-              "id": "5_1_10",
-              "title": "Anoneko",
-              "href": "https://dmhy.anoneko.com/",
-              "description": "动漫资源。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115090599_dmhy.anoneko.com.png",
-              "enabled": true
-            },
-            {
-              "id": "5_1_11",
-              "title": "Age动漫",
-              "href": "https://www.agedm.io/",
-              "description": "动漫站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115111948_www.agedm.io.png",
-              "enabled": true
-            },
-            {
-              "id": "5_1_12",
-              "title": "R34Hub",
-              "href": "https://r34hub.com/",
-              "description": "3D动漫站点(NSFW)。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115101082_r34hub.com.png",
-              "enabled": true
-            },
-            {
-              "id": "5_1_13",
               "title": "拷貝漫畫",
               "href": "https://www.mangacopy.com/",
               "description": "漫画站点。",
@@ -1025,156 +1198,49 @@
               "enabled": true
             },
             {
-              "id": "5_1_14",
-              "title": "1Anime",
-              "href": "https://1anime.me/",
-              "description": "动漫站点（NSFW）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768114633092_1anime.me.png",
+              "id": "5_1_10",
+              "title": "机地游戏",
+              "href": "https://www.jidiyouxi.com/",
+              "description": "游戏资源/工具站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115119390_www.jidiyouxi.com.png",
               "enabled": true
             },
             {
-              "id": "5_1_15",
-              "title": "哈密瓜动漫",
-              "href": "https://hmgdm.cn/",
+              "id": "5_1_11",
+              "title": "樱花动漫",
+              "href": "http://wap.yinghuacd.com/index.html",
               "description": "动漫站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115100076_hmgdm.cn.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115116538_wap.yinghuacd.com.png",
+              "enabled": true
+            },
+            {
+              "id": "5_1_12",
+              "title": "猫猫网盘",
+              "href": "https://catcat.cloud/",
+              "description": "Galgame/ACG 资源索引。",
+              "icon": "https://www.google.com/s2/favicons?domain=catcat.cloud&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "5_1_13",
+              "title": "真红小站",
+              "href": "https://www.shinnku.com/",
+              "description": "一个galgame资源站, 收录了大部分的汉化galgame, 大部分的生肉galgame资源，krkr资源，visual novel等。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115125609_www.shinnku.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "5_2",
-          "title": "其它",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "MOD/工具",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "5_2_1",
-              "title": "游戏编程模式",
-              "href": "https://gpp.tkchu.me/",
-              "description": "《游戏编程模式》中文版在线阅读。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115097628_gpp.tkchu.me.png",
-              "enabled": true
-            },
-            {
-              "id": "5_2_2",
-              "title": "轻句",
-              "href": "https://qingju.vercel.app/",
-              "description": "游戏相关资源/社区/工具站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115100598_itch.io.png",
-              "enabled": true
-            },
-            {
-              "id": "5_2_3",
-              "title": "OpenGameArt",
-              "href": "https://opengameart.org/",
-              "description": "开源游戏素材资源站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115105503_opengameart.org.png",
-              "enabled": true
-            },
-            {
-              "id": "5_2_4",
-              "title": "Game Icons",
-              "href": "https://game-icons.net/",
-              "description": "游戏图标素材库。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115097616_game-icons.net.png",
-              "enabled": true
-            },
-            {
-              "id": "5_2_5",
-              "title": "itch.io",
-              "href": "https://itch.io/",
-              "description": "独立游戏发行与开发资源平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115100598_itch.io.png",
-              "enabled": true
-            },
-            {
-              "id": "5_2_6",
-              "title": "Kenney",
-              "href": "https://www.kenney.nl/",
-              "description": "免费/付费游戏素材包。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115122637_www.kenney.nl.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5_3",
-          "title": "Switch",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_3_1",
-              "title": "Fourpetal",
-              "href": "https://fourpetal.com/",
-              "description": "Switch 相关资源站/入口。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115130025_www.switch618.com.png",
-              "enabled": true
-            },
-            {
-              "id": "5_3_2",
-              "title": "Switch618",
-              "href": "https://www.switch618.com/",
-              "description": "全网资源最新，更新最快的游戏网站",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115130025_www.switch618.com.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5_4",
-          "title": "NSFW",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_4_1",
-              "title": "H萌娘",
-              "href": "https://hmoegirl.com/",
-              "description": "致力于搜集郑智、色禽以及其他在互联网上那些被压抑的网络文化相关资料！",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115100649_hmoegirl.com.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5_5",
-          "title": "折扣/激活码",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_5_1",
-              "title": "Greenmangaming",
-              "href": "https://www.greenmangaming.com/",
-              "description": "Steam游戏激活码，特价促销游戏。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115118021_www.greenmangaming.com.png",
-              "enabled": true
-            },
-            {
-              "id": "5_5_2",
-              "title": "SteamPY",
-              "href": "https://steampy.com/home",
-              "description": "Steam游戏激活码，特价促销游戏。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115108300_steampy.com.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5_6",
-          "title": "游戏工具/社区",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "5_6_1",
               "title": "Nexusmods",
               "href": "https://www.nexusmods.com/",
               "description": "游戏MOD社区。",
@@ -1182,23 +1248,7 @@
               "enabled": true
             },
             {
-              "id": "5_6_2",
-              "title": "Thunderstore",
-              "href": "https://thunderstore.io/",
-              "description": "游戏MOD社区。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115106277_thunderstore.io.png",
-              "enabled": true
-            },
-            {
-              "id": "5_6_3",
-              "title": "网易BUFF",
-              "href": "https://buff.163.com/",
-              "description": "Steam 游戏饰品交易平台（CS2/DOTA2 等）。",
-              "icon": "https://www.google.com/s2/favicons?domain=buff.163.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "5_6_4",
+              "id": "5_2_2",
               "title": "Online Fix",
               "href": "https://online-fix.me/",
               "description": "联网游戏相关资源/工具站。",
@@ -1206,42 +1256,7 @@
               "enabled": true
             },
             {
-              "id": "5_6_5",
-              "title": "Metacritic",
-              "href": "https://www.metacritic.com/game/",
-              "description": "寻找你下一个引人入胜的游戏时刻(游戏评分网站)。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115118713_www.metacritic.com.png",
-              "enabled": true
-            },
-            {
-              "id": "5_6_6",
-              "title": "Steamdb",
-              "href": "https://steamdb.info/",
-              "description": "第三方Steam数据库网站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115105127_steamdb.info.png",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "游戏社区/工具、资源站与ACG相关站点。",
-      "enabled": true
-    },
-    {
-      "id": "6",
-      "title": "媒体 & 下载",
-      "icon": "Video",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "6_1",
-          "title": "其它",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "6_1_1",
+              "id": "5_2_3",
               "title": "Steam 创意工坊下载器",
               "href": "https://steamworkshopdownloader.io/",
               "description": "从 Steam 创意工坊下载文件。",
@@ -1249,318 +1264,129 @@
               "enabled": true
             },
             {
-              "id": "6_1_2",
-              "title": "第一PPT",
-              "href": "https://www.1ppt.com/",
-              "description": "PPT 模板/课件资源下载。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115111956_www.1ppt.com.png",
-              "enabled": true
-            },
-            {
-              "id": "6_1_3",
-              "title": "PPT 模板",
-              "href": "https://ppt.sankki.com/",
-              "description": "PPT 模板/课件素材下载站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115106258_ppt.sankki.com.png",
-              "enabled": true
-            },
-            {
-              "id": "6_1_4",
-              "title": "51PPT模板",
-              "href": "https://www.51pptmoban.com/",
-              "description": "PPT 模板下载站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115110602_www.51pptmoban.com.png",
-              "enabled": true
-            },
-            {
-              "id": "6_1_5",
-              "title": "优品PPT",
-              "href": "https://www.ypppt.com/",
-              "description": "高质量免费 PPT 模板/素材下载。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115132455_www.ypppt.com.png",
-              "enabled": true
-            },
-            {
-              "id": "6_1_6",
-              "title": "NVIDIA",
-              "href": "https://www.nvidia.cn/drivers/lookup/",
-              "description": "NVIDIA 驱动下载。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115122960_www.nvidia.cn.png",
-              "enabled": true
-            },
-            {
-              "id": "6_1_7",
-              "title": "未来软件园",
-              "href": "https://www.macxz.com/",
-              "description": "Windows/Mac 软件/工具下载站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115124744_www.macxz.com.png",
-              "enabled": true
-            },
-            {
-              "id": "6_1_8",
-              "title": "科研工具资源",
-              "href": "https://www.kdocs.cn/l/cnAPRIBU8qGr",
-              "description": "Windows工具下载。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115114032_www.kdocs.cn.png",
+              "id": "5_2_4",
+              "title": "Thunderstore",
+              "href": "https://thunderstore.io/",
+              "description": "游戏MOD社区。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115106277_thunderstore.io.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "6_2",
-          "title": "视频下载",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "5_3",
+          "title": "NSFW",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "6_2_1",
-              "title": "Y2Down",
-              "href": "https://y2down.cc/zh2L/",
-              "description": "YouTube 视频下载工具。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115132411_y2down.cc.png",
+              "id": "5_3_1",
+              "title": "R34Hub",
+              "href": "https://r34hub.com/",
+              "description": "3D动漫站点(NSFW)。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115101082_r34hub.com.png",
               "enabled": true
             },
             {
-              "id": "6_2_2",
-              "title": "阿发你好",
-              "href": "https://afanihao.cn/",
-              "description": "游戏开发/建模/编程等视频教程入口。",
-              "icon": "https://www.google.com/s2/favicons?domain=afanihao.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_2_3",
-              "title": "阿发你好",
-              "href": "https://afanihao.cn/",
-              "description": "游戏开发/建模/编程等视频教程入口。",
-              "icon": "https://www.google.com/s2/favicons?domain=afanihao.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "6_2_4",
-              "title": "SnapAny",
-              "href": "https://snapany.com/zh",
-              "description": "多平台视频下载/解析工具（注意合规）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115105807_snapany.com.png",
+              "id": "5_3_2",
+              "title": "芯幻-次元",
+              "href": "https://xhacg.cc/",
+              "description": "一个ACG小圈子(NSFW)",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115136099_xhacg.cc.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "6_3",
-          "title": "音频转录",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "5_4",
+          "title": "Switch",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "6_3_1",
-              "title": "Com",
-              "href": "https://www.myfreemp3.com.cn/",
-              "description": "音乐/音频下载网站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115121915_www.myfreemp3.com.cn.png",
+              "id": "5_4_1",
+              "title": "Fourpetal",
+              "href": "https://fourpetal.com/",
+              "description": "Switch 相关资源站/入口。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115130025_www.switch618.com.png",
+              "enabled": true
+            },
+            {
+              "id": "5_4_2",
+              "title": "Switch618",
+              "href": "https://www.switch618.com/",
+              "description": "全网资源最新，更新最快的游戏网站",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115130025_www.switch618.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "6_4",
-          "title": "字幕",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "5_5",
+          "title": "导航/工具",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "6_4_1",
-              "title": "字幕翻译",
-              "href": "https://translate-subtitles.com/zh-CN",
-              "description": "字幕翻译与处理工具站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115089762_downsub.com.png",
+              "id": "5_5_1",
+              "title": "Acgbox",
+              "href": "https://www.acgbox.link/q/zaixianlifan",
+              "description": "ACG盒子，专注ACG的导航盒子，收录二次元相关的网站，打造一个二次元专属的网站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115116210_www.acgbox.link.png",
               "enabled": true
             },
             {
-              "id": "6_4_2",
-              "title": "DownSub",
-              "href": "https://downsub.com/",
-              "description": "在线视频字幕下载工具（SRT/VTT 等）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115089762_downsub.com.png",
+              "id": "5_5_2",
+              "title": "轻句",
+              "href": "https://qingju.vercel.app/",
+              "description": "游戏相关资源/社区/工具站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115100598_itch.io.png",
               "enabled": true
             }
-          ]
-        }
-      ],
-      "description": "字幕、视频下载与音频转录等工具。",
-      "enabled": true
-    },
-    {
-      "id": "7",
-      "title": "网络 & 主机",
-      "icon": "Star",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "7_1",
-          "title": "VPN/机场",
-          "icon": "Folder",
+          ],
+          "subCategories": [],
           "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "7_1_1",
-              "title": "TAG",
-              "href": "https://honven.dedicated-afflink.com/#/user-center",
-              "description": "VPN/代理服务站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115105820_tuijianjichang.github.io.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_2",
-              "title": "语雀",
-              "href": "https://www.yuque.com/dashboard",
-              "description": "知识库/文档协作平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115133080_www.yuque.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_3",
-              "title": "Nonocode",
-              "href": "https://claude.nonocode.cn/user-dashboard",
-              "description": "AI/大模型相关站点（含官方与第三方）。",
-              "icon": "https://www.google.com/s2/favicons?domain=claude.nonocode.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_4",
-              "title": "EEVPN",
-              "href": "https://www.eevpn.com/#/dashboard",
-              "description": "VPN/代理服务站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115115223_www.eevpn.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_5",
-              "title": "机场测速",
-              "href": "https://jichangcesu.com/",
-              "description": "机场测评/测速与教程。",
-              "icon": "https://www.google.com/s2/favicons?domain=jichangcesu.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_1_6",
-              "title": "VPN 推荐",
-              "href": "https://tuijianvpn.com/",
-              "description": "VPN 评测与推荐信息站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115108109_tuijianvpn.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_7",
-              "title": "52BP 机场导航",
-              "href": "https://52bp.org/airport.html",
-              "description": "代理/机场导航与推荐页面。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115077785_52bp.org.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_8",
-              "title": "机场推荐",
-              "href": "https://tuijianjichang.github.io/",
-              "description": "代理/机场导航与推荐页面。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115105820_tuijianjichang.github.io.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_9",
-              "title": "IPRoyal 控制台",
-              "href": "https://dashboard.iproyal.com/",
-              "description": "住宅代理站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115089495_dashboard.iproyal.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_10",
-              "title": "HK-BEUP",
-              "href": "https://st.stga.cn/dashboard",
-              "description": "VPN/代理服务站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115102639_st.stga.cn.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_11",
-              "title": "宝可梦机场",
-              "href": "https://web4.52pokemon.cc/dashboard",
-              "description": "VPN/代理服务站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115113889_web4.52pokemon.cc.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_12",
-              "title": "农夫山泉机场",
-              "href": "https://www.nfsq.us/#/dashboard",
-              "description": "VPN/代理服务站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115105820_tuijianjichang.github.io.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_13",
-              "title": "Webshare",
-              "href": "https://www.webshare.io/",
-              "description": "住宅代理站点。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115129442_www.webshare.io.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_14",
-              "title": "机场推荐",
-              "href": "https://jichangtuijian.com/",
-              "description": "代理/机场推荐与教程。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115099527_jichangtuijian.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_15",
-              "title": "Domain Dashboard",
-              "href": "https://dash.domain.digitalplat.org/",
-              "description": "域名服务管理后台（需登录）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115084940_dash.domain.digitalplat.org.png",
-              "enabled": true
-            },
-            {
-              "id": "7_1_16",
-              "title": "住宅代理",
-              "href": "https://markdown.com.cn/",
-              "description": "在线工具/转换/可视化相关网站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115102921_markdown.com.cn.png",
-              "enabled": true
-            }
-          ]
+          "enabled": true
         },
         {
-          "id": "7_2",
-          "title": "其它",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "5_6",
+          "title": "折扣/激活码",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "7_2_1",
-              "title": "Google Cloud",
-              "href": "https://console.cloud.google.com/",
-              "description": "Google Cloud 管理控制台。",
-              "icon": "https://www.google.com/s2/favicons?domain=console.cloud.google.com&sz=64",
+              "id": "5_6_1",
+              "title": "Greenmangaming",
+              "href": "https://www.greenmangaming.com/",
+              "description": "Steam游戏激活码，特价促销游戏。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115118021_www.greenmangaming.com.png",
               "enabled": true
             },
             {
-              "id": "7_2_2",
-              "title": "Duckcoding",
-              "href": "https://duckcoding.com/console",
-              "description": "网站控制台/后台入口。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115096373_duckcoding.com.png",
+              "id": "5_6_2",
+              "title": "SteamPY",
+              "href": "https://steampy.com/home",
+              "description": "Steam游戏激活码，特价促销游戏。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115108300_steampy.com.png",
               "enabled": true
-            },
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "5_7",
+          "title": "游戏社区/数据库",
+          "icon": "CircleDot",
+          "items": [
             {
-              "id": "7_2_3",
+              "id": "5_7_1",
               "title": "ExG 社区",
               "href": "https://darkrp.cn/",
               "description": "CS2 社区服务器门户/封禁查询。",
@@ -1568,113 +1394,341 @@
               "enabled": true
             },
             {
-              "id": "7_2_4",
-              "title": "Gravatar",
-              "href": "https://gravatar.com/profile",
-              "description": "全网通用头像/个人资料服务。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115092767_gravatar.com.png",
+              "id": "5_7_2",
+              "title": "Metacritic",
+              "href": "https://www.metacritic.com/game/",
+              "description": "寻找你下一个引人入胜的游戏时刻(游戏评分网站)。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115118713_www.metacritic.com.png",
               "enabled": true
             },
             {
-              "id": "7_2_5",
-              "title": "Hybridclr",
-              "href": "https://www.hybridclr.cn/",
-              "description": "云服务/主机相关站点（含控制台）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115120148_www.hybridclr.cn.png",
+              "id": "5_7_3",
+              "title": "Steamdb",
+              "href": "https://steamdb.info/",
+              "description": "第三方Steam数据库网站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115105127_steamdb.info.png",
               "enabled": true
             },
             {
-              "id": "7_2_6",
-              "title": "TCPTest",
-              "href": "https://www.tcptest.cn/",
-              "description": "网站/服务器可用性与性能监测拨测。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115129634_www.tcptest.cn.png",
-              "enabled": true
-            },
-            {
-              "id": "7_2_7",
-              "title": "CF 图床模板",
-              "href": "https://cloudflare.chuhai.tools/",
-              "description": "基于 Cloudflare Pages/Vercel 的开源图床模板。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115090006_cloudflare.chuhai.tools.png",
-              "enabled": true
-            },
-            {
-              "id": "7_2_8",
-              "title": "Cloudflare Cn",
-              "href": "https://www.cloudflare-cn.com/",
-              "description": "云服务/主机相关站点（含控制台）。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115117928_www.cloudflare-cn.com.png",
+              "id": "5_7_4",
+              "title": "网易BUFF",
+              "href": "https://buff.163.com/",
+              "description": "Steam 游戏饰品交易平台（CS2/DOTA2 等）。",
+              "icon": "https://www.google.com/s2/favicons?domain=buff.163.com&sz=64",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "7_3",
-          "title": "域名/注册",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "id": "5_8",
+          "title": "素材/开发资源",
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "7_3_1",
-              "title": "站长工具",
-              "href": "https://www.chinaz.com/",
-              "description": "站长之家：SEO/域名/IP 等工具。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115111057_www.chinaz.com.png",
+              "id": "5_8_1",
+              "title": "Game Icons",
+              "href": "https://game-icons.net/",
+              "description": "游戏图标素材库。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115097616_game-icons.net.png",
               "enabled": true
             },
             {
-              "id": "7_3_2",
-              "title": "Spaceship",
-              "href": "https://www.spaceship.com/zh/domains/",
-              "description": "域名注册与管理平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115127448_www.spaceship.com.png",
+              "id": "5_8_2",
+              "title": "itch.io",
+              "href": "https://itch.io/",
+              "description": "独立游戏发行与开发资源平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115100598_itch.io.png",
               "enabled": true
             },
             {
-              "id": "7_3_3",
-              "title": "哪煮米",
-              "href": "https://www.nazhumi.com/",
-              "description": "域名比价/优惠与注册信息聚合。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115122697_www.nazhumi.com.png",
+              "id": "5_8_3",
+              "title": "Kenney",
+              "href": "https://www.kenney.nl/",
+              "description": "免费/付费游戏素材包。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115122637_www.kenney.nl.png",
+              "enabled": true
+            },
+            {
+              "id": "5_8_4",
+              "title": "OpenGameArt",
+              "href": "https://opengameart.org/",
+              "description": "开源游戏素材资源站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115105503_opengameart.org.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "title": "媒体 & 下载",
+      "icon": "Download",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "6_1",
+          "title": "字幕工具",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "6_1_1",
+              "title": "DownSub",
+              "href": "https://downsub.com/",
+              "description": "在线视频字幕下载工具（SRT/VTT 等）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115089762_downsub.com.png",
+              "enabled": true
+            },
+            {
+              "id": "6_1_2",
+              "title": "字幕翻译",
+              "href": "https://translate-subtitles.com/zh-CN",
+              "description": "字幕翻译与处理工具站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115089762_downsub.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
-          "id": "7_4",
+          "id": "6_2",
+          "title": "影视/在线观看",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "6_2_1",
+              "title": "在线电影",
+              "href": "https://www.555zxdy.com/",
+              "description": "影视资源/在线观看站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115111182_www.555zxdy.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "6_3",
+          "title": "教程/课程视频",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "6_3_1",
+              "title": "阿发你好",
+              "href": "https://afanihao.cn/",
+              "description": "游戏开发/建模/编程等视频教程入口。",
+              "icon": "https://www.google.com/s2/favicons?domain=afanihao.cn&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "6_4",
+          "title": "视频下载/解析",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "6_4_1",
+              "title": "SnapAny",
+              "href": "https://snapany.com/zh",
+              "description": "多平台视频下载/解析工具（注意合规）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115105807_snapany.com.png",
+              "enabled": true
+            },
+            {
+              "id": "6_4_2",
+              "title": "Y2Down",
+              "href": "https://y2down.cc/zh2L/",
+              "description": "YouTube 视频下载工具。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115132411_y2down.cc.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "6_5",
+          "title": "软件/驱动下载",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "6_5_1",
+              "title": "NVIDIA",
+              "href": "https://www.nvidia.cn/drivers/lookup/",
+              "description": "NVIDIA 驱动下载。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115122960_www.nvidia.cn.png",
+              "enabled": true
+            },
+            {
+              "id": "6_5_2",
+              "title": "未来软件园",
+              "href": "https://www.macxz.com/",
+              "description": "Windows/Mac 软件/工具下载站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115124744_www.macxz.com.png",
+              "enabled": true
+            },
+            {
+              "id": "6_5_3",
+              "title": "软仓",
+              "href": "https://www.ruancang.net/",
+              "description": "专业软件资源导航/安装教程（注意版权合规）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115132364_www.ruancang.net.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "6_6",
+          "title": "音频/转录",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "6_6_1",
+              "title": "AudioTranscription",
+              "href": "https://audiotranscription.io/",
+              "description": "AI 音频转文字/字幕转录在线服务。",
+              "icon": "https://www.google.com/s2/favicons?domain=audiotranscription.io&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "6_6_2",
+              "title": "Com",
+              "href": "https://www.myfreemp3.com.cn/",
+              "description": "音乐/音频下载网站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115121915_www.myfreemp3.com.cn.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "7",
+      "title": "网络 & 主机",
+      "icon": "Globe",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "7_1",
+          "title": "VPN/机场",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "7_1_1",
+              "title": "52BP 机场导航",
+              "href": "https://52bp.org/airport.html",
+              "description": "代理/机场导航与推荐页面。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115077785_52bp.org.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_2",
+              "title": "EEVPN",
+              "href": "https://www.eevpn.com/#/dashboard",
+              "description": "VPN/代理服务站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115115223_www.eevpn.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_3",
+              "title": "HK-BEUP",
+              "href": "https://st.stga.cn/dashboard",
+              "description": "VPN/代理服务站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115102639_st.stga.cn.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_4",
+              "title": "TAG",
+              "href": "https://honven.dedicated-afflink.com/#/user-center",
+              "description": "VPN/代理服务站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115105820_tuijianjichang.github.io.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_5",
+              "title": "VPN 推荐",
+              "href": "https://tuijianvpn.com/",
+              "description": "VPN 评测与推荐信息站。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115108109_tuijianvpn.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_6",
+              "title": "农夫山泉机场",
+              "href": "https://www.nfsq.us/#/dashboard",
+              "description": "VPN/代理服务站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115105820_tuijianjichang.github.io.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_7",
+              "title": "宝可梦机场",
+              "href": "https://web4.52pokemon.cc/dashboard",
+              "description": "VPN/代理服务站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115113889_web4.52pokemon.cc.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_8",
+              "title": "机场推荐",
+              "href": "https://jichangtuijian.com/",
+              "description": "代理/机场推荐与教程。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115099527_jichangtuijian.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_9",
+              "title": "机场推荐",
+              "href": "https://tuijianjichang.github.io/",
+              "description": "代理/机场导航与推荐页面。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115105820_tuijianjichang.github.io.png",
+              "enabled": true
+            },
+            {
+              "id": "7_1_10",
+              "title": "机场测速",
+              "href": "https://jichangcesu.com/",
+              "description": "机场测评/测速与教程。",
+              "icon": "https://www.google.com/s2/favicons?domain=jichangcesu.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "7_2",
           "title": "VPS/主机商",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "icon": "CircleDot",
           "items": [
             {
-              "id": "7_4_1",
-              "title": "奶爸建站笔记",
-              "href": "https://blog.naibabiji.com/bestvps",
-              "description": "专业VPS推荐指南。",
-              "icon": "https://www.google.com/s2/favicons?domain=blog.naibabiji.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "7_4_2",
-              "title": "Vps234",
-              "href": "https://www.vps234.com/",
-              "description": "国外VPS、国外服务器、国外虚拟主机推荐。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115131223_www.vps234.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_4_3",
-              "title": "Digvps",
-              "href": "https://digvps.com/",
-              "description": "VPS/主机资讯、测评或库存监控。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115091042_digvps.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_4_4",
+              "id": "7_2_1",
               "title": "BandwagonHost",
               "href": "https://bandwagonhost.com/",
               "description": "搬瓦工 VPS 官方站。",
@@ -1682,55 +1736,23 @@
               "enabled": true
             },
             {
-              "id": "7_4_5",
-              "title": "Vpsls",
-              "href": "https://vpsls.com/",
+              "id": "7_2_2",
+              "title": "Digvps",
+              "href": "https://digvps.com/",
               "description": "VPS/主机资讯、测评或库存监控。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115112400_vpsls.com.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115091042_digvps.com.png",
               "enabled": true
             },
             {
-              "id": "7_4_6",
-              "title": "RackNerd",
-              "href": "https://www.racknerd.com/",
+              "id": "7_2_3",
+              "title": "DMIT",
+              "href": "https://www.dmit.io/clientarea.php",
               "description": "VPS 主机商官网。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115131856_www.racknerd.com.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115118431_www.dmit.io.png",
               "enabled": true
             },
             {
-              "id": "7_4_7",
-              "title": "Hostloc",
-              "href": "https://hostloc.com/",
-              "description": "主机/服务器交流论坛。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115092357_hostloc.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_4_8",
-              "title": "LowEndTalk",
-              "href": "https://lowendtalk.com/",
-              "description": "VPS/主机社区论坛。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115097631_lowendtalk.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_4_9",
-              "title": "LowEndBox",
-              "href": "https://lowendbox.com/",
-              "description": "低价 VPS 资讯与促销。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115100467_lowendbox.com.png",
-              "enabled": true
-            },
-            {
-              "id": "7_4_10",
-              "title": "VPS 促销监控",
-              "href": "https://vps-monitor.czl.net/",
-              "description": "VPS 优惠信息监控/对比。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768117228096_vps-monitor.czl.ico",
-              "enabled": true
-            },
-            {
-              "id": "7_4_11",
+              "id": "7_2_4",
               "title": "HostMonit",
               "href": "https://stock.hostmonit.com/",
               "description": "VPS 库存监控与补货通知。",
@@ -1738,115 +1760,309 @@
               "enabled": true
             },
             {
-              "id": "7_4_12",
-              "title": "DMIT",
-              "href": "https://www.dmit.io/clientarea.php",
+              "id": "7_2_5",
+              "title": "RackNerd",
+              "href": "https://www.racknerd.com/",
               "description": "VPS 主机商官网。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115118431_www.dmit.io.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115131856_www.racknerd.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_2_6",
+              "title": "Vps234",
+              "href": "https://www.vps234.com/",
+              "description": "国外VPS、国外服务器、国外虚拟主机推荐。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115131223_www.vps234.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_2_7",
+              "title": "Vpsls",
+              "href": "https://vpsls.com/",
+              "description": "VPS/主机资讯、测评或库存监控。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115112400_vpsls.com.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "7_3",
+          "title": "云服务/控制台",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "7_3_1",
+              "title": "CF 图床模板",
+              "href": "https://cloudflare.chuhai.tools/",
+              "description": "基于 Cloudflare Pages/Vercel 的开源图床模板。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115090006_cloudflare.chuhai.tools.png",
+              "enabled": true
+            },
+            {
+              "id": "7_3_2",
+              "title": "Cloudflare Cn",
+              "href": "https://www.cloudflare-cn.com/",
+              "description": "云服务/主机相关站点（含控制台）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115117928_www.cloudflare-cn.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_3_3",
+              "title": "Duckcoding",
+              "href": "https://duckcoding.com/console",
+              "description": "网站控制台/后台入口。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115096373_duckcoding.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_3_4",
+              "title": "Google Cloud",
+              "href": "https://console.cloud.google.com/",
+              "description": "Google Cloud 管理控制台。",
+              "icon": "https://www.google.com/s2/favicons?domain=console.cloud.google.com&sz=64",
+              "enabled": true
+            },
+            {
+              "id": "7_3_5",
+              "title": "Hybridclr",
+              "href": "https://www.hybridclr.cn/",
+              "description": "云服务/主机相关站点（含控制台）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115120148_www.hybridclr.cn.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "7_4",
+          "title": "住宅代理",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "7_4_1",
+              "title": "IPRoyal 控制台",
+              "href": "https://dashboard.iproyal.com/",
+              "description": "住宅代理站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115089495_dashboard.iproyal.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_4_2",
+              "title": "Webshare",
+              "href": "https://www.webshare.io/",
+              "description": "住宅代理站点。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115129442_www.webshare.io.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         },
         {
           "id": "7_5",
-          "title": "评测/监控/社区",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "域名/注册",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "7_5_1",
+              "title": "Domain Dashboard",
+              "href": "https://dash.domain.digitalplat.org/",
+              "description": "域名服务管理后台（需登录）。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115084940_dash.domain.digitalplat.org.png",
+              "enabled": true
+            },
+            {
+              "id": "7_5_2",
+              "title": "Spaceship",
+              "href": "https://www.spaceship.com/zh/domains/",
+              "description": "域名注册与管理平台。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115127448_www.spaceship.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_5_3",
+              "title": "哪煮米",
+              "href": "https://www.nazhumi.com/",
+              "description": "域名比价/优惠与注册信息聚合。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115122697_www.nazhumi.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_5_4",
+              "title": "站长工具",
+              "href": "https://www.chinaz.com/",
+              "description": "站长之家：SEO/域名/IP 等工具。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115111057_www.chinaz.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "7_6",
+          "title": "教程/评测",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "7_6_1",
+              "title": "奶爸建站笔记",
+              "href": "https://blog.naibabiji.com/bestvps",
+              "description": "专业VPS推荐指南。",
+              "icon": "https://www.google.com/s2/favicons?domain=blog.naibabiji.com&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "7_7",
+          "title": "监控/库存",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "7_7_1",
               "title": "BWG 库存",
               "href": "https://stock.bwh91.com/",
               "description": "搬瓦工库存/补货监控页面。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115112400_vpsls.com.png",
               "enabled": true
+            },
+            {
+              "id": "7_7_2",
+              "title": "TCPTest",
+              "href": "https://www.tcptest.cn/",
+              "description": "网站/服务器可用性与性能监测拨测。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115129634_www.tcptest.cn.png",
+              "enabled": true
+            },
+            {
+              "id": "7_7_3",
+              "title": "VPS 促销监控",
+              "href": "https://vps-monitor.czl.net/",
+              "description": "VPS 优惠信息监控/对比。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117228096_vps-monitor.czl.ico",
+              "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "7_8",
+          "title": "评测/社区",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "7_8_1",
+              "title": "Hostloc",
+              "href": "https://hostloc.com/",
+              "description": "主机/服务器交流论坛。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115092357_hostloc.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_8_2",
+              "title": "LowEndBox",
+              "href": "https://lowendbox.com/",
+              "description": "低价 VPS 资讯与促销。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115100467_lowendbox.com.png",
+              "enabled": true
+            },
+            {
+              "id": "7_8_3",
+              "title": "LowEndTalk",
+              "href": "https://lowendtalk.com/",
+              "description": "VPS/主机社区论坛。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115097631_lowendtalk.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "7_9",
+          "title": "账号/头像",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "7_9_1",
+              "title": "Gravatar",
+              "href": "https://gravatar.com/profile",
+              "description": "全网通用头像/个人资料服务。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115092767_gravatar.com.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         }
       ],
-      "description": "VPN/机场、VPS/主机、域名与监控社区。",
+      "description": "",
       "enabled": true
     },
     {
       "id": "8",
-      "title": "其它",
-      "icon": "Star",
+      "title": "生活 & 工具",
+      "icon": "MoreHorizontal",
       "items": [],
       "subCategories": [
         {
           "id": "8_1",
-          "title": "其它",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
+          "title": "在线工具",
+          "icon": "CircleDot",
           "items": [
             {
               "id": "8_1_1",
-              "title": "图欧学习",
-              "href": "https://tuostudy.upnb.top/",
-              "description": "网盘学习资源导航/资源库。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115108388_tuostudy.upnb.top.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_2",
-              "title": "开源众包",
-              "href": "https://zb.oschina.net/",
-              "description": "开源中国的众包外包平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115121812_www.oschina.net.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_3",
-              "title": "程序员客栈",
-              "href": "https://www.proginn.com/",
-              "description": "自由职业/外包接单平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115124305_www.proginn.com.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_4",
-              "title": "猿急送",
-              "href": "https://www.yuanjisong.com/",
-              "description": "程序员兼职/外包项目对接平台。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115133774_www.yuanjisong.com.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_5",
-              "title": "Linux Do Check",
-              "href": "https://check.linux.do/",
-              "description": "社区相关的检测/状态页面入口。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115097886_linux.do.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_6",
-              "title": "在线电影",
-              "href": "https://www.555zxdy.com/",
-              "description": "影视资源/在线观看站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115111182_www.555zxdy.com.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_7",
-              "title": "Apache",
-              "href": "https://echarts.apache.org/zh/index.html",
-              "description": "在线工具/转换/可视化相关网站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115093464_echarts.apache.org.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_8",
               "title": "脚本之家工具",
               "href": "https://www.jyshare.com/front-end/6214/#73798c",
               "description": "在线工具/代码工具集合。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115118154_www.jyshare.com.png",
               "enabled": true
-            },
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "8_2",
+          "title": "学习资源",
+          "icon": "CircleDot",
+          "items": [
             {
-              "id": "8_1_9",
+              "id": "8_2_1",
+              "title": "图欧学习",
+              "href": "https://tuostudy.upnb.top/",
+              "description": "网盘学习资源导航/资源库。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115108388_tuostudy.upnb.top.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "8_3",
+          "title": "导航/聚合",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "8_3_1",
               "title": "TBox 导航",
               "href": "https://www.tboxn.com/",
               "description": "在线工具导航站（百宝箱）。",
@@ -1854,31 +2070,7 @@
               "enabled": true
             },
             {
-              "id": "8_1_10",
-              "title": "Chrome 应用商店",
-              "href": "https://chromewebstore.google.com/",
-              "description": "Chrome 扩展商店。",
-              "icon": "https://www.google.com/s2/favicons?domain=chromewebstore.google.com&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_11",
-              "title": "And Color Pro",
-              "href": "https://coor.ooxox.cn/",
-              "description": "体适能/代跑/刷课等服务站点。",
-              "icon": "https://www.google.com/s2/favicons?domain=coor.ooxox.cn&sz=64",
-              "enabled": true
-            },
-            {
-              "id": "8_1_12",
-              "title": "开源中国",
-              "href": "https://www.oschina.net/",
-              "description": "开源社区/资讯与代码托管。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115121812_www.oschina.net.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_13",
+              "id": "8_3_2",
               "title": "柔科导航",
               "href": "https://roukeji.link/",
               "description": "实用网站导航/资源聚合。",
@@ -1886,33 +2078,92 @@
               "enabled": true
             },
             {
-              "id": "8_1_14",
-              "title": "eSIM.gg",
-              "href": "https://esim.gg/lines",
-              "description": "爱沙尼亚 eSIM 套餐开通与管理面板。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115088739_esim.gg.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_15",
+              "id": "8_3_3",
               "title": "科研废物导航",
               "href": "https://www.yanweb.top/",
               "description": "科研工具/文献检索/写作相关导航站。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115129096_www.yanweb.top.png",
               "enabled": true
-            },
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "8_4",
+          "title": "状态/检测",
+          "icon": "CircleDot",
+          "items": [
             {
-              "id": "8_1_16",
+              "id": "8_4_1",
+              "title": "Linux Do Check",
+              "href": "https://check.linux.do/",
+              "description": "社区相关的检测/状态页面入口。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115097886_linux.do.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "8_5",
+          "title": "简历/求职",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "8_5_1",
               "title": "OhMyCV",
               "href": "https://ohmycv.app/zh-cn",
               "description": "在线简历生成/排版工具。",
               "icon": "https://443222.xyz/file/NAV/icon/1768115102483_ohmycv.app.png",
               "enabled": true
             }
-          ]
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "8_6",
+          "title": "通信/eSIM",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "8_6_1",
+              "title": "eSIM.gg",
+              "href": "https://esim.gg/lines",
+              "description": "爱沙尼亚 eSIM 套餐开通与管理面板。",
+              "icon": "https://443222.xyz/file/NAV/icon/1768115088739_esim.gg.png",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
+        },
+        {
+          "id": "8_7",
+          "title": "配色/设计小工具",
+          "icon": "CircleDot",
+          "items": [
+            {
+              "id": "8_7_1",
+              "title": "And Color Pro",
+              "href": "https://coor.ooxox.cn/",
+              "description": "体适能/代跑/刷课等服务站点。",
+              "icon": "https://www.google.com/s2/favicons?domain=coor.ooxox.cn&sz=64",
+              "enabled": true
+            }
+          ],
+          "subCategories": [],
+          "description": "",
+          "enabled": true
         }
       ],
-      "description": "未能自动归类的条目。",
+      "description": "",
       "enabled": true
     }
   ]
