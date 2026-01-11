@@ -18,7 +18,7 @@
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
               "description": "OpenAI 的对话式 AI 助手，支持写作/编程/问答。",
-              "icon": "https://www.google.com/s2/favicons?domain=community.openai.com&sz=64",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117221657_chatgpt.ico",
               "enabled": true
             },
             {
@@ -50,7 +50,7 @@
               "title": "Mermaid Live",
               "href": "https://mermaid.live/",
               "description": "Mermaid 在线编辑与预览分享。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115102267_mermaid.live.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768116713068_mermaid.ico",
               "enabled": true
             },
             {
@@ -261,7 +261,7 @@
               "title": "OpenAI Community",
               "href": "https://community.openai.com/c/chatgpt/",
               "description": "OpenAI 社区论坛。",
-              "icon": "https://www.google.com/s2/favicons?domain=community.openai.com&sz=64",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117221657_chatgpt.ico",
               "enabled": true
             },
             {
@@ -277,7 +277,7 @@
               "title": "MCP Docs",
               "href": "https://mcp-docs.cn/introduction",
               "description": "Model Context Protocol（MCP）中文文档站。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115101295_mcp-docs.cn.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117223399_mcp-docs.ico",
               "enabled": true
             }
           ]
@@ -584,7 +584,7 @@
               "title": "封面生成器",
               "href": "https://cover.zippic.cn/",
               "description": "文章封面图生成与模板编辑。",
-              "icon": "https://www.google.com/s2/favicons?domain=cover.zippic.cn&sz=64",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117220139_cover.zippic.ico",
               "enabled": true
             },
             {
@@ -957,7 +957,7 @@
               "title": "Acg游戏网",
               "href": "https://acgmm.vip/",
               "description": "动漫/漫画/ACG 相关站点。",
-              "icon": "https://www.google.com/s2/favicons?domain=acgmm.vip&sz=64",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117227606_acgmm.ico",
               "enabled": true
             },
             {
@@ -1726,7 +1726,7 @@
               "title": "VPS 促销监控",
               "href": "https://vps-monitor.czl.net/",
               "description": "VPS 优惠信息监控/对比。",
-              "icon": "https://443222.xyz/file/NAV/icon/1768115113543_vps-monitor.czl.net.png",
+              "icon": "https://443222.xyz/file/NAV/icon/1768117228096_vps-monitor.czl.ico",
               "enabled": true
             },
             {
